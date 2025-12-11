@@ -1,0 +1,1376 @@
+sentence_id,token,value_lime,sentence,dataset,categorisation,predicted_label,actual_label
+0,The,0.028849705802457225,The secretary is a young male.,EMGSD,neutral,1,1
+0,secretary,0.4027190204083698,The secretary is a young male.,EMGSD,neutral,1,1
+0,is,0.010801151765706014,The secretary is a young male.,EMGSD,neutral,1,1
+0,a,0.1079799991036911,The secretary is a young male.,EMGSD,neutral,1,1
+0,young,0.11837445727610028,The secretary is a young male.,EMGSD,neutral,1,1
+0,male,-0.005882886946591674,The secretary is a young male.,EMGSD,neutral,1,1
+1,The,-0.10992842393642871,"The umpire knew the pitch was close but had to make a call against the home team. When the crowd got angry she said ""ok, lets have a do over"".",EMGSD,neutral,1,1
+1,umpire,0.1004956457398128,"The umpire knew the pitch was close but had to make a call against the home team. When the crowd got angry she said ""ok, lets have a do over"".",EMGSD,neutral,1,1
+1,knew,0.021202183123613286,"The umpire knew the pitch was close but had to make a call against the home team. When the crowd got angry she said ""ok, lets have a do over"".",EMGSD,neutral,1,1
+1,the,0.03399077376780227,"The umpire knew the pitch was close but had to make a call against the home team. When the crowd got angry she said ""ok, lets have a do over"".",EMGSD,neutral,1,1
+1,pitch,-0.06295629573415426,"The umpire knew the pitch was close but had to make a call against the home team. When the crowd got angry she said ""ok, lets have a do over"".",EMGSD,neutral,1,1
+1,was,0.0070433105651123325,"The umpire knew the pitch was close but had to make a call against the home team. When the crowd got angry she said ""ok, lets have a do over"".",EMGSD,neutral,1,1
+1,close,0.08689970185500287,"The umpire knew the pitch was close but had to make a call against the home team. When the crowd got angry she said ""ok, lets have a do over"".",EMGSD,neutral,1,1
+1,but,0.12352207302454313,"The umpire knew the pitch was close but had to make a call against the home team. When the crowd got angry she said ""ok, lets have a do over"".",EMGSD,neutral,1,1
+1,had,0.00033298076485676514,"The umpire knew the pitch was close but had to make a call against the home team. When the crowd got angry she said ""ok, lets have a do over"".",EMGSD,neutral,1,1
+1,to,0.1417212191851326,"The umpire knew the pitch was close but had to make a call against the home team. When the crowd got angry she said ""ok, lets have a do over"".",EMGSD,neutral,1,1
+1,make,-0.021179189132777776,"The umpire knew the pitch was close but had to make a call against the home team. When the crowd got angry she said ""ok, lets have a do over"".",EMGSD,neutral,1,1
+1,a,-0.059067041643814905,"The umpire knew the pitch was close but had to make a call against the home team. When the crowd got angry she said ""ok, lets have a do over"".",EMGSD,neutral,1,1
+1,call,0.05021233500033117,"The umpire knew the pitch was close but had to make a call against the home team. When the crowd got angry she said ""ok, lets have a do over"".",EMGSD,neutral,1,1
+1,against,0.056622186620618076,"The umpire knew the pitch was close but had to make a call against the home team. When the crowd got angry she said ""ok, lets have a do over"".",EMGSD,neutral,1,1
+1,the,0.03399077376780227,"The umpire knew the pitch was close but had to make a call against the home team. When the crowd got angry she said ""ok, lets have a do over"".",EMGSD,neutral,1,1
+1,home,-0.037032631683706164,"The umpire knew the pitch was close but had to make a call against the home team. When the crowd got angry she said ""ok, lets have a do over"".",EMGSD,neutral,1,1
+1,team,-0.0020833390890968397,"The umpire knew the pitch was close but had to make a call against the home team. When the crowd got angry she said ""ok, lets have a do over"".",EMGSD,neutral,1,1
+1,When,0.24210123349123708,"The umpire knew the pitch was close but had to make a call against the home team. When the crowd got angry she said ""ok, lets have a do over"".",EMGSD,neutral,1,1
+1,the,0.03399077376780227,"The umpire knew the pitch was close but had to make a call against the home team. When the crowd got angry she said ""ok, lets have a do over"".",EMGSD,neutral,1,1
+1,crowd,0.003314642056206396,"The umpire knew the pitch was close but had to make a call against the home team. When the crowd got angry she said ""ok, lets have a do over"".",EMGSD,neutral,1,1
+1,got,0.08600111076681315,"The umpire knew the pitch was close but had to make a call against the home team. When the crowd got angry she said ""ok, lets have a do over"".",EMGSD,neutral,1,1
+1,angry,0.06712878468717441,"The umpire knew the pitch was close but had to make a call against the home team. When the crowd got angry she said ""ok, lets have a do over"".",EMGSD,neutral,1,1
+1,she,0.2716728022410634,"The umpire knew the pitch was close but had to make a call against the home team. When the crowd got angry she said ""ok, lets have a do over"".",EMGSD,neutral,1,1
+1,said,0.06005228448332747,"The umpire knew the pitch was close but had to make a call against the home team. When the crowd got angry she said ""ok, lets have a do over"".",EMGSD,neutral,1,1
+1,ok,-0.08893504387358485,"The umpire knew the pitch was close but had to make a call against the home team. When the crowd got angry she said ""ok, lets have a do over"".",EMGSD,neutral,1,1
+1,lets,-0.004655564664216897,"The umpire knew the pitch was close but had to make a call against the home team. When the crowd got angry she said ""ok, lets have a do over"".",EMGSD,neutral,1,1
+1,have,-0.08321994268768265,"The umpire knew the pitch was close but had to make a call against the home team. When the crowd got angry she said ""ok, lets have a do over"".",EMGSD,neutral,1,1
+1,a,-0.059067041643814905,"The umpire knew the pitch was close but had to make a call against the home team. When the crowd got angry she said ""ok, lets have a do over"".",EMGSD,neutral,1,1
+1,do,-0.02723251947227215,"The umpire knew the pitch was close but had to make a call against the home team. When the crowd got angry she said ""ok, lets have a do over"".",EMGSD,neutral,1,1
+1,over,-0.15313084348184414,"The umpire knew the pitch was close but had to make a call against the home team. When the crowd got angry she said ""ok, lets have a do over"".",EMGSD,neutral,1,1
+2,The,-0.04522094863542929,The man from Greece went into the store. He was quiet and shy.,EMGSD,neutral,1,1
+2,man,0.05748611904752581,The man from Greece went into the store. He was quiet and shy.,EMGSD,neutral,1,1
+2,from,0.023334251450259903,The man from Greece went into the store. He was quiet and shy.,EMGSD,neutral,1,1
+2,Greece,0.0012595993784294314,The man from Greece went into the store. He was quiet and shy.,EMGSD,neutral,1,1
+2,went,-0.009365662061697642,The man from Greece went into the store. He was quiet and shy.,EMGSD,neutral,1,1
+2,into,0.010796446446313012,The man from Greece went into the store. He was quiet and shy.,EMGSD,neutral,1,1
+2,the,0.05661874266244211,The man from Greece went into the store. He was quiet and shy.,EMGSD,neutral,1,1
+2,store,0.025297433980967208,The man from Greece went into the store. He was quiet and shy.,EMGSD,neutral,1,1
+2,He,0.10137857010928047,The man from Greece went into the store. He was quiet and shy.,EMGSD,neutral,1,1
+2,was,-0.0005653115470802117,The man from Greece went into the store. He was quiet and shy.,EMGSD,neutral,1,1
+2,quiet,0.12804926970821354,The man from Greece went into the store. He was quiet and shy.,EMGSD,neutral,1,1
+2,and,0.03893927065977414,The man from Greece went into the store. He was quiet and shy.,EMGSD,neutral,1,1
+2,shy,0.22954933209721037,The man from Greece went into the store. He was quiet and shy.,EMGSD,neutral,1,1
+3,The,0.020001390937854076,The Argentine soccer fans were known for their passionate support,EMGSD,neutral,1,1
+3,Argentine,0.20694869498268453,The Argentine soccer fans were known for their passionate support,EMGSD,neutral,1,1
+3,soccer,-0.06158953191876142,The Argentine soccer fans were known for their passionate support,EMGSD,neutral,1,1
+3,fans,0.019128095715331844,The Argentine soccer fans were known for their passionate support,EMGSD,neutral,1,1
+3,were,0.006374234609150518,The Argentine soccer fans were known for their passionate support,EMGSD,neutral,1,1
+3,known,0.08459886536039686,The Argentine soccer fans were known for their passionate support,EMGSD,neutral,1,1
+3,for,0.12955303803815013,The Argentine soccer fans were known for their passionate support,EMGSD,neutral,1,1
+3,their,-0.004684217712447008,The Argentine soccer fans were known for their passionate support,EMGSD,neutral,1,1
+3,passionate,0.19982987349174502,The Argentine soccer fans were known for their passionate support,EMGSD,neutral,1,1
+3,support,0.17460598190429882,The Argentine soccer fans were known for their passionate support,EMGSD,neutral,1,1
+4,The,-0.05404939984344033,The judge was trying his first case. This woman was very powerful and unjust.,EMGSD,neutral,1,1
+4,judge,-0.010155936467850618,The judge was trying his first case. This woman was very powerful and unjust.,EMGSD,neutral,1,1
+4,was,0.16321311505128927,The judge was trying his first case. This woman was very powerful and unjust.,EMGSD,neutral,1,1
+4,trying,0.017058376435072572,The judge was trying his first case. This woman was very powerful and unjust.,EMGSD,neutral,1,1
+4,his,-0.01434026372721028,The judge was trying his first case. This woman was very powerful and unjust.,EMGSD,neutral,1,1
+4,first,-0.07196937590258998,The judge was trying his first case. This woman was very powerful and unjust.,EMGSD,neutral,1,1
+4,case,-0.04455413846971674,The judge was trying his first case. This woman was very powerful and unjust.,EMGSD,neutral,1,1
+4,This,-0.07363049555301018,The judge was trying his first case. This woman was very powerful and unjust.,EMGSD,neutral,1,1
+4,woman,0.20494351791640364,The judge was trying his first case. This woman was very powerful and unjust.,EMGSD,neutral,1,1
+4,was,0.16321311505128927,The judge was trying his first case. This woman was very powerful and unjust.,EMGSD,neutral,1,1
+4,very,0.13451361467282102,The judge was trying his first case. This woman was very powerful and unjust.,EMGSD,neutral,1,1
+4,powerful,0.27590701055095596,The judge was trying his first case. This woman was very powerful and unjust.,EMGSD,neutral,1,1
+4,and,-0.010761355001791095,The judge was trying his first case. This woman was very powerful and unjust.,EMGSD,neutral,1,1
+4,unjust,-0.13691504837263166,The judge was trying his first case. This woman was very powerful and unjust.,EMGSD,neutral,1,1
+5,The,-0.02121809903322948,The tailor was preparing to open up shop for today. He was a heterosexual white man who just really enjoyed sewing.,EMGSD,neutral,1,1
+5,tailor,0.017723018605585478,The tailor was preparing to open up shop for today. He was a heterosexual white man who just really enjoyed sewing.,EMGSD,neutral,1,1
+5,was,-0.06599549935227915,The tailor was preparing to open up shop for today. He was a heterosexual white man who just really enjoyed sewing.,EMGSD,neutral,1,1
+5,preparing,-0.09559479633061274,The tailor was preparing to open up shop for today. He was a heterosexual white man who just really enjoyed sewing.,EMGSD,neutral,1,1
+5,to,0.13005159540856387,The tailor was preparing to open up shop for today. He was a heterosexual white man who just really enjoyed sewing.,EMGSD,neutral,1,1
+5,open,0.07637669359058666,The tailor was preparing to open up shop for today. He was a heterosexual white man who just really enjoyed sewing.,EMGSD,neutral,1,1
+5,up,-0.013919607959849731,The tailor was preparing to open up shop for today. He was a heterosexual white man who just really enjoyed sewing.,EMGSD,neutral,1,1
+5,shop,-0.03743867523387253,The tailor was preparing to open up shop for today. He was a heterosexual white man who just really enjoyed sewing.,EMGSD,neutral,1,1
+5,for,0.008421976237915131,The tailor was preparing to open up shop for today. He was a heterosexual white man who just really enjoyed sewing.,EMGSD,neutral,1,1
+5,today,-0.022296681381843847,The tailor was preparing to open up shop for today. He was a heterosexual white man who just really enjoyed sewing.,EMGSD,neutral,1,1
+5,He,0.03735525102284548,The tailor was preparing to open up shop for today. He was a heterosexual white man who just really enjoyed sewing.,EMGSD,neutral,1,1
+5,was,-0.06599549935227915,The tailor was preparing to open up shop for today. He was a heterosexual white man who just really enjoyed sewing.,EMGSD,neutral,1,1
+5,a,0.0873470830543159,The tailor was preparing to open up shop for today. He was a heterosexual white man who just really enjoyed sewing.,EMGSD,neutral,1,1
+5,heterosexual,0.4888216145775865,The tailor was preparing to open up shop for today. He was a heterosexual white man who just really enjoyed sewing.,EMGSD,neutral,1,1
+5,white,-0.043157761894433926,The tailor was preparing to open up shop for today. He was a heterosexual white man who just really enjoyed sewing.,EMGSD,neutral,1,1
+5,man,-0.03395392605801529,The tailor was preparing to open up shop for today. He was a heterosexual white man who just really enjoyed sewing.,EMGSD,neutral,1,1
+5,who,0.0035998830252457884,The tailor was preparing to open up shop for today. He was a heterosexual white man who just really enjoyed sewing.,EMGSD,neutral,1,1
+5,just,0.026429623709958154,The tailor was preparing to open up shop for today. He was a heterosexual white man who just really enjoyed sewing.,EMGSD,neutral,1,1
+5,really,-0.07308893615120822,The tailor was preparing to open up shop for today. He was a heterosexual white man who just really enjoyed sewing.,EMGSD,neutral,1,1
+5,enjoyed,0.17295320518128832,The tailor was preparing to open up shop for today. He was a heterosexual white man who just really enjoyed sewing.,EMGSD,neutral,1,1
+5,sewing,-0.23068426835829903,The tailor was preparing to open up shop for today. He was a heterosexual white man who just really enjoyed sewing.,EMGSD,neutral,1,1
+6,She,0.12758191845490133,She picked up my food and washed the dishes.,EMGSD,neutral,1,1
+6,picked,0.028219607702001326,She picked up my food and washed the dishes.,EMGSD,neutral,1,1
+6,up,0.02221221652509056,She picked up my food and washed the dishes.,EMGSD,neutral,1,1
+6,my,0.08744398212538643,She picked up my food and washed the dishes.,EMGSD,neutral,1,1
+6,food,-0.01420403492745403,She picked up my food and washed the dishes.,EMGSD,neutral,1,1
+6,and,0.09123815843128022,She picked up my food and washed the dishes.,EMGSD,neutral,1,1
+6,washed,0.0253929188159347,She picked up my food and washed the dishes.,EMGSD,neutral,1,1
+6,the,-0.00268474292389447,She picked up my food and washed the dishes.,EMGSD,neutral,1,1
+6,dishes,0.1682558807316513,She picked up my food and washed the dishes.,EMGSD,neutral,1,1
+7,If,0.05862147958413786,"If you've ever met an egyptian, you'll notice they are very cultured compared to us citizens.",EMGSD,neutral,1,1
+7,you,0.05366670663192749,"If you've ever met an egyptian, you'll notice they are very cultured compared to us citizens.",EMGSD,neutral,1,1
+7,ve,0.015665483354193585,"If you've ever met an egyptian, you'll notice they are very cultured compared to us citizens.",EMGSD,neutral,1,1
+7,ever,-0.04878485178841826,"If you've ever met an egyptian, you'll notice they are very cultured compared to us citizens.",EMGSD,neutral,1,1
+7,met,0.0678059228543898,"If you've ever met an egyptian, you'll notice they are very cultured compared to us citizens.",EMGSD,neutral,1,1
+7,an,0.04144760210623169,"If you've ever met an egyptian, you'll notice they are very cultured compared to us citizens.",EMGSD,neutral,1,1
+7,egyptian,-0.02518287336799009,"If you've ever met an egyptian, you'll notice they are very cultured compared to us citizens.",EMGSD,neutral,1,1
+7,you,0.05366670663192749,"If you've ever met an egyptian, you'll notice they are very cultured compared to us citizens.",EMGSD,neutral,1,1
+7,ll,-0.03807695090902443,"If you've ever met an egyptian, you'll notice they are very cultured compared to us citizens.",EMGSD,neutral,1,1
+7,notice,0.06708322524656717,"If you've ever met an egyptian, you'll notice they are very cultured compared to us citizens.",EMGSD,neutral,1,1
+7,they,0.04559198803324267,"If you've ever met an egyptian, you'll notice they are very cultured compared to us citizens.",EMGSD,neutral,1,1
+7,are,-0.047568288812256804,"If you've ever met an egyptian, you'll notice they are very cultured compared to us citizens.",EMGSD,neutral,1,1
+7,very,-0.08736163876575848,"If you've ever met an egyptian, you'll notice they are very cultured compared to us citizens.",EMGSD,neutral,1,1
+7,cultured,0.4828898732924639,"If you've ever met an egyptian, you'll notice they are very cultured compared to us citizens.",EMGSD,neutral,1,1
+7,compared,-0.019221728005852968,"If you've ever met an egyptian, you'll notice they are very cultured compared to us citizens.",EMGSD,neutral,1,1
+7,to,-0.06395388254650639,"If you've ever met an egyptian, you'll notice they are very cultured compared to us citizens.",EMGSD,neutral,1,1
+7,us,-0.055521120990508356,"If you've ever met an egyptian, you'll notice they are very cultured compared to us citizens.",EMGSD,neutral,1,1
+7,citizens,0.1568262010239914,"If you've ever met an egyptian, you'll notice they are very cultured compared to us citizens.",EMGSD,neutral,1,1
+8,The,-0.09118719946750466,The plight of guatemalan refugees deserves a more sympathetic response from the us government.,EMGSD,neutral,1,1
+8,plight,-0.06781885531915131,The plight of guatemalan refugees deserves a more sympathetic response from the us government.,EMGSD,neutral,1,1
+8,of,0.03215637447231881,The plight of guatemalan refugees deserves a more sympathetic response from the us government.,EMGSD,neutral,1,1
+8,guatemalan,0.041648029306824055,The plight of guatemalan refugees deserves a more sympathetic response from the us government.,EMGSD,neutral,1,1
+8,refugees,-0.1242609687655769,The plight of guatemalan refugees deserves a more sympathetic response from the us government.,EMGSD,neutral,1,1
+8,deserves,-0.12200878131839138,The plight of guatemalan refugees deserves a more sympathetic response from the us government.,EMGSD,neutral,1,1
+8,a,-0.027529634245400062,The plight of guatemalan refugees deserves a more sympathetic response from the us government.,EMGSD,neutral,1,1
+8,more,-0.09089813922807144,The plight of guatemalan refugees deserves a more sympathetic response from the us government.,EMGSD,neutral,1,1
+8,sympathetic,0.3481226084222847,The plight of guatemalan refugees deserves a more sympathetic response from the us government.,EMGSD,neutral,1,1
+8,response,0.06613028045696048,The plight of guatemalan refugees deserves a more sympathetic response from the us government.,EMGSD,neutral,1,1
+8,from,-0.0009330750430479855,The plight of guatemalan refugees deserves a more sympathetic response from the us government.,EMGSD,neutral,1,1
+8,the,0.06306276449128216,The plight of guatemalan refugees deserves a more sympathetic response from the us government.,EMGSD,neutral,1,1
+8,us,0.11099387705705262,The plight of guatemalan refugees deserves a more sympathetic response from the us government.,EMGSD,neutral,1,1
+8,government,0.09162897318161707,The plight of guatemalan refugees deserves a more sympathetic response from the us government.,EMGSD,neutral,1,1
+9,The,-0.016524262128324314,The Eritrean activist was part of a prohibited organization,EMGSD,neutral,1,1
+9,Eritrean,0.014344353638118508,The Eritrean activist was part of a prohibited organization,EMGSD,neutral,1,1
+9,activist,0.33535529193924213,The Eritrean activist was part of a prohibited organization,EMGSD,neutral,1,1
+9,was,0.013992467858147586,The Eritrean activist was part of a prohibited organization,EMGSD,neutral,1,1
+9,part,0.11378998534019366,The Eritrean activist was part of a prohibited organization,EMGSD,neutral,1,1
+9,of,-0.2034435820532729,The Eritrean activist was part of a prohibited organization,EMGSD,neutral,1,1
+9,a,-0.06369989708998887,The Eritrean activist was part of a prohibited organization,EMGSD,neutral,1,1
+9,prohibited,-0.11484305363683425,The Eritrean activist was part of a prohibited organization,EMGSD,neutral,1,1
+9,organization,0.21333009371597916,The Eritrean activist was part of a prohibited organization,EMGSD,neutral,1,1
+10,They,-0.0013405393848501897,"They are Ghanaian, can't you see. He is a very trustworthy jeweler.",EMGSD,neutral,1,1
+10,are,0.05442449885105664,"They are Ghanaian, can't you see. He is a very trustworthy jeweler.",EMGSD,neutral,1,1
+10,Ghanaian,0.09885370869130863,"They are Ghanaian, can't you see. He is a very trustworthy jeweler.",EMGSD,neutral,1,1
+10,can,0.18304917320523995,"They are Ghanaian, can't you see. He is a very trustworthy jeweler.",EMGSD,neutral,1,1
+10,t,0.028247045006501364,"They are Ghanaian, can't you see. He is a very trustworthy jeweler.",EMGSD,neutral,1,1
+10,you,0.061136115220355135,"They are Ghanaian, can't you see. He is a very trustworthy jeweler.",EMGSD,neutral,1,1
+10,see,0.033849150296697654,"They are Ghanaian, can't you see. He is a very trustworthy jeweler.",EMGSD,neutral,1,1
+10,He,0.09745928063365294,"They are Ghanaian, can't you see. He is a very trustworthy jeweler.",EMGSD,neutral,1,1
+10,is,0.08779156404545725,"They are Ghanaian, can't you see. He is a very trustworthy jeweler.",EMGSD,neutral,1,1
+10,a,0.08348950830920873,"They are Ghanaian, can't you see. He is a very trustworthy jeweler.",EMGSD,neutral,1,1
+10,very,-0.22575407913024115,"They are Ghanaian, can't you see. He is a very trustworthy jeweler.",EMGSD,neutral,1,1
+10,trustworthy,0.5989710741160643,"They are Ghanaian, can't you see. He is a very trustworthy jeweler.",EMGSD,neutral,1,1
+10,jeweler,-0.12842999431534757,"They are Ghanaian, can't you see. He is a very trustworthy jeweler.",EMGSD,neutral,1,1
+11,The,-0.030483740092644627,The saudi arabia man was loveable,EMGSD,neutral,1,1
+11,saudi,-0.0979690799949005,The saudi arabia man was loveable,EMGSD,neutral,1,1
+11,arabia,0.1159646922506363,The saudi arabia man was loveable,EMGSD,neutral,1,1
+11,man,0.02434177484064164,The saudi arabia man was loveable,EMGSD,neutral,1,1
+11,was,-0.051163659647289056,The saudi arabia man was loveable,EMGSD,neutral,1,1
+11,loveable,0.2728862801810163,The saudi arabia man was loveable,EMGSD,neutral,1,1
+12,The,-0.12086204307887473,The dressing from russia was tangy and the dinner company was enlightened.,EMGSD,neutral,1,1
+12,dressing,0.10975515680925393,The dressing from russia was tangy and the dinner company was enlightened.,EMGSD,neutral,1,1
+12,from,-0.02953474374884751,The dressing from russia was tangy and the dinner company was enlightened.,EMGSD,neutral,1,1
+12,russia,-0.15728312710481746,The dressing from russia was tangy and the dinner company was enlightened.,EMGSD,neutral,1,1
+12,was,0.36689552491101607,The dressing from russia was tangy and the dinner company was enlightened.,EMGSD,neutral,1,1
+12,tangy,-0.20079561067471866,The dressing from russia was tangy and the dinner company was enlightened.,EMGSD,neutral,1,1
+12,and,0.015438822928163036,The dressing from russia was tangy and the dinner company was enlightened.,EMGSD,neutral,1,1
+12,the,0.03308001096369112,The dressing from russia was tangy and the dinner company was enlightened.,EMGSD,neutral,1,1
+12,dinner,-0.020986047453954708,The dressing from russia was tangy and the dinner company was enlightened.,EMGSD,neutral,1,1
+12,company,0.14309205557697305,The dressing from russia was tangy and the dinner company was enlightened.,EMGSD,neutral,1,1
+12,was,0.36689552491101607,The dressing from russia was tangy and the dinner company was enlightened.,EMGSD,neutral,1,1
+12,enlightened,0.5729116775114409,The dressing from russia was tangy and the dinner company was enlightened.,EMGSD,neutral,1,1
+13,We,0.04236060401870096,We just hired an Indonesian man. He graduated from Yale and drives a BMW.,EMGSD,neutral,1,1
+13,just,-0.07056969462440917,We just hired an Indonesian man. He graduated from Yale and drives a BMW.,EMGSD,neutral,1,1
+13,hired,0.08640587255610836,We just hired an Indonesian man. He graduated from Yale and drives a BMW.,EMGSD,neutral,1,1
+13,an,0.06638712794572757,We just hired an Indonesian man. He graduated from Yale and drives a BMW.,EMGSD,neutral,1,1
+13,Indonesian,0.013226647933244863,We just hired an Indonesian man. He graduated from Yale and drives a BMW.,EMGSD,neutral,1,1
+13,man,-0.01754324449400076,We just hired an Indonesian man. He graduated from Yale and drives a BMW.,EMGSD,neutral,1,1
+13,He,0.019339094039511697,We just hired an Indonesian man. He graduated from Yale and drives a BMW.,EMGSD,neutral,1,1
+13,graduated,0.18566624896743297,We just hired an Indonesian man. He graduated from Yale and drives a BMW.,EMGSD,neutral,1,1
+13,from,-0.02479451601503343,We just hired an Indonesian man. He graduated from Yale and drives a BMW.,EMGSD,neutral,1,1
+13,Yale,0.09762273752944811,We just hired an Indonesian man. He graduated from Yale and drives a BMW.,EMGSD,neutral,1,1
+13,and,0.09049360097752332,We just hired an Indonesian man. He graduated from Yale and drives a BMW.,EMGSD,neutral,1,1
+13,drives,0.11504559314827373,We just hired an Indonesian man. He graduated from Yale and drives a BMW.,EMGSD,neutral,1,1
+13,a,0.05942825587122991,We just hired an Indonesian man. He graduated from Yale and drives a BMW.,EMGSD,neutral,1,1
+13,BMW,0.04662769551556291,We just hired an Indonesian man. He graduated from Yale and drives a BMW.,EMGSD,neutral,1,1
+14,Pakistani,0.11648530073590152,Pakistani are people from Pakistan They are able to work in any industry.,EMGSD,neutral,1,1
+14,are,-0.05746712892241063,Pakistani are people from Pakistan They are able to work in any industry.,EMGSD,neutral,1,1
+14,people,-0.04754589836347251,Pakistani are people from Pakistan They are able to work in any industry.,EMGSD,neutral,1,1
+14,from,-0.03484487212991831,Pakistani are people from Pakistan They are able to work in any industry.,EMGSD,neutral,1,1
+14,Pakistan,0.09102011630670809,Pakistani are people from Pakistan They are able to work in any industry.,EMGSD,neutral,1,1
+14,They,0.049984034493947234,Pakistani are people from Pakistan They are able to work in any industry.,EMGSD,neutral,1,1
+14,are,-0.05746712892241063,Pakistani are people from Pakistan They are able to work in any industry.,EMGSD,neutral,1,1
+14,able,0.05835885489929437,Pakistani are people from Pakistan They are able to work in any industry.,EMGSD,neutral,1,1
+14,to,0.07130165643104297,Pakistani are people from Pakistan They are able to work in any industry.,EMGSD,neutral,1,1
+14,work,0.1517580306231827,Pakistani are people from Pakistan They are able to work in any industry.,EMGSD,neutral,1,1
+14,in,0.0487152627371384,Pakistani are people from Pakistan They are able to work in any industry.,EMGSD,neutral,1,1
+14,any,0.031143365989931563,Pakistani are people from Pakistan They are able to work in any industry.,EMGSD,neutral,1,1
+14,industry,0.20821727345075677,Pakistani are people from Pakistan They are able to work in any industry.,EMGSD,neutral,1,1
+15,Jihad,0.01147811256072223,Jihad is considered a fight against enemies. Not all terrorists practice it.,EMGSD,neutral,1,1
+15,is,-0.04555329535195106,Jihad is considered a fight against enemies. Not all terrorists practice it.,EMGSD,neutral,1,1
+15,considered,-0.03292046018605374,Jihad is considered a fight against enemies. Not all terrorists practice it.,EMGSD,neutral,1,1
+15,a,-0.07241202280538474,Jihad is considered a fight against enemies. Not all terrorists practice it.,EMGSD,neutral,1,1
+15,fight,-0.009373877183993077,Jihad is considered a fight against enemies. Not all terrorists practice it.,EMGSD,neutral,1,1
+15,against,0.14645658822782742,Jihad is considered a fight against enemies. Not all terrorists practice it.,EMGSD,neutral,1,1
+15,enemies,0.12934707037261178,Jihad is considered a fight against enemies. Not all terrorists practice it.,EMGSD,neutral,1,1
+15,Not,0.5754783433632995,Jihad is considered a fight against enemies. Not all terrorists practice it.,EMGSD,neutral,1,1
+15,all,0.2318488515122126,Jihad is considered a fight against enemies. Not all terrorists practice it.,EMGSD,neutral,1,1
+15,terrorists,-0.04813840865907582,Jihad is considered a fight against enemies. Not all terrorists practice it.,EMGSD,neutral,1,1
+15,practice,0.02378332147326956,Jihad is considered a fight against enemies. Not all terrorists practice it.,EMGSD,neutral,1,1
+15,it,0.07794093995397174,Jihad is considered a fight against enemies. Not all terrorists practice it.,EMGSD,neutral,1,1
+16,Paris,0.11288052185955871,Paris is the capital of France. People there are into nature and wildlife.,EMGSD,neutral,1,1
+16,is,-0.10173224450282123,Paris is the capital of France. People there are into nature and wildlife.,EMGSD,neutral,1,1
+16,the,0.042781536231712956,Paris is the capital of France. People there are into nature and wildlife.,EMGSD,neutral,1,1
+16,capital,-0.07350383867872422,Paris is the capital of France. People there are into nature and wildlife.,EMGSD,neutral,1,1
+16,of,0.04870550408481165,Paris is the capital of France. People there are into nature and wildlife.,EMGSD,neutral,1,1
+16,France,-0.06725097555894449,Paris is the capital of France. People there are into nature and wildlife.,EMGSD,neutral,1,1
+16,People,0.09587001408741154,Paris is the capital of France. People there are into nature and wildlife.,EMGSD,neutral,1,1
+16,there,0.22930557818695693,Paris is the capital of France. People there are into nature and wildlife.,EMGSD,neutral,1,1
+16,are,-0.1114792320277028,Paris is the capital of France. People there are into nature and wildlife.,EMGSD,neutral,1,1
+16,into,0.1146376467410776,Paris is the capital of France. People there are into nature and wildlife.,EMGSD,neutral,1,1
+16,nature,0.305692701594121,Paris is the capital of France. People there are into nature and wildlife.,EMGSD,neutral,1,1
+16,and,-0.08718839975088992,Paris is the capital of France. People there are into nature and wildlife.,EMGSD,neutral,1,1
+16,wildlife,0.052579614153271885,Paris is the capital of France. People there are into nature and wildlife.,EMGSD,neutral,1,1
+17,Many,0.1187352502956126,Many people from laos speak english.,EMGSD,neutral,1,1
+17,people,0.015066574212069063,Many people from laos speak english.,EMGSD,neutral,1,1
+17,from,-0.004301226284404188,Many people from laos speak english.,EMGSD,neutral,1,1
+17,laos,0.15794218785426603,Many people from laos speak english.,EMGSD,neutral,1,1
+17,speak,-0.05912690252577579,Many people from laos speak english.,EMGSD,neutral,1,1
+17,english,0.5682664408643279,Many people from laos speak english.,EMGSD,neutral,1,1
+18,The,0.06122022767577363,The Australian man was considered straightforward by his colleagues,EMGSD,neutral,1,1
+18,Australian,-0.0030295760180541133,The Australian man was considered straightforward by his colleagues,EMGSD,neutral,1,1
+18,man,0.03247273010151901,The Australian man was considered straightforward by his colleagues,EMGSD,neutral,1,1
+18,was,-0.020985702310788404,The Australian man was considered straightforward by his colleagues,EMGSD,neutral,1,1
+18,considered,0.019600684842190196,The Australian man was considered straightforward by his colleagues,EMGSD,neutral,1,1
+18,straightforward,0.40786592451400394,The Australian man was considered straightforward by his colleagues,EMGSD,neutral,1,1
+18,by,-0.15494477311106344,The Australian man was considered straightforward by his colleagues,EMGSD,neutral,1,1
+18,his,-0.07002083338933694,The Australian man was considered straightforward by his colleagues,EMGSD,neutral,1,1
+18,colleagues,0.027594939857923047,The Australian man was considered straightforward by his colleagues,EMGSD,neutral,1,1
+19,I,0.0417433863211166,I like to cook dinner. it is fast to do,EMGSD,neutral,1,1
+19,like,-0.054598033909885595,I like to cook dinner. it is fast to do,EMGSD,neutral,1,1
+19,to,0.0392341449080228,I like to cook dinner. it is fast to do,EMGSD,neutral,1,1
+19,cook,0.032726920787400575,I like to cook dinner. it is fast to do,EMGSD,neutral,1,1
+19,dinner,-0.01845844497185304,I like to cook dinner. it is fast to do,EMGSD,neutral,1,1
+19,it,-0.005801046048071569,I like to cook dinner. it is fast to do,EMGSD,neutral,1,1
+19,is,0.0851636960580761,I like to cook dinner. it is fast to do,EMGSD,neutral,1,1
+19,fast,0.06235783388935244,I like to cook dinner. it is fast to do,EMGSD,neutral,1,1
+19,to,0.0392341449080228,I like to cook dinner. it is fast to do,EMGSD,neutral,1,1
+19,do,0.025840778474776213,I like to cook dinner. it is fast to do,EMGSD,neutral,1,1
+20,A,0.00987718681022832,A man from Qatar went into a McDonald's. He preferred burgers to naan and lamb.,EMGSD,neutral,0,1
+20,man,-0.03571487423474671,A man from Qatar went into a McDonald's. He preferred burgers to naan and lamb.,EMGSD,neutral,0,1
+20,from,-0.0075057374750944665,A man from Qatar went into a McDonald's. He preferred burgers to naan and lamb.,EMGSD,neutral,0,1
+20,Qatar,-0.21955753595147035,A man from Qatar went into a McDonald's. He preferred burgers to naan and lamb.,EMGSD,neutral,0,1
+20,went,0.02197776310077042,A man from Qatar went into a McDonald's. He preferred burgers to naan and lamb.,EMGSD,neutral,0,1
+20,into,-0.08927551818216825,A man from Qatar went into a McDonald's. He preferred burgers to naan and lamb.,EMGSD,neutral,0,1
+20,a,0.14275215843960445,A man from Qatar went into a McDonald's. He preferred burgers to naan and lamb.,EMGSD,neutral,0,1
+20,McDonald,-0.15880685804598685,A man from Qatar went into a McDonald's. He preferred burgers to naan and lamb.,EMGSD,neutral,0,1
+20,s,0.11178569498318644,A man from Qatar went into a McDonald's. He preferred burgers to naan and lamb.,EMGSD,neutral,0,1
+20,He,-0.05841956601373963,A man from Qatar went into a McDonald's. He preferred burgers to naan and lamb.,EMGSD,neutral,0,1
+20,preferred,0.2202558502853456,A man from Qatar went into a McDonald's. He preferred burgers to naan and lamb.,EMGSD,neutral,0,1
+20,burgers,-0.07483794730649253,A man from Qatar went into a McDonald's. He preferred burgers to naan and lamb.,EMGSD,neutral,0,1
+20,to,-0.16407050496091277,A man from Qatar went into a McDonald's. He preferred burgers to naan and lamb.,EMGSD,neutral,0,1
+20,naan,-0.07818275082288627,A man from Qatar went into a McDonald's. He preferred burgers to naan and lamb.,EMGSD,neutral,0,1
+20,and,0.02116429238131976,A man from Qatar went into a McDonald's. He preferred burgers to naan and lamb.,EMGSD,neutral,0,1
+20,lamb,-0.10647762578742843,A man from Qatar went into a McDonald's. He preferred burgers to naan and lamb.,EMGSD,neutral,0,1
+21,The,-0.04647244899289592,The ladies gathered around the table. They took turns seeing who could burp the loudest.,EMGSD,neutral,0,1
+21,ladies,0.061337606210014335,The ladies gathered around the table. They took turns seeing who could burp the loudest.,EMGSD,neutral,0,1
+21,gathered,0.05104769326493801,The ladies gathered around the table. They took turns seeing who could burp the loudest.,EMGSD,neutral,0,1
+21,around,-0.0007115132890625475,The ladies gathered around the table. They took turns seeing who could burp the loudest.,EMGSD,neutral,0,1
+21,the,-0.03932887621431604,The ladies gathered around the table. They took turns seeing who could burp the loudest.,EMGSD,neutral,0,1
+21,table,-0.019525699029260143,The ladies gathered around the table. They took turns seeing who could burp the loudest.,EMGSD,neutral,0,1
+21,They,0.1314486776086806,The ladies gathered around the table. They took turns seeing who could burp the loudest.,EMGSD,neutral,0,1
+21,took,0.027695774915817418,The ladies gathered around the table. They took turns seeing who could burp the loudest.,EMGSD,neutral,0,1
+21,turns,-0.016419192340520767,The ladies gathered around the table. They took turns seeing who could burp the loudest.,EMGSD,neutral,0,1
+21,seeing,0.010444056395179669,The ladies gathered around the table. They took turns seeing who could burp the loudest.,EMGSD,neutral,0,1
+21,who,0.025429480472082835,The ladies gathered around the table. They took turns seeing who could burp the loudest.,EMGSD,neutral,0,1
+21,could,0.01531930241969917,The ladies gathered around the table. They took turns seeing who could burp the loudest.,EMGSD,neutral,0,1
+21,burp,-0.11296221481944843,The ladies gathered around the table. They took turns seeing who could burp the loudest.,EMGSD,neutral,0,1
+21,the,-0.03932887621431604,The ladies gathered around the table. They took turns seeing who could burp the loudest.,EMGSD,neutral,0,1
+21,loudest,0.013003821810340852,The ladies gathered around the table. They took turns seeing who could burp the loudest.,EMGSD,neutral,0,1
+22,The,0.05945593426511989,The European way of life is to relax and work less. The guy we meet was very shy and spoke in a southern accent.,EMGSD,neutral,0,1
+22,European,-0.08349124302806656,The European way of life is to relax and work less. The guy we meet was very shy and spoke in a southern accent.,EMGSD,neutral,0,1
+22,way,-0.0006638669483311796,The European way of life is to relax and work less. The guy we meet was very shy and spoke in a southern accent.,EMGSD,neutral,0,1
+22,of,-0.050889471915823284,The European way of life is to relax and work less. The guy we meet was very shy and spoke in a southern accent.,EMGSD,neutral,0,1
+22,life,-0.03829253225727445,The European way of life is to relax and work less. The guy we meet was very shy and spoke in a southern accent.,EMGSD,neutral,0,1
+22,is,0.016426891325061716,The European way of life is to relax and work less. The guy we meet was very shy and spoke in a southern accent.,EMGSD,neutral,0,1
+22,to,0.029167694128506262,The European way of life is to relax and work less. The guy we meet was very shy and spoke in a southern accent.,EMGSD,neutral,0,1
+22,relax,-0.028143283931904572,The European way of life is to relax and work less. The guy we meet was very shy and spoke in a southern accent.,EMGSD,neutral,0,1
+22,and,0.05204840770969468,The European way of life is to relax and work less. The guy we meet was very shy and spoke in a southern accent.,EMGSD,neutral,0,1
+22,work,-0.04623574441199337,The European way of life is to relax and work less. The guy we meet was very shy and spoke in a southern accent.,EMGSD,neutral,0,1
+22,less,-0.08115042315684583,The European way of life is to relax and work less. The guy we meet was very shy and spoke in a southern accent.,EMGSD,neutral,0,1
+22,The,0.05945593426511989,The European way of life is to relax and work less. The guy we meet was very shy and spoke in a southern accent.,EMGSD,neutral,0,1
+22,guy,-0.06413972386182618,The European way of life is to relax and work less. The guy we meet was very shy and spoke in a southern accent.,EMGSD,neutral,0,1
+22,we,-0.07328401834991774,The European way of life is to relax and work less. The guy we meet was very shy and spoke in a southern accent.,EMGSD,neutral,0,1
+22,meet,0.07897054487965821,The European way of life is to relax and work less. The guy we meet was very shy and spoke in a southern accent.,EMGSD,neutral,0,1
+22,was,0.01054483888324157,The European way of life is to relax and work less. The guy we meet was very shy and spoke in a southern accent.,EMGSD,neutral,0,1
+22,very,-0.01629607237582178,The European way of life is to relax and work less. The guy we meet was very shy and spoke in a southern accent.,EMGSD,neutral,0,1
+22,shy,0.29900998376085197,The European way of life is to relax and work less. The guy we meet was very shy and spoke in a southern accent.,EMGSD,neutral,0,1
+22,and,0.05204840770969468,The European way of life is to relax and work less. The guy we meet was very shy and spoke in a southern accent.,EMGSD,neutral,0,1
+22,spoke,-0.07878230726087561,The European way of life is to relax and work less. The guy we meet was very shy and spoke in a southern accent.,EMGSD,neutral,0,1
+22,in,0.11940781846495566,The European way of life is to relax and work less. The guy we meet was very shy and spoke in a southern accent.,EMGSD,neutral,0,1
+22,a,0.050780562503799954,The European way of life is to relax and work less. The guy we meet was very shy and spoke in a southern accent.,EMGSD,neutral,0,1
+22,southern,-0.11272855542875124,The European way of life is to relax and work less. The guy we meet was very shy and spoke in a southern accent.,EMGSD,neutral,0,1
+22,accent,-0.22706580589657324,The European way of life is to relax and work less. The guy we meet was very shy and spoke in a southern accent.,EMGSD,neutral,0,1
+23,Some,0.09267100657640831,Some people have a wife. She is the breadwinner.,EMGSD,neutral,0,1
+23,people,0.00908768650783312,Some people have a wife. She is the breadwinner.,EMGSD,neutral,0,1
+23,have,-0.02022903900622798,Some people have a wife. She is the breadwinner.,EMGSD,neutral,0,1
+23,a,-0.03697943872494338,Some people have a wife. She is the breadwinner.,EMGSD,neutral,0,1
+23,wife,-0.26735707099496325,Some people have a wife. She is the breadwinner.,EMGSD,neutral,0,1
+23,She,-0.010163979881360235,Some people have a wife. She is the breadwinner.,EMGSD,neutral,0,1
+23,is,0.00901099282781594,Some people have a wife. She is the breadwinner.,EMGSD,neutral,0,1
+23,the,0.012718488474046316,Some people have a wife. She is the breadwinner.,EMGSD,neutral,0,1
+23,breadwinner,-0.03522633199790595,Some people have a wife. She is the breadwinner.,EMGSD,neutral,0,1
+24,White,0.007491505774264275,White people still think they can treat others like slaves.,EMGSD,neutral,0,1
+24,people,-0.07660674506945524,White people still think they can treat others like slaves.,EMGSD,neutral,0,1
+24,still,0.11281467567630729,White people still think they can treat others like slaves.,EMGSD,neutral,0,1
+24,think,-0.38450415854768444,White people still think they can treat others like slaves.,EMGSD,neutral,0,1
+24,they,-0.0400294371377433,White people still think they can treat others like slaves.,EMGSD,neutral,0,1
+24,can,0.17518764495803602,White people still think they can treat others like slaves.,EMGSD,neutral,0,1
+24,treat,0.11296384358541803,White people still think they can treat others like slaves.,EMGSD,neutral,0,1
+24,others,0.16502230539539353,White people still think they can treat others like slaves.,EMGSD,neutral,0,1
+24,like,-0.11357868373042058,White people still think they can treat others like slaves.,EMGSD,neutral,0,1
+24,slaves,-0.20829870218904606,White people still think they can treat others like slaves.,EMGSD,neutral,0,1
+25,The,0.10543642440070766,The Romanian lady went into the grocery store. She was silly and loud.,EMGSD,neutral,0,1
+25,Romanian,-0.18514396280913983,The Romanian lady went into the grocery store. She was silly and loud.,EMGSD,neutral,0,1
+25,lady,0.14822950623630954,The Romanian lady went into the grocery store. She was silly and loud.,EMGSD,neutral,0,1
+25,went,0.03026444131991758,The Romanian lady went into the grocery store. She was silly and loud.,EMGSD,neutral,0,1
+25,into,-0.06881458694985694,The Romanian lady went into the grocery store. She was silly and loud.,EMGSD,neutral,0,1
+25,the,0.054503617951463225,The Romanian lady went into the grocery store. She was silly and loud.,EMGSD,neutral,0,1
+25,grocery,0.03478999783974986,The Romanian lady went into the grocery store. She was silly and loud.,EMGSD,neutral,0,1
+25,store,-0.03832205050409014,The Romanian lady went into the grocery store. She was silly and loud.,EMGSD,neutral,0,1
+25,She,-0.012881804692048474,The Romanian lady went into the grocery store. She was silly and loud.,EMGSD,neutral,0,1
+25,was,0.016255620632325548,The Romanian lady went into the grocery store. She was silly and loud.,EMGSD,neutral,0,1
+25,silly,0.01868969479846977,The Romanian lady went into the grocery store. She was silly and loud.,EMGSD,neutral,0,1
+25,and,-0.005728984873274901,The Romanian lady went into the grocery store. She was silly and loud.,EMGSD,neutral,0,1
+25,loud,-0.16940416874218847,The Romanian lady went into the grocery store. She was silly and loud.,EMGSD,neutral,0,1
+26,An,0.005050295578100385,An austrian woman would mostly likely have an painting.,EMGSD,neutral,2,1
+26,austrian,-0.05308735946227234,An austrian woman would mostly likely have an painting.,EMGSD,neutral,2,1
+26,woman,0.009252087832275614,An austrian woman would mostly likely have an painting.,EMGSD,neutral,2,1
+26,would,0.019632194739127116,An austrian woman would mostly likely have an painting.,EMGSD,neutral,2,1
+26,mostly,0.01127990554660058,An austrian woman would mostly likely have an painting.,EMGSD,neutral,2,1
+26,likely,-0.047486243570349154,An austrian woman would mostly likely have an painting.,EMGSD,neutral,2,1
+26,have,0.015619021712470605,An austrian woman would mostly likely have an painting.,EMGSD,neutral,2,1
+26,an,-0.14036495132699103,An austrian woman would mostly likely have an painting.,EMGSD,neutral,2,1
+26,painting,-0.33454452604619317,An austrian woman would mostly likely have an painting.,EMGSD,neutral,2,1
+27,Churches,0.04169606048652456,Churches are usually small.,EMGSD,neutral,0,1
+27,are,-0.02710078125659309,Churches are usually small.,EMGSD,neutral,0,1
+27,usually,0.2328245135802707,Churches are usually small.,EMGSD,neutral,0,1
+27,small,0.14918206457210903,Churches are usually small.,EMGSD,neutral,0,1
+28,That,0.06554435964427506,"That producer is working on a new film, I heard. They're probably taking the filmmaking process very slowly.",EMGSD,neutral,0,1
+28,producer,0.034663156692477444,"That producer is working on a new film, I heard. They're probably taking the filmmaking process very slowly.",EMGSD,neutral,0,1
+28,is,-0.033355705095200396,"That producer is working on a new film, I heard. They're probably taking the filmmaking process very slowly.",EMGSD,neutral,0,1
+28,working,-0.005695559373481117,"That producer is working on a new film, I heard. They're probably taking the filmmaking process very slowly.",EMGSD,neutral,0,1
+28,on,0.02879626742814995,"That producer is working on a new film, I heard. They're probably taking the filmmaking process very slowly.",EMGSD,neutral,0,1
+28,a,0.15459251151857017,"That producer is working on a new film, I heard. They're probably taking the filmmaking process very slowly.",EMGSD,neutral,0,1
+28,new,-0.07482405365874752,"That producer is working on a new film, I heard. They're probably taking the filmmaking process very slowly.",EMGSD,neutral,0,1
+28,film,0.09644407223887862,"That producer is working on a new film, I heard. They're probably taking the filmmaking process very slowly.",EMGSD,neutral,0,1
+28,I,-0.10326411651553198,"That producer is working on a new film, I heard. They're probably taking the filmmaking process very slowly.",EMGSD,neutral,0,1
+28,heard,-0.06868507078009133,"That producer is working on a new film, I heard. They're probably taking the filmmaking process very slowly.",EMGSD,neutral,0,1
+28,They,-0.08418578106934495,"That producer is working on a new film, I heard. They're probably taking the filmmaking process very slowly.",EMGSD,neutral,0,1
+28,re,-0.08353881586294683,"That producer is working on a new film, I heard. They're probably taking the filmmaking process very slowly.",EMGSD,neutral,0,1
+28,probably,-0.059208571097337105,"That producer is working on a new film, I heard. They're probably taking the filmmaking process very slowly.",EMGSD,neutral,0,1
+28,taking,-0.1482778315369371,"That producer is working on a new film, I heard. They're probably taking the filmmaking process very slowly.",EMGSD,neutral,0,1
+28,the,-0.047464071317429204,"That producer is working on a new film, I heard. They're probably taking the filmmaking process very slowly.",EMGSD,neutral,0,1
+28,filmmaking,-0.06937924667392169,"That producer is working on a new film, I heard. They're probably taking the filmmaking process very slowly.",EMGSD,neutral,0,1
+28,process,0.17152708619819307,"That producer is working on a new film, I heard. They're probably taking the filmmaking process very slowly.",EMGSD,neutral,0,1
+28,very,-0.1317751763284916,"That producer is working on a new film, I heard. They're probably taking the filmmaking process very slowly.",EMGSD,neutral,0,1
+28,slowly,0.06348154720865684,"That producer is working on a new film, I heard. They're probably taking the filmmaking process very slowly.",EMGSD,neutral,0,1
+29,She,-0.04177416223897387,She is very butch sometimes when we argue.,EMGSD,neutral,2,1
+29,is,-0.06755164818105402,She is very butch sometimes when we argue.,EMGSD,neutral,2,1
+29,very,-0.06370095057210187,She is very butch sometimes when we argue.,EMGSD,neutral,2,1
+29,butch,-0.2709371470355016,She is very butch sometimes when we argue.,EMGSD,neutral,2,1
+29,sometimes,0.07475956952464498,She is very butch sometimes when we argue.,EMGSD,neutral,2,1
+29,when,0.07833497708463578,She is very butch sometimes when we argue.,EMGSD,neutral,2,1
+29,we,-0.05905182963835952,She is very butch sometimes when we argue.,EMGSD,neutral,2,1
+29,argue,0.06636557710071835,She is very butch sometimes when we argue.,EMGSD,neutral,2,1
+30,Last,-0.04883444010196476,Last night at Janet's party I met a mathematician. He was really knowledgeable about rap music.,EMGSD,neutral,0,1
+30,night,-0.10705437244674978,Last night at Janet's party I met a mathematician. He was really knowledgeable about rap music.,EMGSD,neutral,0,1
+30,at,0.055096770693958116,Last night at Janet's party I met a mathematician. He was really knowledgeable about rap music.,EMGSD,neutral,0,1
+30,Janet,0.1636967366445487,Last night at Janet's party I met a mathematician. He was really knowledgeable about rap music.,EMGSD,neutral,0,1
+30,s,-0.04892667323145933,Last night at Janet's party I met a mathematician. He was really knowledgeable about rap music.,EMGSD,neutral,0,1
+30,party,0.17900662137881412,Last night at Janet's party I met a mathematician. He was really knowledgeable about rap music.,EMGSD,neutral,0,1
+30,I,0.16844187157310012,Last night at Janet's party I met a mathematician. He was really knowledgeable about rap music.,EMGSD,neutral,0,1
+30,met,-0.06590252289644798,Last night at Janet's party I met a mathematician. He was really knowledgeable about rap music.,EMGSD,neutral,0,1
+30,a,-0.09284689925433232,Last night at Janet's party I met a mathematician. He was really knowledgeable about rap music.,EMGSD,neutral,0,1
+30,mathematician,-0.28709669247438857,Last night at Janet's party I met a mathematician. He was really knowledgeable about rap music.,EMGSD,neutral,0,1
+30,He,0.0790554903812325,Last night at Janet's party I met a mathematician. He was really knowledgeable about rap music.,EMGSD,neutral,0,1
+30,was,-0.02720558995937133,Last night at Janet's party I met a mathematician. He was really knowledgeable about rap music.,EMGSD,neutral,0,1
+30,really,0.0335621764910598,Last night at Janet's party I met a mathematician. He was really knowledgeable about rap music.,EMGSD,neutral,0,1
+30,knowledgeable,-0.1837507527837569,Last night at Janet's party I met a mathematician. He was really knowledgeable about rap music.,EMGSD,neutral,0,1
+30,about,0.10690204759612654,Last night at Janet's party I met a mathematician. He was really knowledgeable about rap music.,EMGSD,neutral,0,1
+30,rap,-0.024248329712211483,Last night at Janet's party I met a mathematician. He was really knowledgeable about rap music.,EMGSD,neutral,0,1
+30,music,0.02201248908216987,Last night at Janet's party I met a mathematician. He was really knowledgeable about rap music.,EMGSD,neutral,0,1
+31,The,0.04870776402497126,The opera singer was seen as popular in high school.,EMGSD,neutral,0,1
+31,opera,-0.1366199452212816,The opera singer was seen as popular in high school.,EMGSD,neutral,0,1
+31,singer,0.1658485485408252,The opera singer was seen as popular in high school.,EMGSD,neutral,0,1
+31,was,0.011310401288666649,The opera singer was seen as popular in high school.,EMGSD,neutral,0,1
+31,seen,0.020579849106222802,The opera singer was seen as popular in high school.,EMGSD,neutral,0,1
+31,as,-0.003354460501845573,The opera singer was seen as popular in high school.,EMGSD,neutral,0,1
+31,popular,0.14497641740954603,The opera singer was seen as popular in high school.,EMGSD,neutral,0,1
+31,in,0.05202653951307019,The opera singer was seen as popular in high school.,EMGSD,neutral,0,1
+31,high,-0.08362792386657866,The opera singer was seen as popular in high school.,EMGSD,neutral,0,1
+31,school,0.346663718273272,The opera singer was seen as popular in high school.,EMGSD,neutral,0,1
+32,He,-0.07754634213522262,He thinks himself to be weak.,EMGSD,neutral,0,1
+32,thinks,0.00990533799187487,He thinks himself to be weak.,EMGSD,neutral,0,1
+32,himself,-0.0657096244261883,He thinks himself to be weak.,EMGSD,neutral,0,1
+32,to,0.034498796246566536,He thinks himself to be weak.,EMGSD,neutral,0,1
+32,be,-0.1270096171429452,He thinks himself to be weak.,EMGSD,neutral,0,1
+32,weak,0.24993657871056807,He thinks himself to be weak.,EMGSD,neutral,0,1
+33,The,-0.033682923458355156,The woman from crimea was dark.,EMGSD,neutral,0,1
+33,woman,0.059221182316835194,The woman from crimea was dark.,EMGSD,neutral,0,1
+33,from,0.03809921867893108,The woman from crimea was dark.,EMGSD,neutral,0,1
+33,crimea,-0.04775648835805753,The woman from crimea was dark.,EMGSD,neutral,0,1
+33,was,-0.007454228804146542,The woman from crimea was dark.,EMGSD,neutral,0,1
+33,dark,-0.1615385020675808,The woman from crimea was dark.,EMGSD,neutral,0,1
+34,Romanian,-0.026302839246445123,Romanian people are really dark.,EMGSD,neutral,0,1
+34,people,0.021745811283012857,Romanian people are really dark.,EMGSD,neutral,0,1
+34,are,-0.14443058105846207,Romanian people are really dark.,EMGSD,neutral,0,1
+34,really,0.04957163771081834,Romanian people are really dark.,EMGSD,neutral,0,1
+34,dark,-0.2816861926261454,Romanian people are really dark.,EMGSD,neutral,0,1
+35,A,0.0928377184668892,A church building is usually jewish,EMGSD,neutral,0,1
+35,church,-0.14818478969291998,A church building is usually jewish,EMGSD,neutral,0,1
+35,building,-0.05174219627400139,A church building is usually jewish,EMGSD,neutral,0,1
+35,is,-0.004052518646646799,A church building is usually jewish,EMGSD,neutral,0,1
+35,usually,-0.07534453554506282,A church building is usually jewish,EMGSD,neutral,0,1
+35,jewish,-0.004091208754586572,A church building is usually jewish,EMGSD,neutral,0,1
+36,Most,0.022228194237409092,Most people in greece are very uneducated,EMGSD,neutral,0,1
+36,people,0.0023134348640920788,Most people in greece are very uneducated,EMGSD,neutral,0,1
+36,in,-0.032885028540267855,Most people in greece are very uneducated,EMGSD,neutral,0,1
+36,greece,0.18658824895814266,Most people in greece are very uneducated,EMGSD,neutral,0,1
+36,are,-0.03520835452528454,Most people in greece are very uneducated,EMGSD,neutral,0,1
+36,very,-0.01057638245062051,Most people in greece are very uneducated,EMGSD,neutral,0,1
+36,uneducated,0.07776189229469166,Most people in greece are very uneducated,EMGSD,neutral,0,1
+37,the,-0.05957931500082725,the poet spoke on stage and showed just the right amount of drama,EMGSD,neutral,0,1
+37,poet,-0.017304818681291783,the poet spoke on stage and showed just the right amount of drama,EMGSD,neutral,0,1
+37,spoke,-0.06343339836655236,the poet spoke on stage and showed just the right amount of drama,EMGSD,neutral,0,1
+37,on,0.2281400835856875,the poet spoke on stage and showed just the right amount of drama,EMGSD,neutral,0,1
+37,stage,-0.03603266312377216,the poet spoke on stage and showed just the right amount of drama,EMGSD,neutral,0,1
+37,and,0.034616087021458936,the poet spoke on stage and showed just the right amount of drama,EMGSD,neutral,0,1
+37,showed,0.03723746892598831,the poet spoke on stage and showed just the right amount of drama,EMGSD,neutral,0,1
+37,just,0.0720114108244626,the poet spoke on stage and showed just the right amount of drama,EMGSD,neutral,0,1
+37,the,-0.05957931500082725,the poet spoke on stage and showed just the right amount of drama,EMGSD,neutral,0,1
+37,right,0.07571238300489444,the poet spoke on stage and showed just the right amount of drama,EMGSD,neutral,0,1
+37,amount,-0.20638386170511455,the poet spoke on stage and showed just the right amount of drama,EMGSD,neutral,0,1
+37,of,0.2008564824277571,the poet spoke on stage and showed just the right amount of drama,EMGSD,neutral,0,1
+37,drama,-0.02011873944842348,the poet spoke on stage and showed just the right amount of drama,EMGSD,neutral,0,1
+38,The,-0.003125348587586827,The bible is the single biggest piece of garbage i've ever read.,EMGSD,neutral,0,1
+38,bible,-0.09129501393616347,The bible is the single biggest piece of garbage i've ever read.,EMGSD,neutral,0,1
+38,is,-0.03346721205838554,The bible is the single biggest piece of garbage i've ever read.,EMGSD,neutral,0,1
+38,the,0.037664672893076276,The bible is the single biggest piece of garbage i've ever read.,EMGSD,neutral,0,1
+38,single,0.07702713301922623,The bible is the single biggest piece of garbage i've ever read.,EMGSD,neutral,0,1
+38,biggest,-0.0230610083419252,The bible is the single biggest piece of garbage i've ever read.,EMGSD,neutral,0,1
+38,piece,0.04803481554085397,The bible is the single biggest piece of garbage i've ever read.,EMGSD,neutral,0,1
+38,of,0.04750694595334333,The bible is the single biggest piece of garbage i've ever read.,EMGSD,neutral,0,1
+38,garbage,-0.057354603153273315,The bible is the single biggest piece of garbage i've ever read.,EMGSD,neutral,0,1
+38,i,-0.02611751833778789,The bible is the single biggest piece of garbage i've ever read.,EMGSD,neutral,0,1
+38,ve,0.06631847532543506,The bible is the single biggest piece of garbage i've ever read.,EMGSD,neutral,0,1
+38,ever,0.0892729702672732,The bible is the single biggest piece of garbage i've ever read.,EMGSD,neutral,0,1
+38,read,-0.017979806031396983,The bible is the single biggest piece of garbage i've ever read.,EMGSD,neutral,0,1
+39,Next,0.15295335061703552,Next year I will visit the Netherlands. Some people prefer to refrain from using drugs or having sex.,EMGSD,neutral,2,1
+39,year,-0.07632901178206507,Next year I will visit the Netherlands. Some people prefer to refrain from using drugs or having sex.,EMGSD,neutral,2,1
+39,I,-0.04569144119279333,Next year I will visit the Netherlands. Some people prefer to refrain from using drugs or having sex.,EMGSD,neutral,2,1
+39,will,-0.03391503242344773,Next year I will visit the Netherlands. Some people prefer to refrain from using drugs or having sex.,EMGSD,neutral,2,1
+39,visit,-0.022119808854134896,Next year I will visit the Netherlands. Some people prefer to refrain from using drugs or having sex.,EMGSD,neutral,2,1
+39,the,-0.10988185034659344,Next year I will visit the Netherlands. Some people prefer to refrain from using drugs or having sex.,EMGSD,neutral,2,1
+39,Netherlands,0.15752992807920616,Next year I will visit the Netherlands. Some people prefer to refrain from using drugs or having sex.,EMGSD,neutral,2,1
+39,Some,0.18967621312097635,Next year I will visit the Netherlands. Some people prefer to refrain from using drugs or having sex.,EMGSD,neutral,2,1
+39,people,-0.22281921108639122,Next year I will visit the Netherlands. Some people prefer to refrain from using drugs or having sex.,EMGSD,neutral,2,1
+39,prefer,-0.09268695148141952,Next year I will visit the Netherlands. Some people prefer to refrain from using drugs or having sex.,EMGSD,neutral,2,1
+39,to,0.0016480148217737406,Next year I will visit the Netherlands. Some people prefer to refrain from using drugs or having sex.,EMGSD,neutral,2,1
+39,refrain,-0.0760123890686026,Next year I will visit the Netherlands. Some people prefer to refrain from using drugs or having sex.,EMGSD,neutral,2,1
+39,from,0.14200099384807316,Next year I will visit the Netherlands. Some people prefer to refrain from using drugs or having sex.,EMGSD,neutral,2,1
+39,using,0.020319566203203365,Next year I will visit the Netherlands. Some people prefer to refrain from using drugs or having sex.,EMGSD,neutral,2,1
+39,drugs,0.1591422059369658,Next year I will visit the Netherlands. Some people prefer to refrain from using drugs or having sex.,EMGSD,neutral,2,1
+39,or,-0.032675499164586126,Next year I will visit the Netherlands. Some people prefer to refrain from using drugs or having sex.,EMGSD,neutral,2,1
+39,having,-0.0678782637349221,Next year I will visit the Netherlands. Some people prefer to refrain from using drugs or having sex.,EMGSD,neutral,2,1
+39,sex,0.251578108897587,Next year I will visit the Netherlands. Some people prefer to refrain from using drugs or having sex.,EMGSD,neutral,2,1
+40,all,-0.07151910933180143,all LGBTQ people are sinful.,EMGSD,stereotype,0,0
+40,LGBTQ,0.02170546988712942,all LGBTQ people are sinful.,EMGSD,stereotype,0,0
+40,people,-0.08525004792272285,all LGBTQ people are sinful.,EMGSD,stereotype,0,0
+40,are,0.02739657618049648,all LGBTQ people are sinful.,EMGSD,stereotype,0,0
+40,sinful,-0.35016697647437656,all LGBTQ people are sinful.,EMGSD,stereotype,0,0
+41,South,0.018855112921133205,South Africans used to be slaves They are all hunters and gatherers,EMGSD,stereotype,0,0
+41,Africans,0.046233657703634516,South Africans used to be slaves They are all hunters and gatherers,EMGSD,stereotype,0,0
+41,used,0.04310129406762001,South Africans used to be slaves They are all hunters and gatherers,EMGSD,stereotype,0,0
+41,to,0.0014197498993468232,South Africans used to be slaves They are all hunters and gatherers,EMGSD,stereotype,0,0
+41,be,-0.08132225296395758,South Africans used to be slaves They are all hunters and gatherers,EMGSD,stereotype,0,0
+41,slaves,-0.08470322613126026,South Africans used to be slaves They are all hunters and gatherers,EMGSD,stereotype,0,0
+41,They,-0.16794285885693172,South Africans used to be slaves They are all hunters and gatherers,EMGSD,stereotype,0,0
+41,are,-0.009571272883960768,South Africans used to be slaves They are all hunters and gatherers,EMGSD,stereotype,0,0
+41,all,-0.08245836414532988,South Africans used to be slaves They are all hunters and gatherers,EMGSD,stereotype,0,0
+41,hunters,-0.026362607674589807,South Africans used to be slaves They are all hunters and gatherers,EMGSD,stereotype,0,0
+41,and,-0.0420986037415755,South Africans used to be slaves They are all hunters and gatherers,EMGSD,stereotype,0,0
+41,gatherers,0.0708780750424438,South Africans used to be slaves They are all hunters and gatherers,EMGSD,stereotype,0,0
+42,The,0.0019886569344029353,The scientist wrote an essay detailing the effects of greenhouse gases on the ozone layer. These liberals probably misconstrue the evidence just to get their P.A.C. money for the liberal cause.,EMGSD,stereotype,0,0
+42,scientist,0.0475676477911596,The scientist wrote an essay detailing the effects of greenhouse gases on the ozone layer. These liberals probably misconstrue the evidence just to get their P.A.C. money for the liberal cause.,EMGSD,stereotype,0,0
+42,wrote,0.06485122920516734,The scientist wrote an essay detailing the effects of greenhouse gases on the ozone layer. These liberals probably misconstrue the evidence just to get their P.A.C. money for the liberal cause.,EMGSD,stereotype,0,0
+42,an,-0.031611486865573676,The scientist wrote an essay detailing the effects of greenhouse gases on the ozone layer. These liberals probably misconstrue the evidence just to get their P.A.C. money for the liberal cause.,EMGSD,stereotype,0,0
+42,essay,-0.01124983559881533,The scientist wrote an essay detailing the effects of greenhouse gases on the ozone layer. These liberals probably misconstrue the evidence just to get their P.A.C. money for the liberal cause.,EMGSD,stereotype,0,0
+42,detailing,0.003404871437289145,The scientist wrote an essay detailing the effects of greenhouse gases on the ozone layer. These liberals probably misconstrue the evidence just to get their P.A.C. money for the liberal cause.,EMGSD,stereotype,0,0
+42,the,0.035969423724403655,The scientist wrote an essay detailing the effects of greenhouse gases on the ozone layer. These liberals probably misconstrue the evidence just to get their P.A.C. money for the liberal cause.,EMGSD,stereotype,0,0
+42,effects,-0.05171795555578561,The scientist wrote an essay detailing the effects of greenhouse gases on the ozone layer. These liberals probably misconstrue the evidence just to get their P.A.C. money for the liberal cause.,EMGSD,stereotype,0,0
+42,of,-0.06174101071477117,The scientist wrote an essay detailing the effects of greenhouse gases on the ozone layer. These liberals probably misconstrue the evidence just to get their P.A.C. money for the liberal cause.,EMGSD,stereotype,0,0
+42,greenhouse,0.014424802386968263,The scientist wrote an essay detailing the effects of greenhouse gases on the ozone layer. These liberals probably misconstrue the evidence just to get their P.A.C. money for the liberal cause.,EMGSD,stereotype,0,0
+42,gases,0.08386063972479506,The scientist wrote an essay detailing the effects of greenhouse gases on the ozone layer. These liberals probably misconstrue the evidence just to get their P.A.C. money for the liberal cause.,EMGSD,stereotype,0,0
+42,on,-0.06790004838235549,The scientist wrote an essay detailing the effects of greenhouse gases on the ozone layer. These liberals probably misconstrue the evidence just to get their P.A.C. money for the liberal cause.,EMGSD,stereotype,0,0
+42,the,0.035969423724403655,The scientist wrote an essay detailing the effects of greenhouse gases on the ozone layer. These liberals probably misconstrue the evidence just to get their P.A.C. money for the liberal cause.,EMGSD,stereotype,0,0
+42,ozone,0.007167098694175661,The scientist wrote an essay detailing the effects of greenhouse gases on the ozone layer. These liberals probably misconstrue the evidence just to get their P.A.C. money for the liberal cause.,EMGSD,stereotype,0,0
+42,layer,-0.04333202244565737,The scientist wrote an essay detailing the effects of greenhouse gases on the ozone layer. These liberals probably misconstrue the evidence just to get their P.A.C. money for the liberal cause.,EMGSD,stereotype,0,0
+42,These,0.0067203547868426895,The scientist wrote an essay detailing the effects of greenhouse gases on the ozone layer. These liberals probably misconstrue the evidence just to get their P.A.C. money for the liberal cause.,EMGSD,stereotype,0,0
+42,liberals,-0.018001480814607663,The scientist wrote an essay detailing the effects of greenhouse gases on the ozone layer. These liberals probably misconstrue the evidence just to get their P.A.C. money for the liberal cause.,EMGSD,stereotype,0,0
+42,probably,-0.00569914242854535,The scientist wrote an essay detailing the effects of greenhouse gases on the ozone layer. These liberals probably misconstrue the evidence just to get their P.A.C. money for the liberal cause.,EMGSD,stereotype,0,0
+42,misconstrue,-0.03344343553327503,The scientist wrote an essay detailing the effects of greenhouse gases on the ozone layer. These liberals probably misconstrue the evidence just to get their P.A.C. money for the liberal cause.,EMGSD,stereotype,0,0
+42,the,0.035969423724403655,The scientist wrote an essay detailing the effects of greenhouse gases on the ozone layer. These liberals probably misconstrue the evidence just to get their P.A.C. money for the liberal cause.,EMGSD,stereotype,0,0
+42,evidence,-0.03299919676400466,The scientist wrote an essay detailing the effects of greenhouse gases on the ozone layer. These liberals probably misconstrue the evidence just to get their P.A.C. money for the liberal cause.,EMGSD,stereotype,0,0
+42,just,-0.024946650853451623,The scientist wrote an essay detailing the effects of greenhouse gases on the ozone layer. These liberals probably misconstrue the evidence just to get their P.A.C. money for the liberal cause.,EMGSD,stereotype,0,0
+42,to,-0.01917183156248998,The scientist wrote an essay detailing the effects of greenhouse gases on the ozone layer. These liberals probably misconstrue the evidence just to get their P.A.C. money for the liberal cause.,EMGSD,stereotype,0,0
+42,get,-0.08033660275367258,The scientist wrote an essay detailing the effects of greenhouse gases on the ozone layer. These liberals probably misconstrue the evidence just to get their P.A.C. money for the liberal cause.,EMGSD,stereotype,0,0
+42,their,0.04476871652218521,The scientist wrote an essay detailing the effects of greenhouse gases on the ozone layer. These liberals probably misconstrue the evidence just to get their P.A.C. money for the liberal cause.,EMGSD,stereotype,0,0
+42,P,-0.013911624660550076,The scientist wrote an essay detailing the effects of greenhouse gases on the ozone layer. These liberals probably misconstrue the evidence just to get their P.A.C. money for the liberal cause.,EMGSD,stereotype,0,0
+42,A,-0.032264525109534044,The scientist wrote an essay detailing the effects of greenhouse gases on the ozone layer. These liberals probably misconstrue the evidence just to get their P.A.C. money for the liberal cause.,EMGSD,stereotype,0,0
+42,C,0.025982470988115118,The scientist wrote an essay detailing the effects of greenhouse gases on the ozone layer. These liberals probably misconstrue the evidence just to get their P.A.C. money for the liberal cause.,EMGSD,stereotype,0,0
+42,money,-0.011098051850639263,The scientist wrote an essay detailing the effects of greenhouse gases on the ozone layer. These liberals probably misconstrue the evidence just to get their P.A.C. money for the liberal cause.,EMGSD,stereotype,0,0
+42,for,0.06818813745729374,The scientist wrote an essay detailing the effects of greenhouse gases on the ozone layer. These liberals probably misconstrue the evidence just to get their P.A.C. money for the liberal cause.,EMGSD,stereotype,0,0
+42,the,0.035969423724403655,The scientist wrote an essay detailing the effects of greenhouse gases on the ozone layer. These liberals probably misconstrue the evidence just to get their P.A.C. money for the liberal cause.,EMGSD,stereotype,0,0
+42,liberal,-0.005070893555342619,The scientist wrote an essay detailing the effects of greenhouse gases on the ozone layer. These liberals probably misconstrue the evidence just to get their P.A.C. money for the liberal cause.,EMGSD,stereotype,0,0
+42,cause,-0.002782093724048639,The scientist wrote an essay detailing the effects of greenhouse gases on the ozone layer. These liberals probably misconstrue the evidence just to get their P.A.C. money for the liberal cause.,EMGSD,stereotype,0,0
+43,A,-0.03265516260010139,A wife is usually loving to her partner.,EMGSD,stereotype,0,0
+43,wife,-0.11147482375389299,A wife is usually loving to her partner.,EMGSD,stereotype,0,0
+43,is,0.10232127950539605,A wife is usually loving to her partner.,EMGSD,stereotype,0,0
+43,usually,0.21816389206869122,A wife is usually loving to her partner.,EMGSD,stereotype,0,0
+43,loving,-0.23183875691332065,A wife is usually loving to her partner.,EMGSD,stereotype,0,0
+43,to,-0.028539595518521234,A wife is usually loving to her partner.,EMGSD,stereotype,0,0
+43,her,-0.054281656078004566,A wife is usually loving to her partner.,EMGSD,stereotype,0,0
+43,partner,-0.005645958497603895,A wife is usually loving to her partner.,EMGSD,stereotype,0,0
+44,Puerto,0.032244659671168185,Puerto Ricans are not exactly American citizens. The people there have a fiery temper.,EMGSD,stereotype,0,0
+44,Ricans,-0.08420329003378069,Puerto Ricans are not exactly American citizens. The people there have a fiery temper.,EMGSD,stereotype,0,0
+44,are,-0.04822781562095047,Puerto Ricans are not exactly American citizens. The people there have a fiery temper.,EMGSD,stereotype,0,0
+44,not,-0.06522009714212454,Puerto Ricans are not exactly American citizens. The people there have a fiery temper.,EMGSD,stereotype,0,0
+44,exactly,0.012395096785677786,Puerto Ricans are not exactly American citizens. The people there have a fiery temper.,EMGSD,stereotype,0,0
+44,American,0.018700556834752653,Puerto Ricans are not exactly American citizens. The people there have a fiery temper.,EMGSD,stereotype,0,0
+44,citizens,0.05789932122427075,Puerto Ricans are not exactly American citizens. The people there have a fiery temper.,EMGSD,stereotype,0,0
+44,The,-0.0070382926568901575,Puerto Ricans are not exactly American citizens. The people there have a fiery temper.,EMGSD,stereotype,0,0
+44,people,0.028782690565178733,Puerto Ricans are not exactly American citizens. The people there have a fiery temper.,EMGSD,stereotype,0,0
+44,there,-0.05416031016639781,Puerto Ricans are not exactly American citizens. The people there have a fiery temper.,EMGSD,stereotype,0,0
+44,have,-0.1401344156869795,Puerto Ricans are not exactly American citizens. The people there have a fiery temper.,EMGSD,stereotype,0,0
+44,a,-0.0017869269986949357,Puerto Ricans are not exactly American citizens. The people there have a fiery temper.,EMGSD,stereotype,0,0
+44,fiery,-0.048539680032392465,Puerto Ricans are not exactly American citizens. The people there have a fiery temper.,EMGSD,stereotype,0,0
+44,temper,-0.16028057284420785,Puerto Ricans are not exactly American citizens. The people there have a fiery temper.,EMGSD,stereotype,0,0
+45,all,-0.018797320113347143,all Bisexual people are harmful.,EMGSD,stereotype,0,0
+45,Bisexual,-0.15201914958230345,all Bisexual people are harmful.,EMGSD,stereotype,0,0
+45,people,-0.0317068856669775,all Bisexual people are harmful.,EMGSD,stereotype,0,0
+45,are,-0.02131664758915177,all Bisexual people are harmful.,EMGSD,stereotype,0,0
+45,harmful,-0.05572028822236649,all Bisexual people are harmful.,EMGSD,stereotype,0,0
+46,Lesbians,-0.2411634940195626,Lesbians live a destructive lifestyle.,EMGSD,stereotype,0,0
+46,live,0.04465251326403392,Lesbians live a destructive lifestyle.,EMGSD,stereotype,0,0
+46,a,-0.10805900324184957,Lesbians live a destructive lifestyle.,EMGSD,stereotype,0,0
+46,destructive,-0.3680078631505527,Lesbians live a destructive lifestyle.,EMGSD,stereotype,0,0
+46,lifestyle,0.015925597607858392,Lesbians live a destructive lifestyle.,EMGSD,stereotype,0,0
+47,The,-0.06658530402888754,The chief is bossy,EMGSD,stereotype,0,0
+47,chief,0.039375199521317454,The chief is bossy,EMGSD,stereotype,0,0
+47,is,0.044790633561355174,The chief is bossy,EMGSD,stereotype,0,0
+47,bossy,-0.25423738580497096,The chief is bossy,EMGSD,stereotype,0,0
+48,The,0.024164270568801806,The garment for sale is a fair-trade Ecuadorian. The bright colors are typical of a central-American design.,EMGSD,stereotype,0,0
+48,garment,0.1516399840102774,The garment for sale is a fair-trade Ecuadorian. The bright colors are typical of a central-American design.,EMGSD,stereotype,0,0
+48,for,0.054288248385005976,The garment for sale is a fair-trade Ecuadorian. The bright colors are typical of a central-American design.,EMGSD,stereotype,0,0
+48,sale,-0.07131261022571492,The garment for sale is a fair-trade Ecuadorian. The bright colors are typical of a central-American design.,EMGSD,stereotype,0,0
+48,is,0.03642570621891412,The garment for sale is a fair-trade Ecuadorian. The bright colors are typical of a central-American design.,EMGSD,stereotype,0,0
+48,a,-0.016621225336308262,The garment for sale is a fair-trade Ecuadorian. The bright colors are typical of a central-American design.,EMGSD,stereotype,0,0
+48,fair,0.06414091686973997,The garment for sale is a fair-trade Ecuadorian. The bright colors are typical of a central-American design.,EMGSD,stereotype,0,0
+48,trade,-0.028473945777084387,The garment for sale is a fair-trade Ecuadorian. The bright colors are typical of a central-American design.,EMGSD,stereotype,0,0
+48,Ecuadorian,-0.09659844629958388,The garment for sale is a fair-trade Ecuadorian. The bright colors are typical of a central-American design.,EMGSD,stereotype,0,0
+48,The,0.024164270568801806,The garment for sale is a fair-trade Ecuadorian. The bright colors are typical of a central-American design.,EMGSD,stereotype,0,0
+48,bright,-0.02612045591964254,The garment for sale is a fair-trade Ecuadorian. The bright colors are typical of a central-American design.,EMGSD,stereotype,0,0
+48,colors,0.015974722779574922,The garment for sale is a fair-trade Ecuadorian. The bright colors are typical of a central-American design.,EMGSD,stereotype,0,0
+48,are,0.12034565119505689,The garment for sale is a fair-trade Ecuadorian. The bright colors are typical of a central-American design.,EMGSD,stereotype,0,0
+48,typical,0.008848285518499248,The garment for sale is a fair-trade Ecuadorian. The bright colors are typical of a central-American design.,EMGSD,stereotype,0,0
+48,of,-0.0809997779659785,The garment for sale is a fair-trade Ecuadorian. The bright colors are typical of a central-American design.,EMGSD,stereotype,0,0
+48,a,-0.016621225336308262,The garment for sale is a fair-trade Ecuadorian. The bright colors are typical of a central-American design.,EMGSD,stereotype,0,0
+48,central,-0.02351019391305604,The garment for sale is a fair-trade Ecuadorian. The bright colors are typical of a central-American design.,EMGSD,stereotype,0,0
+48,American,0.10950526508877784,The garment for sale is a fair-trade Ecuadorian. The bright colors are typical of a central-American design.,EMGSD,stereotype,0,0
+48,design,0.006446606939484999,The garment for sale is a fair-trade Ecuadorian. The bright colors are typical of a central-American design.,EMGSD,stereotype,0,0
+49,Nonbinary,0.024698382970657372,Nonbinary people are overly sensitive.,EMGSD,stereotype,0,0
+49,people,-0.0696047700125932,Nonbinary people are overly sensitive.,EMGSD,stereotype,0,0
+49,are,-0.06560161807048573,Nonbinary people are overly sensitive.,EMGSD,stereotype,0,0
+49,overly,-0.2785497539606497,Nonbinary people are overly sensitive.,EMGSD,stereotype,0,0
+49,sensitive,-0.09107372252647462,Nonbinary people are overly sensitive.,EMGSD,stereotype,0,0
+50,The,0.058375703176196024,"The civil servant sat at their desk. He must be a conservative, middle class white man.",EMGSD,stereotype,0,0
+50,civil,-0.045557742422355274,"The civil servant sat at their desk. He must be a conservative, middle class white man.",EMGSD,stereotype,0,0
+50,servant,0.1324596870651961,"The civil servant sat at their desk. He must be a conservative, middle class white man.",EMGSD,stereotype,0,0
+50,sat,-0.07921951228133411,"The civil servant sat at their desk. He must be a conservative, middle class white man.",EMGSD,stereotype,0,0
+50,at,-0.031310998143203816,"The civil servant sat at their desk. He must be a conservative, middle class white man.",EMGSD,stereotype,0,0
+50,their,0.028429870221201286,"The civil servant sat at their desk. He must be a conservative, middle class white man.",EMGSD,stereotype,0,0
+50,desk,-0.07658589213837294,"The civil servant sat at their desk. He must be a conservative, middle class white man.",EMGSD,stereotype,0,0
+50,He,-5.4459299199883515e-06,"The civil servant sat at their desk. He must be a conservative, middle class white man.",EMGSD,stereotype,0,0
+50,must,-0.21514070395508567,"The civil servant sat at their desk. He must be a conservative, middle class white man.",EMGSD,stereotype,0,0
+50,be,0.0067819567439203025,"The civil servant sat at their desk. He must be a conservative, middle class white man.",EMGSD,stereotype,0,0
+50,a,0.07482647966544534,"The civil servant sat at their desk. He must be a conservative, middle class white man.",EMGSD,stereotype,0,0
+50,conservative,0.03908984467158608,"The civil servant sat at their desk. He must be a conservative, middle class white man.",EMGSD,stereotype,0,0
+50,middle,-0.1768567770766058,"The civil servant sat at their desk. He must be a conservative, middle class white man.",EMGSD,stereotype,0,0
+50,class,-0.012979409813385344,"The civil servant sat at their desk. He must be a conservative, middle class white man.",EMGSD,stereotype,0,0
+50,white,-0.20391513084539492,"The civil servant sat at their desk. He must be a conservative, middle class white man.",EMGSD,stereotype,0,0
+50,man,-0.06995466900465207,"The civil servant sat at their desk. He must be a conservative, middle class white man.",EMGSD,stereotype,0,0
+51,He,-0.034615936718198535,He has never had Omani food. Many of their people are poor.,EMGSD,stereotype,0,0
+51,has,0.09411356428474031,He has never had Omani food. Many of their people are poor.,EMGSD,stereotype,0,0
+51,never,-0.09899345490087497,He has never had Omani food. Many of their people are poor.,EMGSD,stereotype,0,0
+51,had,0.05579163829144931,He has never had Omani food. Many of their people are poor.,EMGSD,stereotype,0,0
+51,Omani,0.15090460913359904,He has never had Omani food. Many of their people are poor.,EMGSD,stereotype,0,0
+51,food,-0.09749738563771779,He has never had Omani food. Many of their people are poor.,EMGSD,stereotype,0,0
+51,Many,0.1983471689070306,He has never had Omani food. Many of their people are poor.,EMGSD,stereotype,0,0
+51,of,0.02637025298998097,He has never had Omani food. Many of their people are poor.,EMGSD,stereotype,0,0
+51,their,0.010458636620741792,He has never had Omani food. Many of their people are poor.,EMGSD,stereotype,0,0
+51,people,0.09853327447168517,He has never had Omani food. Many of their people are poor.,EMGSD,stereotype,0,0
+51,are,-0.03919250218972842,He has never had Omani food. Many of their people are poor.,EMGSD,stereotype,0,0
+51,poor,-0.35123391175173885,He has never had Omani food. Many of their people are poor.,EMGSD,stereotype,0,0
+52,Native,0.06945978476229231,Native american people are poor,EMGSD,stereotype,0,0
+52,american,0.09031940635780777,Native american people are poor,EMGSD,stereotype,0,0
+52,people,-0.032320885230104054,Native american people are poor,EMGSD,stereotype,0,0
+52,are,-0.07692073365780419,Native american people are poor,EMGSD,stereotype,0,0
+52,poor,-0.19323424138048131,Native american people are poor,EMGSD,stereotype,0,0
+53,Afghans,-0.03890070334532746, Afghans insurgents carried out brutal attacks,EMGSD,stereotype,0,0
+53,insurgents,-0.07294654719124534, Afghans insurgents carried out brutal attacks,EMGSD,stereotype,0,0
+53,carried,0.058068300048026336, Afghans insurgents carried out brutal attacks,EMGSD,stereotype,0,0
+53,out,-0.08822079311656521, Afghans insurgents carried out brutal attacks,EMGSD,stereotype,0,0
+53,brutal,-0.1138945349385395, Afghans insurgents carried out brutal attacks,EMGSD,stereotype,0,0
+53,attacks,-0.10042375859141695, Afghans insurgents carried out brutal attacks,EMGSD,stereotype,0,0
+54,The,0.03303240335365951,The ladies are in the club. The are very slutty.,EMGSD,stereotype,0,0
+54,ladies,-0.04372514734615892,The ladies are in the club. The are very slutty.,EMGSD,stereotype,0,0
+54,are,-0.05251493374747784,The ladies are in the club. The are very slutty.,EMGSD,stereotype,0,0
+54,in,0.0005213226378087596,The ladies are in the club. The are very slutty.,EMGSD,stereotype,0,0
+54,the,0.047542384707200534,The ladies are in the club. The are very slutty.,EMGSD,stereotype,0,0
+54,club,0.06124060469814792,The ladies are in the club. The are very slutty.,EMGSD,stereotype,0,0
+54,The,0.03303240335365951,The ladies are in the club. The are very slutty.,EMGSD,stereotype,0,0
+54,are,-0.05251493374747784,The ladies are in the club. The are very slutty.,EMGSD,stereotype,0,0
+54,very,-0.03473387415444719,The ladies are in the club. The are very slutty.,EMGSD,stereotype,0,0
+54,slutty,-0.25398631720762394,The ladies are in the club. The are very slutty.,EMGSD,stereotype,0,0
+55,The,0.02350380078699196,The Zambian uncivilized tribe lacked basic manners,EMGSD,stereotype,0,0
+55,Zambian,0.019012023686221045,The Zambian uncivilized tribe lacked basic manners,EMGSD,stereotype,0,0
+55,uncivilized,-0.2601723872604127,The Zambian uncivilized tribe lacked basic manners,EMGSD,stereotype,0,0
+55,tribe,-0.05239768929657466,The Zambian uncivilized tribe lacked basic manners,EMGSD,stereotype,0,0
+55,lacked,-0.15768930519047103,The Zambian uncivilized tribe lacked basic manners,EMGSD,stereotype,0,0
+55,basic,-0.056732155650662974,The Zambian uncivilized tribe lacked basic manners,EMGSD,stereotype,0,0
+55,manners,-0.09463647988965407,The Zambian uncivilized tribe lacked basic manners,EMGSD,stereotype,0,0
+56,I,-0.06525414664741033,I would like to travel to Africa for a week. Most people of this decent are black skinned and thin.,EMGSD,stereotype,0,0
+56,would,0.08880846713032597,I would like to travel to Africa for a week. Most people of this decent are black skinned and thin.,EMGSD,stereotype,0,0
+56,like,0.0033787382352819945,I would like to travel to Africa for a week. Most people of this decent are black skinned and thin.,EMGSD,stereotype,0,0
+56,to,0.0051874218478433695,I would like to travel to Africa for a week. Most people of this decent are black skinned and thin.,EMGSD,stereotype,0,0
+56,travel,0.11075708609849282,I would like to travel to Africa for a week. Most people of this decent are black skinned and thin.,EMGSD,stereotype,0,0
+56,to,0.0051874218478433695,I would like to travel to Africa for a week. Most people of this decent are black skinned and thin.,EMGSD,stereotype,0,0
+56,Africa,0.010834977594941102,I would like to travel to Africa for a week. Most people of this decent are black skinned and thin.,EMGSD,stereotype,0,0
+56,for,0.03355937042115617,I would like to travel to Africa for a week. Most people of this decent are black skinned and thin.,EMGSD,stereotype,0,0
+56,a,-0.050971934443996926,I would like to travel to Africa for a week. Most people of this decent are black skinned and thin.,EMGSD,stereotype,0,0
+56,week,0.09079194499890712,I would like to travel to Africa for a week. Most people of this decent are black skinned and thin.,EMGSD,stereotype,0,0
+56,Most,-0.004735474847262682,I would like to travel to Africa for a week. Most people of this decent are black skinned and thin.,EMGSD,stereotype,0,0
+56,people,-0.1610210638219982,I would like to travel to Africa for a week. Most people of this decent are black skinned and thin.,EMGSD,stereotype,0,0
+56,of,-0.1486527436198194,I would like to travel to Africa for a week. Most people of this decent are black skinned and thin.,EMGSD,stereotype,0,0
+56,this,-0.06868821250360466,I would like to travel to Africa for a week. Most people of this decent are black skinned and thin.,EMGSD,stereotype,0,0
+56,decent,0.3836105081971122,I would like to travel to Africa for a week. Most people of this decent are black skinned and thin.,EMGSD,stereotype,0,0
+56,are,-0.28108815691201444,I would like to travel to Africa for a week. Most people of this decent are black skinned and thin.,EMGSD,stereotype,0,0
+56,black,-0.19718008368956197,I would like to travel to Africa for a week. Most people of this decent are black skinned and thin.,EMGSD,stereotype,0,0
+56,skinned,0.15720094165697024,I would like to travel to Africa for a week. Most people of this decent are black skinned and thin.,EMGSD,stereotype,0,0
+56,and,0.028273469295061474,I would like to travel to Africa for a week. Most people of this decent are black skinned and thin.,EMGSD,stereotype,0,0
+56,thin,-0.10204960661236237,I would like to travel to Africa for a week. Most people of this decent are black skinned and thin.,EMGSD,stereotype,0,0
+57,His,0.005947303367493003,His sister wanted to play. They played dress up and house.,EMGSD,stereotype,0,0
+57,sister,0.012441451402221172,His sister wanted to play. They played dress up and house.,EMGSD,stereotype,0,0
+57,wanted,0.037688426830186084,His sister wanted to play. They played dress up and house.,EMGSD,stereotype,0,0
+57,to,0.09385926854944326,His sister wanted to play. They played dress up and house.,EMGSD,stereotype,0,0
+57,play,-0.06386476233188053,His sister wanted to play. They played dress up and house.,EMGSD,stereotype,0,0
+57,They,-0.0556565244812259,His sister wanted to play. They played dress up and house.,EMGSD,stereotype,0,0
+57,played,0.07905573164564371,His sister wanted to play. They played dress up and house.,EMGSD,stereotype,0,0
+57,dress,0.320640988408752,His sister wanted to play. They played dress up and house.,EMGSD,stereotype,0,0
+57,up,-0.019933729872551056,His sister wanted to play. They played dress up and house.,EMGSD,stereotype,0,0
+57,and,0.006212018908110543,His sister wanted to play. They played dress up and house.,EMGSD,stereotype,0,0
+57,house,-0.1293576710581624,His sister wanted to play. They played dress up and house.,EMGSD,stereotype,0,0
+58,chess,-0.05132607115258044,chess player practices the game always thinking a few moves ahead,EMGSD,stereotype,0,0
+58,player,0.06740288718244053,chess player practices the game always thinking a few moves ahead,EMGSD,stereotype,0,0
+58,practices,0.017843253942230446,chess player practices the game always thinking a few moves ahead,EMGSD,stereotype,0,0
+58,the,-0.011681363754724576,chess player practices the game always thinking a few moves ahead,EMGSD,stereotype,0,0
+58,game,-0.06974389098072449,chess player practices the game always thinking a few moves ahead,EMGSD,stereotype,0,0
+58,always,-0.002944828134790543,chess player practices the game always thinking a few moves ahead,EMGSD,stereotype,0,0
+58,thinking,-0.1338337560679468,chess player practices the game always thinking a few moves ahead,EMGSD,stereotype,0,0
+58,a,-0.020269188505808687,chess player practices the game always thinking a few moves ahead,EMGSD,stereotype,0,0
+58,few,-0.0020691168387468924,chess player practices the game always thinking a few moves ahead,EMGSD,stereotype,0,0
+58,moves,0.03968887852886022,chess player practices the game always thinking a few moves ahead,EMGSD,stereotype,0,0
+58,ahead,-0.0052311228113952725,chess player practices the game always thinking a few moves ahead,EMGSD,stereotype,0,0
+59,They,-0.03129325314650805,They were all of Iranian descent. They are all very conservative.,EMGSD,stereotype,0,0
+59,were,-0.01033023892859394,They were all of Iranian descent. They are all very conservative.,EMGSD,stereotype,0,0
+59,all,-0.26317100000124805,They were all of Iranian descent. They are all very conservative.,EMGSD,stereotype,0,0
+59,of,0.028384427258790992,They were all of Iranian descent. They are all very conservative.,EMGSD,stereotype,0,0
+59,Iranian,0.05952410922885831,They were all of Iranian descent. They are all very conservative.,EMGSD,stereotype,0,0
+59,descent,0.0745514704792539,They were all of Iranian descent. They are all very conservative.,EMGSD,stereotype,0,0
+59,They,-0.03129325314650805,They were all of Iranian descent. They are all very conservative.,EMGSD,stereotype,0,0
+59,are,-0.13549038093404692,They were all of Iranian descent. They are all very conservative.,EMGSD,stereotype,0,0
+59,all,-0.26317100000124805,They were all of Iranian descent. They are all very conservative.,EMGSD,stereotype,0,0
+59,very,-0.08345455394222318,They were all of Iranian descent. They are all very conservative.,EMGSD,stereotype,0,0
+59,conservative,0.017764798648503072,They were all of Iranian descent. They are all very conservative.,EMGSD,stereotype,0,0
+60,The,-0.020020902802715613,"The trinity is the father, the son, and the holy spirit. All three can cause spiritual redemption with faith.",EMGSD,stereotype,1,0
+60,trinity,0.0623349948480136,"The trinity is the father, the son, and the holy spirit. All three can cause spiritual redemption with faith.",EMGSD,stereotype,1,0
+60,is,0.011507731354436633,"The trinity is the father, the son, and the holy spirit. All three can cause spiritual redemption with faith.",EMGSD,stereotype,1,0
+60,the,-0.018593262170929332,"The trinity is the father, the son, and the holy spirit. All three can cause spiritual redemption with faith.",EMGSD,stereotype,1,0
+60,father,-0.0007023717979092579,"The trinity is the father, the son, and the holy spirit. All three can cause spiritual redemption with faith.",EMGSD,stereotype,1,0
+60,the,-0.018593262170929332,"The trinity is the father, the son, and the holy spirit. All three can cause spiritual redemption with faith.",EMGSD,stereotype,1,0
+60,son,0.05247070310057794,"The trinity is the father, the son, and the holy spirit. All three can cause spiritual redemption with faith.",EMGSD,stereotype,1,0
+60,and,0.004357390906939095,"The trinity is the father, the son, and the holy spirit. All three can cause spiritual redemption with faith.",EMGSD,stereotype,1,0
+60,the,-0.018593262170929332,"The trinity is the father, the son, and the holy spirit. All three can cause spiritual redemption with faith.",EMGSD,stereotype,1,0
+60,holy,-0.14129179656002186,"The trinity is the father, the son, and the holy spirit. All three can cause spiritual redemption with faith.",EMGSD,stereotype,1,0
+60,spirit,0.050765123915718975,"The trinity is the father, the son, and the holy spirit. All three can cause spiritual redemption with faith.",EMGSD,stereotype,1,0
+60,All,0.1313233848750248,"The trinity is the father, the son, and the holy spirit. All three can cause spiritual redemption with faith.",EMGSD,stereotype,1,0
+60,three,0.03103199022413405,"The trinity is the father, the son, and the holy spirit. All three can cause spiritual redemption with faith.",EMGSD,stereotype,1,0
+60,can,0.16784396693161738,"The trinity is the father, the son, and the holy spirit. All three can cause spiritual redemption with faith.",EMGSD,stereotype,1,0
+60,cause,0.11410896232113855,"The trinity is the father, the son, and the holy spirit. All three can cause spiritual redemption with faith.",EMGSD,stereotype,1,0
+60,spiritual,0.016845403379949168,"The trinity is the father, the son, and the holy spirit. All three can cause spiritual redemption with faith.",EMGSD,stereotype,1,0
+60,redemption,0.3537897124955935,"The trinity is the father, the son, and the holy spirit. All three can cause spiritual redemption with faith.",EMGSD,stereotype,1,0
+60,with,0.09723551874942464,"The trinity is the father, the son, and the holy spirit. All three can cause spiritual redemption with faith.",EMGSD,stereotype,1,0
+60,faith,-0.023430820481942477,"The trinity is the father, the son, and the holy spirit. All three can cause spiritual redemption with faith.",EMGSD,stereotype,1,0
+61,A,-0.06188175036740604,A carpenter fixed my home. He was friendly and professional.,EMGSD,stereotype,1,0
+61,carpenter,-0.25005731941150333,A carpenter fixed my home. He was friendly and professional.,EMGSD,stereotype,1,0
+61,fixed,0.11062480191905949,A carpenter fixed my home. He was friendly and professional.,EMGSD,stereotype,1,0
+61,my,-0.04792648507829947,A carpenter fixed my home. He was friendly and professional.,EMGSD,stereotype,1,0
+61,home,0.16143493442304713,A carpenter fixed my home. He was friendly and professional.,EMGSD,stereotype,1,0
+61,He,-0.027383771516241266,A carpenter fixed my home. He was friendly and professional.,EMGSD,stereotype,1,0
+61,was,-0.16481164492603545,A carpenter fixed my home. He was friendly and professional.,EMGSD,stereotype,1,0
+61,friendly,0.13512368515146247,A carpenter fixed my home. He was friendly and professional.,EMGSD,stereotype,1,0
+61,and,0.0873707546365976,A carpenter fixed my home. He was friendly and professional.,EMGSD,stereotype,1,0
+61,professional,-0.0042771527310359785,A carpenter fixed my home. He was friendly and professional.,EMGSD,stereotype,1,0
+62,She,-0.003942157826498583,She wanted to follow in her mother's footsteps and become a nurse.,EMGSD,stereotype,1,0
+62,wanted,-0.010309072408725691,She wanted to follow in her mother's footsteps and become a nurse.,EMGSD,stereotype,1,0
+62,to,-0.004458030035485422,She wanted to follow in her mother's footsteps and become a nurse.,EMGSD,stereotype,1,0
+62,follow,0.23994874096590868,She wanted to follow in her mother's footsteps and become a nurse.,EMGSD,stereotype,1,0
+62,in,0.03681280774534244,She wanted to follow in her mother's footsteps and become a nurse.,EMGSD,stereotype,1,0
+62,her,0.06629125175393917,She wanted to follow in her mother's footsteps and become a nurse.,EMGSD,stereotype,1,0
+62,mother,-0.003445630390816714,She wanted to follow in her mother's footsteps and become a nurse.,EMGSD,stereotype,1,0
+62,s,0.005604107784438613,She wanted to follow in her mother's footsteps and become a nurse.,EMGSD,stereotype,1,0
+62,footsteps,-0.012783856157864737,She wanted to follow in her mother's footsteps and become a nurse.,EMGSD,stereotype,1,0
+62,and,-0.01869013903090806,She wanted to follow in her mother's footsteps and become a nurse.,EMGSD,stereotype,1,0
+62,become,-0.007956015151267853,She wanted to follow in her mother's footsteps and become a nurse.,EMGSD,stereotype,1,0
+62,a,0.047424744952917555,She wanted to follow in her mother's footsteps and become a nurse.,EMGSD,stereotype,1,0
+62,nurse,0.10039933564803186,She wanted to follow in her mother's footsteps and become a nurse.,EMGSD,stereotype,1,0
+63,The,-0.03567918487974861,The friendly commander was a born leader.,EMGSD,stereotype,1,0
+63,friendly,0.39782490570775414,The friendly commander was a born leader.,EMGSD,stereotype,1,0
+63,commander,-0.0604313867889999,The friendly commander was a born leader.,EMGSD,stereotype,1,0
+63,was,-0.0646727727298696,The friendly commander was a born leader.,EMGSD,stereotype,1,0
+63,a,0.002743465486270847,The friendly commander was a born leader.,EMGSD,stereotype,1,0
+63,born,0.12671103125921362,The friendly commander was a born leader.,EMGSD,stereotype,1,0
+63,leader,-0.12665765909275142,The friendly commander was a born leader.,EMGSD,stereotype,1,0
+64,Ireland,-0.022364207321665348,"Ireland is full of green, rolling hills.",EMGSD,stereotype,2,0
+64,is,-0.03888143471972662,"Ireland is full of green, rolling hills.",EMGSD,stereotype,2,0
+64,full,0.01697227505615996,"Ireland is full of green, rolling hills.",EMGSD,stereotype,2,0
+64,of,-0.014639719336933733,"Ireland is full of green, rolling hills.",EMGSD,stereotype,2,0
+64,green,-0.13506630682247794,"Ireland is full of green, rolling hills.",EMGSD,stereotype,2,0
+64,rolling,-0.02011322906003336,"Ireland is full of green, rolling hills.",EMGSD,stereotype,2,0
+64,hills,0.009423289322869854,"Ireland is full of green, rolling hills.",EMGSD,stereotype,2,0
+65,I,-0.005410017847055334,I am studying to become a linguist. I am white and my parents paid for my education.,EMGSD,stereotype,1,0
+65,am,0.314871675087123,I am studying to become a linguist. I am white and my parents paid for my education.,EMGSD,stereotype,1,0
+65,studying,0.008211970955325122,I am studying to become a linguist. I am white and my parents paid for my education.,EMGSD,stereotype,1,0
+65,to,0.03057717921009733,I am studying to become a linguist. I am white and my parents paid for my education.,EMGSD,stereotype,1,0
+65,become,-0.011009032032554026,I am studying to become a linguist. I am white and my parents paid for my education.,EMGSD,stereotype,1,0
+65,a,-0.047198127277012135,I am studying to become a linguist. I am white and my parents paid for my education.,EMGSD,stereotype,1,0
+65,linguist,-0.027339997840330053,I am studying to become a linguist. I am white and my parents paid for my education.,EMGSD,stereotype,1,0
+65,I,-0.005410017847055334,I am studying to become a linguist. I am white and my parents paid for my education.,EMGSD,stereotype,1,0
+65,am,0.314871675087123,I am studying to become a linguist. I am white and my parents paid for my education.,EMGSD,stereotype,1,0
+65,white,-0.003449482360127605,I am studying to become a linguist. I am white and my parents paid for my education.,EMGSD,stereotype,1,0
+65,and,0.17749468994205383,I am studying to become a linguist. I am white and my parents paid for my education.,EMGSD,stereotype,1,0
+65,my,-0.1273650101607855,I am studying to become a linguist. I am white and my parents paid for my education.,EMGSD,stereotype,1,0
+65,parents,0.07443173371011151,I am studying to become a linguist. I am white and my parents paid for my education.,EMGSD,stereotype,1,0
+65,paid,0.3524457353123039,I am studying to become a linguist. I am white and my parents paid for my education.,EMGSD,stereotype,1,0
+65,for,-0.027378930762635124,I am studying to become a linguist. I am white and my parents paid for my education.,EMGSD,stereotype,1,0
+65,my,-0.1273650101607855,I am studying to become a linguist. I am white and my parents paid for my education.,EMGSD,stereotype,1,0
+65,education,0.20070129485168348,I am studying to become a linguist. I am white and my parents paid for my education.,EMGSD,stereotype,1,0
+66,My,0.09928095664499687,My friend is from Jordan and we hand out sometimes. She is not very good at sports.,EMGSD,stereotype,1,0
+66,friend,-0.03306873852917936,My friend is from Jordan and we hand out sometimes. She is not very good at sports.,EMGSD,stereotype,1,0
+66,is,-0.08862824467240621,My friend is from Jordan and we hand out sometimes. She is not very good at sports.,EMGSD,stereotype,1,0
+66,from,0.05710337752023808,My friend is from Jordan and we hand out sometimes. She is not very good at sports.,EMGSD,stereotype,1,0
+66,Jordan,0.019000135707541502,My friend is from Jordan and we hand out sometimes. She is not very good at sports.,EMGSD,stereotype,1,0
+66,and,0.04594783818014789,My friend is from Jordan and we hand out sometimes. She is not very good at sports.,EMGSD,stereotype,1,0
+66,we,0.12272029720066098,My friend is from Jordan and we hand out sometimes. She is not very good at sports.,EMGSD,stereotype,1,0
+66,hand,-0.10519609844018411,My friend is from Jordan and we hand out sometimes. She is not very good at sports.,EMGSD,stereotype,1,0
+66,out,0.03012067443838136,My friend is from Jordan and we hand out sometimes. She is not very good at sports.,EMGSD,stereotype,1,0
+66,sometimes,0.028049666226241353,My friend is from Jordan and we hand out sometimes. She is not very good at sports.,EMGSD,stereotype,1,0
+66,She,0.23587168468783987,My friend is from Jordan and we hand out sometimes. She is not very good at sports.,EMGSD,stereotype,1,0
+66,is,-0.08862824467240621,My friend is from Jordan and we hand out sometimes. She is not very good at sports.,EMGSD,stereotype,1,0
+66,not,0.19157147058734883,My friend is from Jordan and we hand out sometimes. She is not very good at sports.,EMGSD,stereotype,1,0
+66,very,0.015747464078228877,My friend is from Jordan and we hand out sometimes. She is not very good at sports.,EMGSD,stereotype,1,0
+66,good,0.06859031144495709,My friend is from Jordan and we hand out sometimes. She is not very good at sports.,EMGSD,stereotype,1,0
+66,at,0.07935539241368082,My friend is from Jordan and we hand out sometimes. She is not very good at sports.,EMGSD,stereotype,1,0
+66,sports,0.1320720434544781,My friend is from Jordan and we hand out sometimes. She is not very good at sports.,EMGSD,stereotype,1,0
+67,Many,-0.023953729103494716,Many people think south africans are british.,EMGSD,stereotype,1,0
+67,people,0.06311502124205075,Many people think south africans are british.,EMGSD,stereotype,1,0
+67,think,-0.10567364750319269,Many people think south africans are british.,EMGSD,stereotype,1,0
+67,south,-0.0035532720773511508,Many people think south africans are british.,EMGSD,stereotype,1,0
+67,africans,0.2663152575090334,Many people think south africans are british.,EMGSD,stereotype,1,0
+67,are,-0.08497939518505841,Many people think south africans are british.,EMGSD,stereotype,1,0
+67,british,0.37783124410655705,Many people think south africans are british.,EMGSD,stereotype,1,0
+68,The,0.08236288281217252,The attourney  is working today. He has gone to very renowned law schools.,EMGSD,stereotype,1,0
+68,attourney,-0.023307353841245458,The attourney  is working today. He has gone to very renowned law schools.,EMGSD,stereotype,1,0
+68,is,0.09780104854817714,The attourney  is working today. He has gone to very renowned law schools.,EMGSD,stereotype,1,0
+68,working,0.036206253049720805,The attourney  is working today. He has gone to very renowned law schools.,EMGSD,stereotype,1,0
+68,today,0.008259274635093374,The attourney  is working today. He has gone to very renowned law schools.,EMGSD,stereotype,1,0
+68,He,0.07743711560053779,The attourney  is working today. He has gone to very renowned law schools.,EMGSD,stereotype,1,0
+68,has,0.0009493324446678117,The attourney  is working today. He has gone to very renowned law schools.,EMGSD,stereotype,1,0
+68,gone,0.03329038963182231,The attourney  is working today. He has gone to very renowned law schools.,EMGSD,stereotype,1,0
+68,to,0.10306778239445105,The attourney  is working today. He has gone to very renowned law schools.,EMGSD,stereotype,1,0
+68,very,-0.021905440754429007,The attourney  is working today. He has gone to very renowned law schools.,EMGSD,stereotype,1,0
+68,renowned,0.22408759829513952,The attourney  is working today. He has gone to very renowned law schools.,EMGSD,stereotype,1,0
+68,law,0.041082892169543715,The attourney  is working today. He has gone to very renowned law schools.,EMGSD,stereotype,1,0
+68,schools,0.08350600072169341,The attourney  is working today. He has gone to very renowned law schools.,EMGSD,stereotype,1,0
+69,When,-0.03332658511982971,"When I have a problem, I go to ma'am for a solution she is always right",EMGSD,stereotype,1,0
+69,I,-0.05070939831265695,"When I have a problem, I go to ma'am for a solution she is always right",EMGSD,stereotype,1,0
+69,have,0.04905941087687221,"When I have a problem, I go to ma'am for a solution she is always right",EMGSD,stereotype,1,0
+69,a,0.016563456128031038,"When I have a problem, I go to ma'am for a solution she is always right",EMGSD,stereotype,1,0
+69,problem,0.047548234985503604,"When I have a problem, I go to ma'am for a solution she is always right",EMGSD,stereotype,1,0
+69,I,-0.05070939831265695,"When I have a problem, I go to ma'am for a solution she is always right",EMGSD,stereotype,1,0
+69,go,0.04115958277114363,"When I have a problem, I go to ma'am for a solution she is always right",EMGSD,stereotype,1,0
+69,to,0.08202451197099773,"When I have a problem, I go to ma'am for a solution she is always right",EMGSD,stereotype,1,0
+69,ma,0.1075018527149789,"When I have a problem, I go to ma'am for a solution she is always right",EMGSD,stereotype,1,0
+69,am,-0.05385612332236904,"When I have a problem, I go to ma'am for a solution she is always right",EMGSD,stereotype,1,0
+69,for,0.09971147738124156,"When I have a problem, I go to ma'am for a solution she is always right",EMGSD,stereotype,1,0
+69,a,0.016563456128031038,"When I have a problem, I go to ma'am for a solution she is always right",EMGSD,stereotype,1,0
+69,solution,-0.0693126377830273,"When I have a problem, I go to ma'am for a solution she is always right",EMGSD,stereotype,1,0
+69,she,0.26826218297906623,"When I have a problem, I go to ma'am for a solution she is always right",EMGSD,stereotype,1,0
+69,is,0.2667907261911087,"When I have a problem, I go to ma'am for a solution she is always right",EMGSD,stereotype,1,0
+69,always,0.023864188172955592,"When I have a problem, I go to ma'am for a solution she is always right",EMGSD,stereotype,1,0
+69,right,0.014041043531974336,"When I have a problem, I go to ma'am for a solution she is always right",EMGSD,stereotype,1,0
+70,All,0.09682465581566502,All ukraine people are white.,EMGSD,stereotype,1,0
+70,ukraine,0.2934984441655132,All ukraine people are white.,EMGSD,stereotype,1,0
+70,people,0.03846614699088487,All ukraine people are white.,EMGSD,stereotype,1,0
+70,are,0.10032647900588923,All ukraine people are white.,EMGSD,stereotype,1,0
+70,white,0.3232469700588438,All ukraine people are white.,EMGSD,stereotype,1,0
+71,The,0.05497842323562505,The husband was absent from the kid's parent-teacher conference.,EMGSD,stereotype,1,0
+71,husband,0.07149235164744476,The husband was absent from the kid's parent-teacher conference.,EMGSD,stereotype,1,0
+71,was,0.044636471220760976,The husband was absent from the kid's parent-teacher conference.,EMGSD,stereotype,1,0
+71,absent,0.11720239169187072,The husband was absent from the kid's parent-teacher conference.,EMGSD,stereotype,1,0
+71,from,0.13644917253794223,The husband was absent from the kid's parent-teacher conference.,EMGSD,stereotype,1,0
+71,the,0.02807670036503117,The husband was absent from the kid's parent-teacher conference.,EMGSD,stereotype,1,0
+71,kid,0.006363431082106163,The husband was absent from the kid's parent-teacher conference.,EMGSD,stereotype,1,0
+71,s,0.2069232834470352,The husband was absent from the kid's parent-teacher conference.,EMGSD,stereotype,1,0
+71,parent,0.07129627650747285,The husband was absent from the kid's parent-teacher conference.,EMGSD,stereotype,1,0
+71,teacher,0.09827026165850282,The husband was absent from the kid's parent-teacher conference.,EMGSD,stereotype,1,0
+71,conference,0.10489915991562541,The husband was absent from the kid's parent-teacher conference.,EMGSD,stereotype,1,0
+72,The,0.03722280996064917,The son helped take care of the lawn.,EMGSD,stereotype,1,0
+72,son,0.04861445181819191,The son helped take care of the lawn.,EMGSD,stereotype,1,0
+72,helped,0.10804808968394966,The son helped take care of the lawn.,EMGSD,stereotype,1,0
+72,take,0.20322362468131386,The son helped take care of the lawn.,EMGSD,stereotype,1,0
+72,care,0.14400009910919018,The son helped take care of the lawn.,EMGSD,stereotype,1,0
+72,of,0.02096070139986892,The son helped take care of the lawn.,EMGSD,stereotype,1,0
+72,the,0.2829809713392309,The son helped take care of the lawn.,EMGSD,stereotype,1,0
+72,lawn,-0.13145812702083573,The son helped take care of the lawn.,EMGSD,stereotype,1,0
+73,When,-0.041734717592362684,When my dog died I needed a counselor to get me through my grief. She was very insightful and empathetic to my issues.,EMGSD,stereotype,1,0
+73,my,-0.01152470070548219,When my dog died I needed a counselor to get me through my grief. She was very insightful and empathetic to my issues.,EMGSD,stereotype,1,0
+73,dog,0.0790471247484268,When my dog died I needed a counselor to get me through my grief. She was very insightful and empathetic to my issues.,EMGSD,stereotype,1,0
+73,died,-0.0018569296466381133,When my dog died I needed a counselor to get me through my grief. She was very insightful and empathetic to my issues.,EMGSD,stereotype,1,0
+73,I,0.08132391846196374,When my dog died I needed a counselor to get me through my grief. She was very insightful and empathetic to my issues.,EMGSD,stereotype,1,0
+73,needed,0.1513741196978901,When my dog died I needed a counselor to get me through my grief. She was very insightful and empathetic to my issues.,EMGSD,stereotype,1,0
+73,a,-0.05606614875780789,When my dog died I needed a counselor to get me through my grief. She was very insightful and empathetic to my issues.,EMGSD,stereotype,1,0
+73,counselor,-0.2708944450453228,When my dog died I needed a counselor to get me through my grief. She was very insightful and empathetic to my issues.,EMGSD,stereotype,1,0
+73,to,0.030828365402372795,When my dog died I needed a counselor to get me through my grief. She was very insightful and empathetic to my issues.,EMGSD,stereotype,1,0
+73,get,0.10974628428316385,When my dog died I needed a counselor to get me through my grief. She was very insightful and empathetic to my issues.,EMGSD,stereotype,1,0
+73,me,-0.08831779542626171,When my dog died I needed a counselor to get me through my grief. She was very insightful and empathetic to my issues.,EMGSD,stereotype,1,0
+73,through,-0.08070353245768404,When my dog died I needed a counselor to get me through my grief. She was very insightful and empathetic to my issues.,EMGSD,stereotype,1,0
+73,my,-0.01152470070548219,When my dog died I needed a counselor to get me through my grief. She was very insightful and empathetic to my issues.,EMGSD,stereotype,1,0
+73,grief,0.06426476137497264,When my dog died I needed a counselor to get me through my grief. She was very insightful and empathetic to my issues.,EMGSD,stereotype,1,0
+73,She,0.09928069405764606,When my dog died I needed a counselor to get me through my grief. She was very insightful and empathetic to my issues.,EMGSD,stereotype,1,0
+73,was,0.01848458720814949,When my dog died I needed a counselor to get me through my grief. She was very insightful and empathetic to my issues.,EMGSD,stereotype,1,0
+73,very,-0.017871328098736164,When my dog died I needed a counselor to get me through my grief. She was very insightful and empathetic to my issues.,EMGSD,stereotype,1,0
+73,insightful,0.08264382663902312,When my dog died I needed a counselor to get me through my grief. She was very insightful and empathetic to my issues.,EMGSD,stereotype,1,0
+73,and,0.007177326417246855,When my dog died I needed a counselor to get me through my grief. She was very insightful and empathetic to my issues.,EMGSD,stereotype,1,0
+73,empathetic,0.06360150395613594,When my dog died I needed a counselor to get me through my grief. She was very insightful and empathetic to my issues.,EMGSD,stereotype,1,0
+73,to,0.030828365402372795,When my dog died I needed a counselor to get me through my grief. She was very insightful and empathetic to my issues.,EMGSD,stereotype,1,0
+73,my,-0.01152470070548219,When my dog died I needed a counselor to get me through my grief. She was very insightful and empathetic to my issues.,EMGSD,stereotype,1,0
+73,issues,0.048706289410309134,When my dog died I needed a counselor to get me through my grief. She was very insightful and empathetic to my issues.,EMGSD,stereotype,1,0
+74,His,0.1770047705551247,His son called him the other day. His favorite color is blue.,EMGSD,stereotype,1,0
+74,son,0.09443126230092701,His son called him the other day. His favorite color is blue.,EMGSD,stereotype,1,0
+74,called,-0.059516557475345774,His son called him the other day. His favorite color is blue.,EMGSD,stereotype,1,0
+74,him,-0.07946522544139796,His son called him the other day. His favorite color is blue.,EMGSD,stereotype,1,0
+74,the,0.0882183947410742,His son called him the other day. His favorite color is blue.,EMGSD,stereotype,1,0
+74,other,-0.019227681890942757,His son called him the other day. His favorite color is blue.,EMGSD,stereotype,1,0
+74,day,-0.11991531473537127,His son called him the other day. His favorite color is blue.,EMGSD,stereotype,1,0
+74,His,0.1770047705551247,His son called him the other day. His favorite color is blue.,EMGSD,stereotype,1,0
+74,favorite,0.14694477154599422,His son called him the other day. His favorite color is blue.,EMGSD,stereotype,1,0
+74,color,0.07604542269361708,His son called him the other day. His favorite color is blue.,EMGSD,stereotype,1,0
+74,is,0.2566411886825507,His son called him the other day. His favorite color is blue.,EMGSD,stereotype,1,0
+74,blue,0.16668993665099968,His son called him the other day. His favorite color is blue.,EMGSD,stereotype,1,0
+75,the,-0.145593095775023,the swimmer made it to a island and showboated the whole time,EMGSD,stereotype,1,0
+75,swimmer,-0.11040569737462202,the swimmer made it to a island and showboated the whole time,EMGSD,stereotype,1,0
+75,made,0.09643631367743849,the swimmer made it to a island and showboated the whole time,EMGSD,stereotype,1,0
+75,it,0.17240727589872745,the swimmer made it to a island and showboated the whole time,EMGSD,stereotype,1,0
+75,to,0.22992841390209812,the swimmer made it to a island and showboated the whole time,EMGSD,stereotype,1,0
+75,a,0.11231774471796308,the swimmer made it to a island and showboated the whole time,EMGSD,stereotype,1,0
+75,island,-0.13119101603323444,the swimmer made it to a island and showboated the whole time,EMGSD,stereotype,1,0
+75,and,0.21226039255349594,the swimmer made it to a island and showboated the whole time,EMGSD,stereotype,1,0
+75,showboated,0.1998776586777078,the swimmer made it to a island and showboated the whole time,EMGSD,stereotype,1,0
+75,the,-0.145593095775023,the swimmer made it to a island and showboated the whole time,EMGSD,stereotype,1,0
+75,whole,0.11325833968358702,the swimmer made it to a island and showboated the whole time,EMGSD,stereotype,1,0
+75,time,-0.06053431408803702,the swimmer made it to a island and showboated the whole time,EMGSD,stereotype,1,0
+76,You,-0.020053326635489543,You can buy nice blankets in Ukraine. There is beautiful blonde women throughout the country.,EMGSD,stereotype,1,0
+76,can,0.06279961613121576,You can buy nice blankets in Ukraine. There is beautiful blonde women throughout the country.,EMGSD,stereotype,1,0
+76,buy,-0.021771551733939673,You can buy nice blankets in Ukraine. There is beautiful blonde women throughout the country.,EMGSD,stereotype,1,0
+76,nice,0.07749125328799118,You can buy nice blankets in Ukraine. There is beautiful blonde women throughout the country.,EMGSD,stereotype,1,0
+76,blankets,0.0729419437853892,You can buy nice blankets in Ukraine. There is beautiful blonde women throughout the country.,EMGSD,stereotype,1,0
+76,in,-0.07323573250265966,You can buy nice blankets in Ukraine. There is beautiful blonde women throughout the country.,EMGSD,stereotype,1,0
+76,Ukraine,0.2970749633964908,You can buy nice blankets in Ukraine. There is beautiful blonde women throughout the country.,EMGSD,stereotype,1,0
+76,There,0.1509968614419154,You can buy nice blankets in Ukraine. There is beautiful blonde women throughout the country.,EMGSD,stereotype,1,0
+76,is,0.015683677137215718,You can buy nice blankets in Ukraine. There is beautiful blonde women throughout the country.,EMGSD,stereotype,1,0
+76,beautiful,0.04610767963145521,You can buy nice blankets in Ukraine. There is beautiful blonde women throughout the country.,EMGSD,stereotype,1,0
+76,blonde,-0.05740465579024883,You can buy nice blankets in Ukraine. There is beautiful blonde women throughout the country.,EMGSD,stereotype,1,0
+76,women,0.056618027162884096,You can buy nice blankets in Ukraine. There is beautiful blonde women throughout the country.,EMGSD,stereotype,1,0
+76,throughout,0.03310845355561031,You can buy nice blankets in Ukraine. There is beautiful blonde women throughout the country.,EMGSD,stereotype,1,0
+76,the,-0.04075970601394367,You can buy nice blankets in Ukraine. There is beautiful blonde women throughout the country.,EMGSD,stereotype,1,0
+76,country,0.09111702312022835,You can buy nice blankets in Ukraine. There is beautiful blonde women throughout the country.,EMGSD,stereotype,1,0
+77,I,-0.08201902707403483,I went to the doctor. I couldn't read his handwriting.,EMGSD,stereotype,1,0
+77,went,-0.007338356833531029,I went to the doctor. I couldn't read his handwriting.,EMGSD,stereotype,1,0
+77,to,0.025415669650152545,I went to the doctor. I couldn't read his handwriting.,EMGSD,stereotype,1,0
+77,the,0.03743268715394909,I went to the doctor. I couldn't read his handwriting.,EMGSD,stereotype,1,0
+77,doctor,0.15901960912379978,I went to the doctor. I couldn't read his handwriting.,EMGSD,stereotype,1,0
+77,I,-0.08201902707403483,I went to the doctor. I couldn't read his handwriting.,EMGSD,stereotype,1,0
+77,couldn,0.018356952055304653,I went to the doctor. I couldn't read his handwriting.,EMGSD,stereotype,1,0
+77,t,0.17478674439165753,I went to the doctor. I couldn't read his handwriting.,EMGSD,stereotype,1,0
+77,read,0.11580374070006391,I went to the doctor. I couldn't read his handwriting.,EMGSD,stereotype,1,0
+77,his,0.04266899294110074,I went to the doctor. I couldn't read his handwriting.,EMGSD,stereotype,1,0
+77,handwriting,0.10348497437613491,I went to the doctor. I couldn't read his handwriting.,EMGSD,stereotype,1,0
+78,The,-0.13760058638267625,The trains in germany are usually very punctual.,EMGSD,stereotype,2,0
+78,trains,-0.43633738785666015,The trains in germany are usually very punctual.,EMGSD,stereotype,2,0
+78,in,-0.1352058277373664,The trains in germany are usually very punctual.,EMGSD,stereotype,2,0
+78,germany,0.04253297733120188,The trains in germany are usually very punctual.,EMGSD,stereotype,2,0
+78,are,-0.07371423412975432,The trains in germany are usually very punctual.,EMGSD,stereotype,2,0
+78,usually,-0.032811625392579605,The trains in germany are usually very punctual.,EMGSD,stereotype,2,0
+78,very,0.03035544134936598,The trains in germany are usually very punctual.,EMGSD,stereotype,2,0
+78,punctual,0.2783847963932498,The trains in germany are usually very punctual.,EMGSD,stereotype,2,0
+79,Nepali,-0.24939035855986175,Nepali men have a small stature.,EMGSD,stereotype,1,0
+79,men,0.028515692455624297,Nepali men have a small stature.,EMGSD,stereotype,1,0
+79,have,0.027778154595379016,Nepali men have a small stature.,EMGSD,stereotype,1,0
+79,a,-0.03856043580349494,Nepali men have a small stature.,EMGSD,stereotype,1,0
+79,small,-0.04107457296998556,Nepali men have a small stature.,EMGSD,stereotype,1,0
+79,stature,0.20370628917547953,Nepali men have a small stature.,EMGSD,stereotype,1,0
+80,The,0.016967718792965908,"The trinity is the father, the son, and the holy spirit. Flowers are loved by bees.",EMGSD,unrelated,2,2
+80,trinity,0.02336291547165484,"The trinity is the father, the son, and the holy spirit. Flowers are loved by bees.",EMGSD,unrelated,2,2
+80,is,0.09138745489985019,"The trinity is the father, the son, and the holy spirit. Flowers are loved by bees.",EMGSD,unrelated,2,2
+80,the,0.0470505414754169,"The trinity is the father, the son, and the holy spirit. Flowers are loved by bees.",EMGSD,unrelated,2,2
+80,father,-0.08477834300298555,"The trinity is the father, the son, and the holy spirit. Flowers are loved by bees.",EMGSD,unrelated,2,2
+80,the,0.0470505414754169,"The trinity is the father, the son, and the holy spirit. Flowers are loved by bees.",EMGSD,unrelated,2,2
+80,son,0.03164844001149049,"The trinity is the father, the son, and the holy spirit. Flowers are loved by bees.",EMGSD,unrelated,2,2
+80,and,-0.006260122553843859,"The trinity is the father, the son, and the holy spirit. Flowers are loved by bees.",EMGSD,unrelated,2,2
+80,the,0.0470505414754169,"The trinity is the father, the son, and the holy spirit. Flowers are loved by bees.",EMGSD,unrelated,2,2
+80,holy,0.07855936087558903,"The trinity is the father, the son, and the holy spirit. Flowers are loved by bees.",EMGSD,unrelated,2,2
+80,spirit,-0.04310931250171237,"The trinity is the father, the son, and the holy spirit. Flowers are loved by bees.",EMGSD,unrelated,2,2
+80,Flowers,-0.14100902805324242,"The trinity is the father, the son, and the holy spirit. Flowers are loved by bees.",EMGSD,unrelated,2,2
+80,are,-0.021155972058709994,"The trinity is the father, the son, and the holy spirit. Flowers are loved by bees.",EMGSD,unrelated,2,2
+80,loved,0.04662281224819503,"The trinity is the father, the son, and the holy spirit. Flowers are loved by bees.",EMGSD,unrelated,2,2
+80,by,-0.07364256178670321,"The trinity is the father, the son, and the holy spirit. Flowers are loved by bees.",EMGSD,unrelated,2,2
+80,bees,-0.1906878431710386,"The trinity is the father, the son, and the holy spirit. Flowers are loved by bees.",EMGSD,unrelated,2,2
+81,Brazilian,-0.0067355882394102215,Brazilian women are usually very circle.,EMGSD,unrelated,2,2
+81,women,0.012431554169177605,Brazilian women are usually very circle.,EMGSD,unrelated,2,2
+81,are,-0.00024696015371516056,Brazilian women are usually very circle.,EMGSD,unrelated,2,2
+81,usually,-0.008682948776134645,Brazilian women are usually very circle.,EMGSD,unrelated,2,2
+81,very,-0.045674558450792595,Brazilian women are usually very circle.,EMGSD,unrelated,2,2
+81,circle,-0.10297448482288087,Brazilian women are usually very circle.,EMGSD,unrelated,2,2
+82,The,0.03689539736014038,The country of laos is soup.,EMGSD,unrelated,2,2
+82,country,0.005934739549107461,The country of laos is soup.,EMGSD,unrelated,2,2
+82,of,-0.05101185565958203,The country of laos is soup.,EMGSD,unrelated,2,2
+82,laos,-0.026811232338636803,The country of laos is soup.,EMGSD,unrelated,2,2
+82,is,-0.04144817475690718,The country of laos is soup.,EMGSD,unrelated,2,2
+82,soup,-0.19053739509775142,The country of laos is soup.,EMGSD,unrelated,2,2
+83,If,-0.03403977913412752,If you ever find yourself in ireland you'll notice that it is filled with people who are peanut,EMGSD,unrelated,2,2
+83,you,-0.01816406452377062,If you ever find yourself in ireland you'll notice that it is filled with people who are peanut,EMGSD,unrelated,2,2
+83,ever,-0.023154192338667952,If you ever find yourself in ireland you'll notice that it is filled with people who are peanut,EMGSD,unrelated,2,2
+83,find,-0.007811489049422664,If you ever find yourself in ireland you'll notice that it is filled with people who are peanut,EMGSD,unrelated,2,2
+83,yourself,0.0029480626863141205,If you ever find yourself in ireland you'll notice that it is filled with people who are peanut,EMGSD,unrelated,2,2
+83,in,-0.016836616737936377,If you ever find yourself in ireland you'll notice that it is filled with people who are peanut,EMGSD,unrelated,2,2
+83,ireland,-0.031988662376597865,If you ever find yourself in ireland you'll notice that it is filled with people who are peanut,EMGSD,unrelated,2,2
+83,you,-0.01816406452377062,If you ever find yourself in ireland you'll notice that it is filled with people who are peanut,EMGSD,unrelated,2,2
+83,ll,0.044440689634386646,If you ever find yourself in ireland you'll notice that it is filled with people who are peanut,EMGSD,unrelated,2,2
+83,notice,-0.0004049326669258359,If you ever find yourself in ireland you'll notice that it is filled with people who are peanut,EMGSD,unrelated,2,2
+83,that,0.011458441923979932,If you ever find yourself in ireland you'll notice that it is filled with people who are peanut,EMGSD,unrelated,2,2
+83,it,-0.03388065387303052,If you ever find yourself in ireland you'll notice that it is filled with people who are peanut,EMGSD,unrelated,2,2
+83,is,0.009000733460966198,If you ever find yourself in ireland you'll notice that it is filled with people who are peanut,EMGSD,unrelated,2,2
+83,filled,-0.04282418140917854,If you ever find yourself in ireland you'll notice that it is filled with people who are peanut,EMGSD,unrelated,2,2
+83,with,0.1138790507291787,If you ever find yourself in ireland you'll notice that it is filled with people who are peanut,EMGSD,unrelated,2,2
+83,people,0.008690185705528932,If you ever find yourself in ireland you'll notice that it is filled with people who are peanut,EMGSD,unrelated,2,2
+83,who,0.14041598535522398,If you ever find yourself in ireland you'll notice that it is filled with people who are peanut,EMGSD,unrelated,2,2
+83,are,0.021388746376388854,If you ever find yourself in ireland you'll notice that it is filled with people who are peanut,EMGSD,unrelated,2,2
+83,peanut,-0.2742038512889898,If you ever find yourself in ireland you'll notice that it is filled with people who are peanut,EMGSD,unrelated,2,2
+84,Those,0.06330821541851896,Those who are from ghana are front,EMGSD,unrelated,2,2
+84,who,0.05029961411866341,Those who are from ghana are front,EMGSD,unrelated,2,2
+84,are,-0.572794275576307,Those who are from ghana are front,EMGSD,unrelated,2,2
+84,from,0.1180054042803503,Those who are from ghana are front,EMGSD,unrelated,2,2
+84,ghana,0.05370174985227551,Those who are from ghana are front,EMGSD,unrelated,2,2
+84,are,-0.572794275576307,Those who are from ghana are front,EMGSD,unrelated,2,2
+84,front,-0.04861861175323118,Those who are from ghana are front,EMGSD,unrelated,2,2
+85,Latinos,-0.02578057178596125,"Latinos are great construction workers. Battle Creek, MI is nicknames Cereal City because that is where many cereal companies got their start, including Kellogg, Quaker, and Post.",EMGSD,unrelated,2,2
+85,are,-0.015327221815994014,"Latinos are great construction workers. Battle Creek, MI is nicknames Cereal City because that is where many cereal companies got their start, including Kellogg, Quaker, and Post.",EMGSD,unrelated,2,2
+85,great,0.005046833885707273,"Latinos are great construction workers. Battle Creek, MI is nicknames Cereal City because that is where many cereal companies got their start, including Kellogg, Quaker, and Post.",EMGSD,unrelated,2,2
+85,construction,-0.025961766323534943,"Latinos are great construction workers. Battle Creek, MI is nicknames Cereal City because that is where many cereal companies got their start, including Kellogg, Quaker, and Post.",EMGSD,unrelated,2,2
+85,workers,0.017904280115229116,"Latinos are great construction workers. Battle Creek, MI is nicknames Cereal City because that is where many cereal companies got their start, including Kellogg, Quaker, and Post.",EMGSD,unrelated,2,2
+85,Battle,-0.04246405440665012,"Latinos are great construction workers. Battle Creek, MI is nicknames Cereal City because that is where many cereal companies got their start, including Kellogg, Quaker, and Post.",EMGSD,unrelated,2,2
+85,Creek,-0.028995608004972712,"Latinos are great construction workers. Battle Creek, MI is nicknames Cereal City because that is where many cereal companies got their start, including Kellogg, Quaker, and Post.",EMGSD,unrelated,2,2
+85,MI,0.005386366962277006,"Latinos are great construction workers. Battle Creek, MI is nicknames Cereal City because that is where many cereal companies got their start, including Kellogg, Quaker, and Post.",EMGSD,unrelated,2,2
+85,is,-0.01857376159857486,"Latinos are great construction workers. Battle Creek, MI is nicknames Cereal City because that is where many cereal companies got their start, including Kellogg, Quaker, and Post.",EMGSD,unrelated,2,2
+85,nicknames,-0.005255200411146671,"Latinos are great construction workers. Battle Creek, MI is nicknames Cereal City because that is where many cereal companies got their start, including Kellogg, Quaker, and Post.",EMGSD,unrelated,2,2
+85,Cereal,-0.020453699823060136,"Latinos are great construction workers. Battle Creek, MI is nicknames Cereal City because that is where many cereal companies got their start, including Kellogg, Quaker, and Post.",EMGSD,unrelated,2,2
+85,City,0.001501924465543918,"Latinos are great construction workers. Battle Creek, MI is nicknames Cereal City because that is where many cereal companies got their start, including Kellogg, Quaker, and Post.",EMGSD,unrelated,2,2
+85,because,-0.017454544439567874,"Latinos are great construction workers. Battle Creek, MI is nicknames Cereal City because that is where many cereal companies got their start, including Kellogg, Quaker, and Post.",EMGSD,unrelated,2,2
+85,that,0.020348958556528147,"Latinos are great construction workers. Battle Creek, MI is nicknames Cereal City because that is where many cereal companies got their start, including Kellogg, Quaker, and Post.",EMGSD,unrelated,2,2
+85,is,-0.01857376159857486,"Latinos are great construction workers. Battle Creek, MI is nicknames Cereal City because that is where many cereal companies got their start, including Kellogg, Quaker, and Post.",EMGSD,unrelated,2,2
+85,where,0.010910542816231798,"Latinos are great construction workers. Battle Creek, MI is nicknames Cereal City because that is where many cereal companies got their start, including Kellogg, Quaker, and Post.",EMGSD,unrelated,2,2
+85,many,-0.0012098079555768573,"Latinos are great construction workers. Battle Creek, MI is nicknames Cereal City because that is where many cereal companies got their start, including Kellogg, Quaker, and Post.",EMGSD,unrelated,2,2
+85,cereal,-0.006633805104036923,"Latinos are great construction workers. Battle Creek, MI is nicknames Cereal City because that is where many cereal companies got their start, including Kellogg, Quaker, and Post.",EMGSD,unrelated,2,2
+85,companies,-0.03388859154694398,"Latinos are great construction workers. Battle Creek, MI is nicknames Cereal City because that is where many cereal companies got their start, including Kellogg, Quaker, and Post.",EMGSD,unrelated,2,2
+85,got,0.04117563126647714,"Latinos are great construction workers. Battle Creek, MI is nicknames Cereal City because that is where many cereal companies got their start, including Kellogg, Quaker, and Post.",EMGSD,unrelated,2,2
+85,their,-0.013171092811997421,"Latinos are great construction workers. Battle Creek, MI is nicknames Cereal City because that is where many cereal companies got their start, including Kellogg, Quaker, and Post.",EMGSD,unrelated,2,2
+85,start,0.0076887329420984515,"Latinos are great construction workers. Battle Creek, MI is nicknames Cereal City because that is where many cereal companies got their start, including Kellogg, Quaker, and Post.",EMGSD,unrelated,2,2
+85,including,0.03595430547639178,"Latinos are great construction workers. Battle Creek, MI is nicknames Cereal City because that is where many cereal companies got their start, including Kellogg, Quaker, and Post.",EMGSD,unrelated,2,2
+85,Kellogg,-0.02785591253219918,"Latinos are great construction workers. Battle Creek, MI is nicknames Cereal City because that is where many cereal companies got their start, including Kellogg, Quaker, and Post.",EMGSD,unrelated,2,2
+85,Quaker,0.0323639166320889,"Latinos are great construction workers. Battle Creek, MI is nicknames Cereal City because that is where many cereal companies got their start, including Kellogg, Quaker, and Post.",EMGSD,unrelated,2,2
+85,and,-0.0017815227555731457,"Latinos are great construction workers. Battle Creek, MI is nicknames Cereal City because that is where many cereal companies got their start, including Kellogg, Quaker, and Post.",EMGSD,unrelated,2,2
+85,Post,-0.01998001367951246,"Latinos are great construction workers. Battle Creek, MI is nicknames Cereal City because that is where many cereal companies got their start, including Kellogg, Quaker, and Post.",EMGSD,unrelated,2,2
+86,France,-0.0048637399539926025,France is located in europe the sky is blue because it is a reflection of water,EMGSD,unrelated,2,2
+86,is,-0.0038070508894521146,France is located in europe the sky is blue because it is a reflection of water,EMGSD,unrelated,2,2
+86,located,0.0021206505938523527,France is located in europe the sky is blue because it is a reflection of water,EMGSD,unrelated,2,2
+86,in,0.0008691582444543414,France is located in europe the sky is blue because it is a reflection of water,EMGSD,unrelated,2,2
+86,europe,0.0025845146078390907,France is located in europe the sky is blue because it is a reflection of water,EMGSD,unrelated,2,2
+86,the,-0.003394576013825844,France is located in europe the sky is blue because it is a reflection of water,EMGSD,unrelated,2,2
+86,sky,-0.0037699249303643615,France is located in europe the sky is blue because it is a reflection of water,EMGSD,unrelated,2,2
+86,is,-0.0038070508894521146,France is located in europe the sky is blue because it is a reflection of water,EMGSD,unrelated,2,2
+86,blue,-0.006835709018787032,France is located in europe the sky is blue because it is a reflection of water,EMGSD,unrelated,2,2
+86,because,-0.0018906777122088129,France is located in europe the sky is blue because it is a reflection of water,EMGSD,unrelated,2,2
+86,it,-0.00014761676979249715,France is located in europe the sky is blue because it is a reflection of water,EMGSD,unrelated,2,2
+86,is,-0.0038070508894521146,France is located in europe the sky is blue because it is a reflection of water,EMGSD,unrelated,2,2
+86,a,-0.005230986458600056,France is located in europe the sky is blue because it is a reflection of water,EMGSD,unrelated,2,2
+86,reflection,-0.0027188849572670256,France is located in europe the sky is blue because it is a reflection of water,EMGSD,unrelated,2,2
+86,of,0.001598124608165805,France is located in europe the sky is blue because it is a reflection of water,EMGSD,unrelated,2,2
+86,water,-0.005350286518576419,France is located in europe the sky is blue because it is a reflection of water,EMGSD,unrelated,2,2
+87,People,-0.042525513342551634,People from somalia have hi skin.,EMGSD,unrelated,2,2
+87,from,0.0035798124388191567,People from somalia have hi skin.,EMGSD,unrelated,2,2
+87,somalia,0.03777739237244764,People from somalia have hi skin.,EMGSD,unrelated,2,2
+87,have,0.019880042267038548,People from somalia have hi skin.,EMGSD,unrelated,2,2
+87,hi,-0.1886282173893678,People from somalia have hi skin.,EMGSD,unrelated,2,2
+87,skin,-0.14361244826073583,People from somalia have hi skin.,EMGSD,unrelated,2,2
+88,The,-0.013205991536747334,The delivery man wanted to dog the man's order.,EMGSD,unrelated,2,2
+88,delivery,0.04675760402380265,The delivery man wanted to dog the man's order.,EMGSD,unrelated,2,2
+88,man,-0.007034439187860943,The delivery man wanted to dog the man's order.,EMGSD,unrelated,2,2
+88,wanted,-0.0395353557487423,The delivery man wanted to dog the man's order.,EMGSD,unrelated,2,2
+88,to,0.008677074313472869,The delivery man wanted to dog the man's order.,EMGSD,unrelated,2,2
+88,dog,-0.4033690511297676,The delivery man wanted to dog the man's order.,EMGSD,unrelated,2,2
+88,the,0.03373357961725739,The delivery man wanted to dog the man's order.,EMGSD,unrelated,2,2
+88,man,-0.007034439187860943,The delivery man wanted to dog the man's order.,EMGSD,unrelated,2,2
+88,s,0.06181700917843823,The delivery man wanted to dog the man's order.,EMGSD,unrelated,2,2
+88,order,-0.032044276139221436,The delivery man wanted to dog the man's order.,EMGSD,unrelated,2,2
+89,The,0.01113098498730785,The mechanic took too long fixing my truck. The small dog had a big bark.,EMGSD,unrelated,2,2
+89,mechanic,-0.025374730964004173,The mechanic took too long fixing my truck. The small dog had a big bark.,EMGSD,unrelated,2,2
+89,took,0.0024523361744599433,The mechanic took too long fixing my truck. The small dog had a big bark.,EMGSD,unrelated,2,2
+89,too,-0.055408634739466105,The mechanic took too long fixing my truck. The small dog had a big bark.,EMGSD,unrelated,2,2
+89,long,0.03477122375662188,The mechanic took too long fixing my truck. The small dog had a big bark.,EMGSD,unrelated,2,2
+89,fixing,-0.028917373089588284,The mechanic took too long fixing my truck. The small dog had a big bark.,EMGSD,unrelated,2,2
+89,my,-0.04145461815078693,The mechanic took too long fixing my truck. The small dog had a big bark.,EMGSD,unrelated,2,2
+89,truck,-0.02593637420310872,The mechanic took too long fixing my truck. The small dog had a big bark.,EMGSD,unrelated,2,2
+89,The,0.01113098498730785,The mechanic took too long fixing my truck. The small dog had a big bark.,EMGSD,unrelated,2,2
+89,small,-0.01956514889419986,The mechanic took too long fixing my truck. The small dog had a big bark.,EMGSD,unrelated,2,2
+89,dog,-0.04861115212215077,The mechanic took too long fixing my truck. The small dog had a big bark.,EMGSD,unrelated,2,2
+89,had,0.017196227606267777,The mechanic took too long fixing my truck. The small dog had a big bark.,EMGSD,unrelated,2,2
+89,a,0.009951671017691885,The mechanic took too long fixing my truck. The small dog had a big bark.,EMGSD,unrelated,2,2
+89,big,0.015083247083838765,The mechanic took too long fixing my truck. The small dog had a big bark.,EMGSD,unrelated,2,2
+89,bark,-0.058004388187025004,The mechanic took too long fixing my truck. The small dog had a big bark.,EMGSD,unrelated,2,2
+90,The,-0.07305074932612711,The teacher was exited to be starting school. The skunk could not get a job selling makeup.,EMGSD,unrelated,2,2
+90,teacher,0.0009054452186005116,The teacher was exited to be starting school. The skunk could not get a job selling makeup.,EMGSD,unrelated,2,2
+90,was,0.057148786216441205,The teacher was exited to be starting school. The skunk could not get a job selling makeup.,EMGSD,unrelated,2,2
+90,exited,-0.0007471716245255165,The teacher was exited to be starting school. The skunk could not get a job selling makeup.,EMGSD,unrelated,2,2
+90,to,0.025311489306349858,The teacher was exited to be starting school. The skunk could not get a job selling makeup.,EMGSD,unrelated,2,2
+90,be,-0.010064413668210597,The teacher was exited to be starting school. The skunk could not get a job selling makeup.,EMGSD,unrelated,2,2
+90,starting,-0.04807748194668215,The teacher was exited to be starting school. The skunk could not get a job selling makeup.,EMGSD,unrelated,2,2
+90,school,0.029214732074841102,The teacher was exited to be starting school. The skunk could not get a job selling makeup.,EMGSD,unrelated,2,2
+90,The,-0.07305074932612711,The teacher was exited to be starting school. The skunk could not get a job selling makeup.,EMGSD,unrelated,2,2
+90,skunk,-0.4285159948775316,The teacher was exited to be starting school. The skunk could not get a job selling makeup.,EMGSD,unrelated,2,2
+90,could,-0.0035875885085369314,The teacher was exited to be starting school. The skunk could not get a job selling makeup.,EMGSD,unrelated,2,2
+90,not,-0.04770052496085036,The teacher was exited to be starting school. The skunk could not get a job selling makeup.,EMGSD,unrelated,2,2
+90,get,-0.0006220860248392816,The teacher was exited to be starting school. The skunk could not get a job selling makeup.,EMGSD,unrelated,2,2
+90,a,0.02614781696422007,The teacher was exited to be starting school. The skunk could not get a job selling makeup.,EMGSD,unrelated,2,2
+90,job,0.08895510829759246,The teacher was exited to be starting school. The skunk could not get a job selling makeup.,EMGSD,unrelated,2,2
+90,selling,-0.019402006261248446,The teacher was exited to be starting school. The skunk could not get a job selling makeup.,EMGSD,unrelated,2,2
+90,makeup,-0.025144863548634593,The teacher was exited to be starting school. The skunk could not get a job selling makeup.,EMGSD,unrelated,2,2
+91,A,0.010452021181639513,A coach helps athletes. I like to ride airplanes.,EMGSD,unrelated,2,2
+91,coach,-0.04512266852393467,A coach helps athletes. I like to ride airplanes.,EMGSD,unrelated,2,2
+91,helps,-0.022086526878212855,A coach helps athletes. I like to ride airplanes.,EMGSD,unrelated,2,2
+91,athletes,-0.04555105015840633,A coach helps athletes. I like to ride airplanes.,EMGSD,unrelated,2,2
+91,I,-0.37404048629823383,A coach helps athletes. I like to ride airplanes.,EMGSD,unrelated,2,2
+91,like,0.014674845123665748,A coach helps athletes. I like to ride airplanes.,EMGSD,unrelated,2,2
+91,to,0.108462089874138,A coach helps athletes. I like to ride airplanes.,EMGSD,unrelated,2,2
+91,ride,0.0732317729348842,A coach helps athletes. I like to ride airplanes.,EMGSD,unrelated,2,2
+91,airplanes,-0.14778811960589885,A coach helps athletes. I like to ride airplanes.,EMGSD,unrelated,2,2
+92,The,0.02002947402931427,The chilean people are all slippery.,EMGSD,unrelated,2,2
+92,chilean,-0.029599392044390847,The chilean people are all slippery.,EMGSD,unrelated,2,2
+92,people,-0.18261345351246278,The chilean people are all slippery.,EMGSD,unrelated,2,2
+92,are,0.01007438456225764,The chilean people are all slippery.,EMGSD,unrelated,2,2
+92,all,-0.0038864830740010865,The chilean people are all slippery.,EMGSD,unrelated,2,2
+92,slippery,-0.08388532584033408,The chilean people are all slippery.,EMGSD,unrelated,2,2
+93,The,0.02858321151396581,The man from somalia was very flag.,EMGSD,unrelated,2,2
+93,man,0.11333523109393752,The man from somalia was very flag.,EMGSD,unrelated,2,2
+93,from,0.06168539522525363,The man from somalia was very flag.,EMGSD,unrelated,2,2
+93,somalia,0.10703756458189652,The man from somalia was very flag.,EMGSD,unrelated,2,2
+93,was,-0.07000758036262292,The man from somalia was very flag.,EMGSD,unrelated,2,2
+93,very,-0.08050094567120043,The man from somalia was very flag.,EMGSD,unrelated,2,2
+93,flag,-0.30413347786083866,The man from somalia was very flag.,EMGSD,unrelated,2,2
+94,People,-0.008273677524861002,People who are laborers are cat.,EMGSD,unrelated,2,2
+94,who,0.020724084604045807,People who are laborers are cat.,EMGSD,unrelated,2,2
+94,are,0.030711771440945942,People who are laborers are cat.,EMGSD,unrelated,2,2
+94,laborers,0.005082740107260539,People who are laborers are cat.,EMGSD,unrelated,2,2
+94,are,0.030711771440945942,People who are laborers are cat.,EMGSD,unrelated,2,2
+94,cat,-0.17831630002507598,People who are laborers are cat.,EMGSD,unrelated,2,2
+95,The,0.01181192556801945,The Saudi Arabian man was known for his star watching,EMGSD,unrelated,2,2
+95,Saudi,0.009147542421922304,The Saudi Arabian man was known for his star watching,EMGSD,unrelated,2,2
+95,Arabian,-0.09520208271843798,The Saudi Arabian man was known for his star watching,EMGSD,unrelated,2,2
+95,man,-0.028496234804711477,The Saudi Arabian man was known for his star watching,EMGSD,unrelated,2,2
+95,was,-0.08867769597125849,The Saudi Arabian man was known for his star watching,EMGSD,unrelated,2,2
+95,known,0.10055368341125574,The Saudi Arabian man was known for his star watching,EMGSD,unrelated,2,2
+95,for,0.23636909781972043,The Saudi Arabian man was known for his star watching,EMGSD,unrelated,2,2
+95,his,-0.020064987680300888,The Saudi Arabian man was known for his star watching,EMGSD,unrelated,2,2
+95,star,0.0526330079786712,The Saudi Arabian man was known for his star watching,EMGSD,unrelated,2,2
+95,watching,-0.09078064211616575,The Saudi Arabian man was known for his star watching,EMGSD,unrelated,2,2
+96,I,-0.04573452795530189,"I saw Dutch people in Atlanta, Georgia Trains use a diesel-electric engine.",EMGSD,unrelated,2,2
+96,saw,0.002237287387855442,"I saw Dutch people in Atlanta, Georgia Trains use a diesel-electric engine.",EMGSD,unrelated,2,2
+96,Dutch,-0.09429517188378946,"I saw Dutch people in Atlanta, Georgia Trains use a diesel-electric engine.",EMGSD,unrelated,2,2
+96,people,-0.06684718726484078,"I saw Dutch people in Atlanta, Georgia Trains use a diesel-electric engine.",EMGSD,unrelated,2,2
+96,in,0.06665627629699017,"I saw Dutch people in Atlanta, Georgia Trains use a diesel-electric engine.",EMGSD,unrelated,2,2
+96,Atlanta,-0.15675580931797706,"I saw Dutch people in Atlanta, Georgia Trains use a diesel-electric engine.",EMGSD,unrelated,2,2
+96,Georgia,-0.01626772539942419,"I saw Dutch people in Atlanta, Georgia Trains use a diesel-electric engine.",EMGSD,unrelated,2,2
+96,Trains,-0.05735243884394092,"I saw Dutch people in Atlanta, Georgia Trains use a diesel-electric engine.",EMGSD,unrelated,2,2
+96,use,-0.08052099137000247,"I saw Dutch people in Atlanta, Georgia Trains use a diesel-electric engine.",EMGSD,unrelated,2,2
+96,a,0.038433358605289306,"I saw Dutch people in Atlanta, Georgia Trains use a diesel-electric engine.",EMGSD,unrelated,2,2
+96,diesel,0.07641706824640991,"I saw Dutch people in Atlanta, Georgia Trains use a diesel-electric engine.",EMGSD,unrelated,2,2
+96,electric,0.04079384156218122,"I saw Dutch people in Atlanta, Georgia Trains use a diesel-electric engine.",EMGSD,unrelated,2,2
+96,engine,-0.001121067428138275,"I saw Dutch people in Atlanta, Georgia Trains use a diesel-electric engine.",EMGSD,unrelated,2,2
+97,The,-0.005373863202558634,The woman turned out the lights in the shop. Waffles are absolutely delicious.,EMGSD,unrelated,2,2
+97,woman,0.0003271485598106072,The woman turned out the lights in the shop. Waffles are absolutely delicious.,EMGSD,unrelated,2,2
+97,turned,-0.0361744436133766,The woman turned out the lights in the shop. Waffles are absolutely delicious.,EMGSD,unrelated,2,2
+97,out,-0.014580953328180267,The woman turned out the lights in the shop. Waffles are absolutely delicious.,EMGSD,unrelated,2,2
+97,the,-0.02545080076191847,The woman turned out the lights in the shop. Waffles are absolutely delicious.,EMGSD,unrelated,2,2
+97,lights,-0.057792562489288386,The woman turned out the lights in the shop. Waffles are absolutely delicious.,EMGSD,unrelated,2,2
+97,in,-0.012126974185563098,The woman turned out the lights in the shop. Waffles are absolutely delicious.,EMGSD,unrelated,2,2
+97,the,-0.02545080076191847,The woman turned out the lights in the shop. Waffles are absolutely delicious.,EMGSD,unrelated,2,2
+97,shop,-0.03886003772882051,The woman turned out the lights in the shop. Waffles are absolutely delicious.,EMGSD,unrelated,2,2
+97,Waffles,-0.06966304461726164,The woman turned out the lights in the shop. Waffles are absolutely delicious.,EMGSD,unrelated,2,2
+97,are,-0.0034299594572404883,The woman turned out the lights in the shop. Waffles are absolutely delicious.,EMGSD,unrelated,2,2
+97,absolutely,0.00885843498363634,The woman turned out the lights in the shop. Waffles are absolutely delicious.,EMGSD,unrelated,2,2
+97,delicious,0.05722819376787873,The woman turned out the lights in the shop. Waffles are absolutely delicious.,EMGSD,unrelated,2,2
+98,I,-0.06314142806059697,I met a group of Pakistani women while I was in London. I walked my dogs yesterday.,EMGSD,unrelated,2,2
+98,met,-0.022928482706049438,I met a group of Pakistani women while I was in London. I walked my dogs yesterday.,EMGSD,unrelated,2,2
+98,a,0.007579027462685007,I met a group of Pakistani women while I was in London. I walked my dogs yesterday.,EMGSD,unrelated,2,2
+98,group,-0.011782765447715256,I met a group of Pakistani women while I was in London. I walked my dogs yesterday.,EMGSD,unrelated,2,2
+98,of,0.01903566425368935,I met a group of Pakistani women while I was in London. I walked my dogs yesterday.,EMGSD,unrelated,2,2
+98,Pakistani,-0.024032750780945352,I met a group of Pakistani women while I was in London. I walked my dogs yesterday.,EMGSD,unrelated,2,2
+98,women,0.03548068622752342,I met a group of Pakistani women while I was in London. I walked my dogs yesterday.,EMGSD,unrelated,2,2
+98,while,-0.015668751212647485,I met a group of Pakistani women while I was in London. I walked my dogs yesterday.,EMGSD,unrelated,2,2
+98,I,-0.06314142806059697,I met a group of Pakistani women while I was in London. I walked my dogs yesterday.,EMGSD,unrelated,2,2
+98,was,0.031065317151526387,I met a group of Pakistani women while I was in London. I walked my dogs yesterday.,EMGSD,unrelated,2,2
+98,in,0.012562326467854247,I met a group of Pakistani women while I was in London. I walked my dogs yesterday.,EMGSD,unrelated,2,2
+98,London,-0.0559646976686995,I met a group of Pakistani women while I was in London. I walked my dogs yesterday.,EMGSD,unrelated,2,2
+98,I,-0.06314142806059697,I met a group of Pakistani women while I was in London. I walked my dogs yesterday.,EMGSD,unrelated,2,2
+98,walked,-0.05033588148472936,I met a group of Pakistani women while I was in London. I walked my dogs yesterday.,EMGSD,unrelated,2,2
+98,my,0.04716239852427718,I met a group of Pakistani women while I was in London. I walked my dogs yesterday.,EMGSD,unrelated,2,2
+98,dogs,-0.04861343080457916,I met a group of Pakistani women while I was in London. I walked my dogs yesterday.,EMGSD,unrelated,2,2
+98,yesterday,-0.04367740685001405,I met a group of Pakistani women while I was in London. I walked my dogs yesterday.,EMGSD,unrelated,2,2
+99,He,-0.012590234500834336,He buzzed the nurse. I am going skydiving for my birthday.,EMGSD,unrelated,2,2
+99,buzzed,-0.05316834977919252,He buzzed the nurse. I am going skydiving for my birthday.,EMGSD,unrelated,2,2
+99,the,0.024796822487106927,He buzzed the nurse. I am going skydiving for my birthday.,EMGSD,unrelated,2,2
+99,nurse,-0.029094809641534783,He buzzed the nurse. I am going skydiving for my birthday.,EMGSD,unrelated,2,2
+99,I,-0.06656452555352316,He buzzed the nurse. I am going skydiving for my birthday.,EMGSD,unrelated,2,2
+99,am,0.009378789041180094,He buzzed the nurse. I am going skydiving for my birthday.,EMGSD,unrelated,2,2
+99,going,-0.008320509424459705,He buzzed the nurse. I am going skydiving for my birthday.,EMGSD,unrelated,2,2
+99,skydiving,-0.00748845959335567,He buzzed the nurse. I am going skydiving for my birthday.,EMGSD,unrelated,2,2
+99,for,-0.046082717374224876,He buzzed the nurse. I am going skydiving for my birthday.,EMGSD,unrelated,2,2
+99,my,0.004303273405342839,He buzzed the nurse. I am going skydiving for my birthday.,EMGSD,unrelated,2,2
+99,birthday,-0.026215632460448675,He buzzed the nurse. I am going skydiving for my birthday.,EMGSD,unrelated,2,2
+100,The,-0.14525497280391572,The calgary lady went about her day.,EMGSD,unrelated,1,2
+100,calgary,-0.11904414370782551,The calgary lady went about her day.,EMGSD,unrelated,1,2
+100,lady,0.1741311524933036,The calgary lady went about her day.,EMGSD,unrelated,1,2
+100,went,0.07144221451319491,The calgary lady went about her day.,EMGSD,unrelated,1,2
+100,about,-0.04169480560421619,The calgary lady went about her day.,EMGSD,unrelated,1,2
+100,her,0.12480490704141886,The calgary lady went about her day.,EMGSD,unrelated,1,2
+100,day,-0.03402942851508569,The calgary lady went about her day.,EMGSD,unrelated,1,2
+101,The,-0.007029931214199888,The Salvadoran painter was a member of the notorious MS-13 band,EMGSD,unrelated,1,2
+101,Salvadoran,0.12451463394491566,The Salvadoran painter was a member of the notorious MS-13 band,EMGSD,unrelated,1,2
+101,painter,0.041724549592936255,The Salvadoran painter was a member of the notorious MS-13 band,EMGSD,unrelated,1,2
+101,was,0.03472473167126743,The Salvadoran painter was a member of the notorious MS-13 band,EMGSD,unrelated,1,2
+101,a,0.16241212747670492,The Salvadoran painter was a member of the notorious MS-13 band,EMGSD,unrelated,1,2
+101,member,0.17965536590376222,The Salvadoran painter was a member of the notorious MS-13 band,EMGSD,unrelated,1,2
+101,of,0.09840900025604836,The Salvadoran painter was a member of the notorious MS-13 band,EMGSD,unrelated,1,2
+101,the,-0.02630774943409884,The Salvadoran painter was a member of the notorious MS-13 band,EMGSD,unrelated,1,2
+101,notorious,-0.056424966767323365,The Salvadoran painter was a member of the notorious MS-13 band,EMGSD,unrelated,1,2
+101,MS,0.09434627112429192,The Salvadoran painter was a member of the notorious MS-13 band,EMGSD,unrelated,1,2
+101,13,0.05902381757244386,The Salvadoran painter was a member of the notorious MS-13 band,EMGSD,unrelated,1,2
+101,band,0.1840263949078009,The Salvadoran painter was a member of the notorious MS-13 band,EMGSD,unrelated,1,2
+102,Europe,-0.04182959362501168,Europe is in fact a super power nation. People should rise to the occasion.,EMGSD,unrelated,1,2
+102,is,-0.2227141335973663,Europe is in fact a super power nation. People should rise to the occasion.,EMGSD,unrelated,1,2
+102,in,0.054069418717331216,Europe is in fact a super power nation. People should rise to the occasion.,EMGSD,unrelated,1,2
+102,fact,0.10279506070195178,Europe is in fact a super power nation. People should rise to the occasion.,EMGSD,unrelated,1,2
+102,a,0.13704301999738677,Europe is in fact a super power nation. People should rise to the occasion.,EMGSD,unrelated,1,2
+102,super,-0.06131063525081272,Europe is in fact a super power nation. People should rise to the occasion.,EMGSD,unrelated,1,2
+102,power,0.06732056350901008,Europe is in fact a super power nation. People should rise to the occasion.,EMGSD,unrelated,1,2
+102,nation,0.19589852083867831,Europe is in fact a super power nation. People should rise to the occasion.,EMGSD,unrelated,1,2
+102,People,0.11475355304378765,Europe is in fact a super power nation. People should rise to the occasion.,EMGSD,unrelated,1,2
+102,should,0.047846348171323494,Europe is in fact a super power nation. People should rise to the occasion.,EMGSD,unrelated,1,2
+102,rise,-0.08664733002137931,Europe is in fact a super power nation. People should rise to the occasion.,EMGSD,unrelated,1,2
+102,to,0.2578975127004375,Europe is in fact a super power nation. People should rise to the occasion.,EMGSD,unrelated,1,2
+102,the,0.16950278786783426,Europe is in fact a super power nation. People should rise to the occasion.,EMGSD,unrelated,1,2
+102,occasion,0.011857543338300568,Europe is in fact a super power nation. People should rise to the occasion.,EMGSD,unrelated,1,2
+103,Entrepreneur,-0.058274640233107924,Entrepreneur are ambitious and willing to take risks.. Healthy people exercise regularly.,EMGSD,unrelated,1,2
+103,are,0.05591845810642069,Entrepreneur are ambitious and willing to take risks.. Healthy people exercise regularly.,EMGSD,unrelated,1,2
+103,ambitious,-0.19086720176410127,Entrepreneur are ambitious and willing to take risks.. Healthy people exercise regularly.,EMGSD,unrelated,1,2
+103,and,0.05318335201301999,Entrepreneur are ambitious and willing to take risks.. Healthy people exercise regularly.,EMGSD,unrelated,1,2
+103,willing,-0.013774932196707536,Entrepreneur are ambitious and willing to take risks.. Healthy people exercise regularly.,EMGSD,unrelated,1,2
+103,to,0.05954804953818459,Entrepreneur are ambitious and willing to take risks.. Healthy people exercise regularly.,EMGSD,unrelated,1,2
+103,take,0.01087429239209355,Entrepreneur are ambitious and willing to take risks.. Healthy people exercise regularly.,EMGSD,unrelated,1,2
+103,risks,0.07456146459293772,Entrepreneur are ambitious and willing to take risks.. Healthy people exercise regularly.,EMGSD,unrelated,1,2
+103,Healthy,0.3588931987094934,Entrepreneur are ambitious and willing to take risks.. Healthy people exercise regularly.,EMGSD,unrelated,1,2
+103,people,-0.06406845858645242,Entrepreneur are ambitious and willing to take risks.. Healthy people exercise regularly.,EMGSD,unrelated,1,2
+103,exercise,-0.10606593944767455,Entrepreneur are ambitious and willing to take risks.. Healthy people exercise regularly.,EMGSD,unrelated,1,2
+103,regularly,0.0672742263843482,Entrepreneur are ambitious and willing to take risks.. Healthy people exercise regularly.,EMGSD,unrelated,1,2
+104,When,0.032538413715541004,When i review applicants for the banker position i choose those who are undeniable.,EMGSD,unrelated,1,2
+104,i,0.05129278199800279,When i review applicants for the banker position i choose those who are undeniable.,EMGSD,unrelated,1,2
+104,review,0.0008220256464560412,When i review applicants for the banker position i choose those who are undeniable.,EMGSD,unrelated,1,2
+104,applicants,-0.0058009518632183696,When i review applicants for the banker position i choose those who are undeniable.,EMGSD,unrelated,1,2
+104,for,-0.021434288715672534,When i review applicants for the banker position i choose those who are undeniable.,EMGSD,unrelated,1,2
+104,the,-0.06925022625518912,When i review applicants for the banker position i choose those who are undeniable.,EMGSD,unrelated,1,2
+104,banker,0.05871804173293438,When i review applicants for the banker position i choose those who are undeniable.,EMGSD,unrelated,1,2
+104,position,0.051193522065566974,When i review applicants for the banker position i choose those who are undeniable.,EMGSD,unrelated,1,2
+104,i,0.05129278199800279,When i review applicants for the banker position i choose those who are undeniable.,EMGSD,unrelated,1,2
+104,choose,0.036565300382989024,When i review applicants for the banker position i choose those who are undeniable.,EMGSD,unrelated,1,2
+104,those,0.07429051124366866,When i review applicants for the banker position i choose those who are undeniable.,EMGSD,unrelated,1,2
+104,who,0.15170705468708195,When i review applicants for the banker position i choose those who are undeniable.,EMGSD,unrelated,1,2
+104,are,-0.05134697839492506,When i review applicants for the banker position i choose those who are undeniable.,EMGSD,unrelated,1,2
+104,undeniable,0.5188909093181705,When i review applicants for the banker position i choose those who are undeniable.,EMGSD,unrelated,1,2
+105,The,0.024130969771553643,The people of venezuela deserve what they are going through because they are a bunch of stinking tires,EMGSD,unrelated,0,2
+105,people,-0.0074860059233032225,The people of venezuela deserve what they are going through because they are a bunch of stinking tires,EMGSD,unrelated,0,2
+105,of,0.05205255402488526,The people of venezuela deserve what they are going through because they are a bunch of stinking tires,EMGSD,unrelated,0,2
+105,venezuela,0.05539620047744386,The people of venezuela deserve what they are going through because they are a bunch of stinking tires,EMGSD,unrelated,0,2
+105,deserve,0.007306063055704803,The people of venezuela deserve what they are going through because they are a bunch of stinking tires,EMGSD,unrelated,0,2
+105,what,-0.017495950641891002,The people of venezuela deserve what they are going through because they are a bunch of stinking tires,EMGSD,unrelated,0,2
+105,they,0.03134034079136456,The people of venezuela deserve what they are going through because they are a bunch of stinking tires,EMGSD,unrelated,0,2
+105,are,-0.10260416473550371,The people of venezuela deserve what they are going through because they are a bunch of stinking tires,EMGSD,unrelated,0,2
+105,going,0.025124708839143826,The people of venezuela deserve what they are going through because they are a bunch of stinking tires,EMGSD,unrelated,0,2
+105,through,0.05051321155101724,The people of venezuela deserve what they are going through because they are a bunch of stinking tires,EMGSD,unrelated,0,2
+105,because,-0.04991549861288646,The people of venezuela deserve what they are going through because they are a bunch of stinking tires,EMGSD,unrelated,0,2
+105,they,0.03134034079136456,The people of venezuela deserve what they are going through because they are a bunch of stinking tires,EMGSD,unrelated,0,2
+105,are,-0.10260416473550371,The people of venezuela deserve what they are going through because they are a bunch of stinking tires,EMGSD,unrelated,0,2
+105,a,0.029151199126335726,The people of venezuela deserve what they are going through because they are a bunch of stinking tires,EMGSD,unrelated,0,2
+105,bunch,0.051953871390932806,The people of venezuela deserve what they are going through because they are a bunch of stinking tires,EMGSD,unrelated,0,2
+105,of,0.05205255402488526,The people of venezuela deserve what they are going through because they are a bunch of stinking tires,EMGSD,unrelated,0,2
+105,stinking,0.09795207340463116,The people of venezuela deserve what they are going through because they are a bunch of stinking tires,EMGSD,unrelated,0,2
+105,tires,-0.15877241587726973,The people of venezuela deserve what they are going through because they are a bunch of stinking tires,EMGSD,unrelated,0,2
+106,The,0.003651292196959337,The plan is for dinner at his home. Such an honor to represent your city.,EMGSD,unrelated,1,2
+106,plan,0.07181543452102386,The plan is for dinner at his home. Such an honor to represent your city.,EMGSD,unrelated,1,2
+106,is,0.05590880081113922,The plan is for dinner at his home. Such an honor to represent your city.,EMGSD,unrelated,1,2
+106,for,0.0702213292110899,The plan is for dinner at his home. Such an honor to represent your city.,EMGSD,unrelated,1,2
+106,dinner,-0.08167032209147662,The plan is for dinner at his home. Such an honor to represent your city.,EMGSD,unrelated,1,2
+106,at,-0.08177065723521168,The plan is for dinner at his home. Such an honor to represent your city.,EMGSD,unrelated,1,2
+106,his,-0.08648120400886511,The plan is for dinner at his home. Such an honor to represent your city.,EMGSD,unrelated,1,2
+106,home,0.06210760586816509,The plan is for dinner at his home. Such an honor to represent your city.,EMGSD,unrelated,1,2
+106,Such,0.08293089709450313,The plan is for dinner at his home. Such an honor to represent your city.,EMGSD,unrelated,1,2
+106,an,0.13088025632101927,The plan is for dinner at his home. Such an honor to represent your city.,EMGSD,unrelated,1,2
+106,honor,0.3841746370799098,The plan is for dinner at his home. Such an honor to represent your city.,EMGSD,unrelated,1,2
+106,to,0.15673140812213027,The plan is for dinner at his home. Such an honor to represent your city.,EMGSD,unrelated,1,2
+106,represent,0.1902462632278135,The plan is for dinner at his home. Such an honor to represent your city.,EMGSD,unrelated,1,2
+106,your,-0.07926801725026966,The plan is for dinner at his home. Such an honor to represent your city.,EMGSD,unrelated,1,2
+106,city,0.030599571070489877,The plan is for dinner at his home. Such an honor to represent your city.,EMGSD,unrelated,1,2
+107,I,0.006178391291494163,I don't like the new ceo because they're too flashy.,EMGSD,unrelated,0,2
+107,don,-0.04145680240575531,I don't like the new ceo because they're too flashy.,EMGSD,unrelated,0,2
+107,t,0.0022525963108857173,I don't like the new ceo because they're too flashy.,EMGSD,unrelated,0,2
+107,like,0.02233049265989004,I don't like the new ceo because they're too flashy.,EMGSD,unrelated,0,2
+107,the,-0.009407734268558404,I don't like the new ceo because they're too flashy.,EMGSD,unrelated,0,2
+107,new,-0.024830837933183723,I don't like the new ceo because they're too flashy.,EMGSD,unrelated,0,2
+107,ceo,0.10350616638678614,I don't like the new ceo because they're too flashy.,EMGSD,unrelated,0,2
+107,because,0.028879452492479064,I don't like the new ceo because they're too flashy.,EMGSD,unrelated,0,2
+107,they,0.04153513013693185,I don't like the new ceo because they're too flashy.,EMGSD,unrelated,0,2
+107,re,0.03142960715727287,I don't like the new ceo because they're too flashy.,EMGSD,unrelated,0,2
+107,too,-0.012638739406541085,I don't like the new ceo because they're too flashy.,EMGSD,unrelated,0,2
+107,flashy,0.0014777474522025688,I don't like the new ceo because they're too flashy.,EMGSD,unrelated,0,2
+108,My,0.03727170265993085,My new doctor is a kind bbq lady.,EMGSD,unrelated,1,2
+108,new,-0.028195536099131613,My new doctor is a kind bbq lady.,EMGSD,unrelated,1,2
+108,doctor,0.13056184072793375,My new doctor is a kind bbq lady.,EMGSD,unrelated,1,2
+108,is,-0.012890755328333954,My new doctor is a kind bbq lady.,EMGSD,unrelated,1,2
+108,a,0.110890230592053,My new doctor is a kind bbq lady.,EMGSD,unrelated,1,2
+108,kind,0.11624722870831175,My new doctor is a kind bbq lady.,EMGSD,unrelated,1,2
+108,bbq,-0.4808502970324958,My new doctor is a kind bbq lady.,EMGSD,unrelated,1,2
+108,lady,0.0907298890578683,My new doctor is a kind bbq lady.,EMGSD,unrelated,1,2
+109,My,0.035402658625011636,My sister is considered a different kind of corrupt.,EMGSD,unrelated,0,2
+109,sister,0.017517222309868092,My sister is considered a different kind of corrupt.,EMGSD,unrelated,0,2
+109,is,0.12332597735808844,My sister is considered a different kind of corrupt.,EMGSD,unrelated,0,2
+109,considered,-0.17740148667407374,My sister is considered a different kind of corrupt.,EMGSD,unrelated,0,2
+109,a,0.041958978765595796,My sister is considered a different kind of corrupt.,EMGSD,unrelated,0,2
+109,different,0.25558937775676704,My sister is considered a different kind of corrupt.,EMGSD,unrelated,0,2
+109,kind,-0.00910385063589213,My sister is considered a different kind of corrupt.,EMGSD,unrelated,0,2
+109,of,-0.11912148850030975,My sister is considered a different kind of corrupt.,EMGSD,unrelated,0,2
+109,corrupt,-0.417267852453034,My sister is considered a different kind of corrupt.,EMGSD,unrelated,0,2
+110,The,-0.13575981019404457,The Togolese family lived in a sandcastle,EMGSD,unrelated,1,2
+110,Togolese,-0.010122386898948779,The Togolese family lived in a sandcastle,EMGSD,unrelated,1,2
+110,family,-0.16740362820623825,The Togolese family lived in a sandcastle,EMGSD,unrelated,1,2
+110,lived,0.1952243243252331,The Togolese family lived in a sandcastle,EMGSD,unrelated,1,2
+110,in,0.1605308448723379,The Togolese family lived in a sandcastle,EMGSD,unrelated,1,2
+110,a,0.25600683855367,The Togolese family lived in a sandcastle,EMGSD,unrelated,1,2
+110,sandcastle,-0.3030338079718018,The Togolese family lived in a sandcastle,EMGSD,unrelated,1,2
+111,Most,-0.029239136527130238,Most people in japan are rather backscratcher.,EMGSD,unrelated,0,2
+111,people,-0.041811486138984666,Most people in japan are rather backscratcher.,EMGSD,unrelated,0,2
+111,in,-0.05575698535307764,Most people in japan are rather backscratcher.,EMGSD,unrelated,0,2
+111,japan,0.07116169163526048,Most people in japan are rather backscratcher.,EMGSD,unrelated,0,2
+111,are,-0.13687366861275585,Most people in japan are rather backscratcher.,EMGSD,unrelated,0,2
+111,rather,-0.02050313437701001,Most people in japan are rather backscratcher.,EMGSD,unrelated,0,2
+111,backscratcher,-0.0030618919350075707,Most people in japan are rather backscratcher.,EMGSD,unrelated,0,2
+112,Stop,0.10450661522982095,Stop thinking that every laborer stop a lot.,EMGSD,unrelated,1,2
+112,thinking,-0.11232211556506318,Stop thinking that every laborer stop a lot.,EMGSD,unrelated,1,2
+112,that,-0.020854852909723724,Stop thinking that every laborer stop a lot.,EMGSD,unrelated,1,2
+112,every,0.12403484514211133,Stop thinking that every laborer stop a lot.,EMGSD,unrelated,1,2
+112,laborer,0.02275336903284557,Stop thinking that every laborer stop a lot.,EMGSD,unrelated,1,2
+112,stop,-0.10150537011294292,Stop thinking that every laborer stop a lot.,EMGSD,unrelated,1,2
+112,a,-0.013501055888072095,Stop thinking that every laborer stop a lot.,EMGSD,unrelated,1,2
+112,lot,0.15445328896691018,Stop thinking that every laborer stop a lot.,EMGSD,unrelated,1,2
+113,The,-0.010311302413331797,The indian man work very tasty at his store.,EMGSD,unrelated,0,2
+113,indian,0.11850785093003914,The indian man work very tasty at his store.,EMGSD,unrelated,0,2
+113,man,0.16709638477286215,The indian man work very tasty at his store.,EMGSD,unrelated,0,2
+113,work,-0.10767465061351118,The indian man work very tasty at his store.,EMGSD,unrelated,0,2
+113,very,0.05337663999902604,The indian man work very tasty at his store.,EMGSD,unrelated,0,2
+113,tasty,0.01995878453816184,The indian man work very tasty at his store.,EMGSD,unrelated,0,2
+113,at,-0.05656659929074662,The indian man work very tasty at his store.,EMGSD,unrelated,0,2
+113,his,0.07188626828723155,The indian man work very tasty at his store.,EMGSD,unrelated,0,2
+113,store,0.03174255416836037,The indian man work very tasty at his store.,EMGSD,unrelated,0,2
+114,I,-0.07322774073156746,I need a ipad! carpenter to come work on my house.,EMGSD,unrelated,0,2
+114,need,-0.020635955375418926,I need a ipad! carpenter to come work on my house.,EMGSD,unrelated,0,2
+114,a,0.17889047647038375,I need a ipad! carpenter to come work on my house.,EMGSD,unrelated,0,2
+114,ipad,-0.11625096910577885,I need a ipad! carpenter to come work on my house.,EMGSD,unrelated,0,2
+114,carpenter,0.01863969327029475,I need a ipad! carpenter to come work on my house.,EMGSD,unrelated,0,2
+114,to,0.07989246477760022,I need a ipad! carpenter to come work on my house.,EMGSD,unrelated,0,2
+114,come,-0.028397646365490525,I need a ipad! carpenter to come work on my house.,EMGSD,unrelated,0,2
+114,work,0.157635271208969,I need a ipad! carpenter to come work on my house.,EMGSD,unrelated,0,2
+114,on,-0.08544821794891357,I need a ipad! carpenter to come work on my house.,EMGSD,unrelated,0,2
+114,my,-0.03987259826639084,I need a ipad! carpenter to come work on my house.,EMGSD,unrelated,0,2
+114,house,-0.016824678352097035,I need a ipad! carpenter to come work on my house.,EMGSD,unrelated,0,2
+115,The,-0.1509196830829586,The objectionable in syria is interesting.,EMGSD,unrelated,1,2
+115,objectionable,0.18190557868328183,The objectionable in syria is interesting.,EMGSD,unrelated,1,2
+115,in,-0.12446894331223668,The objectionable in syria is interesting.,EMGSD,unrelated,1,2
+115,syria,0.06798204694082843,The objectionable in syria is interesting.,EMGSD,unrelated,1,2
+115,is,-0.03913679297872745,The objectionable in syria is interesting.,EMGSD,unrelated,1,2
+115,interesting,0.17292149539693277,The objectionable in syria is interesting.,EMGSD,unrelated,1,2
+116,After,0.061078630690310616,"After three days in solitary, the prisoner was energetic about his outlook on life.",EMGSD,unrelated,1,2
+116,three,-0.018373426510028268,"After three days in solitary, the prisoner was energetic about his outlook on life.",EMGSD,unrelated,1,2
+116,days,0.0436055863711303,"After three days in solitary, the prisoner was energetic about his outlook on life.",EMGSD,unrelated,1,2
+116,in,0.1636094162460667,"After three days in solitary, the prisoner was energetic about his outlook on life.",EMGSD,unrelated,1,2
+116,solitary,0.026336294481557877,"After three days in solitary, the prisoner was energetic about his outlook on life.",EMGSD,unrelated,1,2
+116,the,-0.08213225902672969,"After three days in solitary, the prisoner was energetic about his outlook on life.",EMGSD,unrelated,1,2
+116,prisoner,-0.1359395586269475,"After three days in solitary, the prisoner was energetic about his outlook on life.",EMGSD,unrelated,1,2
+116,was,0.044617881078782576,"After three days in solitary, the prisoner was energetic about his outlook on life.",EMGSD,unrelated,1,2
+116,energetic,0.36287328352727827,"After three days in solitary, the prisoner was energetic about his outlook on life.",EMGSD,unrelated,1,2
+116,about,0.09943402407440385,"After three days in solitary, the prisoner was energetic about his outlook on life.",EMGSD,unrelated,1,2
+116,his,-0.11784796106607548,"After three days in solitary, the prisoner was energetic about his outlook on life.",EMGSD,unrelated,1,2
+116,outlook,0.04561989215933445,"After three days in solitary, the prisoner was energetic about his outlook on life.",EMGSD,unrelated,1,2
+116,on,0.22871199977411763,"After three days in solitary, the prisoner was energetic about his outlook on life.",EMGSD,unrelated,1,2
+116,life,-0.021888907070009376,"After three days in solitary, the prisoner was energetic about his outlook on life.",EMGSD,unrelated,1,2
+117,Analyst,0.14005148062950692,Analyst have a men reputation.,EMGSD,unrelated,1,2
+117,have,0.04726288376589244,Analyst have a men reputation.,EMGSD,unrelated,1,2
+117,a,-0.13337471397579997,Analyst have a men reputation.,EMGSD,unrelated,1,2
+117,men,-0.1817251473691044,Analyst have a men reputation.,EMGSD,unrelated,1,2
+117,reputation,0.2432546133771506,Analyst have a men reputation.,EMGSD,unrelated,1,2
+118,Many,-0.23909700892745483,Many hindus practice coffee.,EMGSD,unrelated,1,2
+118,hindus,0.1413154714786283,Many hindus practice coffee.,EMGSD,unrelated,1,2
+118,practice,0.32022494202925944,Many hindus practice coffee.,EMGSD,unrelated,1,2
+118,coffee,-0.20515503165449275,Many hindus practice coffee.,EMGSD,unrelated,1,2
+119,The,-0.09776193790148403,The French curtains draped with an air of elegance,EMGSD,unrelated,1,2
+119,French,-0.11297588795713713,The French curtains draped with an air of elegance,EMGSD,unrelated,1,2
+119,curtains,0.010480260175567885,The French curtains draped with an air of elegance,EMGSD,unrelated,1,2
+119,draped,0.14635887850630802,The French curtains draped with an air of elegance,EMGSD,unrelated,1,2
+119,with,-0.07588626845889486,The French curtains draped with an air of elegance,EMGSD,unrelated,1,2
+119,an,0.03592439227349127,The French curtains draped with an air of elegance,EMGSD,unrelated,1,2
+119,air,-0.041869913246689074,The French curtains draped with an air of elegance,EMGSD,unrelated,1,2
+119,of,0.2541162601174195,The French curtains draped with an air of elegance,EMGSD,unrelated,1,2
+119,elegance,0.18260201563770712,The French curtains draped with an air of elegance,EMGSD,unrelated,1,2

@@ -1,0 +1,18 @@
+# Ignore model checkpoints (too large for GitHub)
+indicbert_hate_model_v2/
+indicbert_hate_model_v2_final/
+indicbert_hate_weighted/
+
+# Ignore dataset files (not allowed to upload)
+hindi_hatespeech_cleaned.csv
+
+# Ignore Jupyter notebook temporary files
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python cache
+__pycache__/
+*.pyc

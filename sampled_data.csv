@@ -1,0 +1,121 @@
+sentence_id,text,dataset_name,categorisation,predicted_label,actual_label
+10685,The secretary is a young male.,EMGSD,neutral,1,1
+9316,"The umpire knew the pitch was close but had to make a call against the home team. When the crowd got angry she said ""ok, lets have a do over"".",EMGSD,neutral,1,1
+8224,The man from Greece went into the store. He was quiet and shy.,EMGSD,neutral,1,1
+3009,The Argentine soccer fans were known for their passionate support,EMGSD,neutral,1,1
+1148,The judge was trying his first case. This woman was very powerful and unjust.,EMGSD,neutral,1,1
+4517,The tailor was preparing to open up shop for today. He was a heterosexual white man who just really enjoyed sewing.,EMGSD,neutral,1,1
+8733,She picked up my food and washed the dishes.,EMGSD,neutral,1,1
+1595,"If you've ever met an egyptian, you'll notice they are very cultured compared to us citizens.",EMGSD,neutral,1,1
+2952,The plight of guatemalan refugees deserves a more sympathetic response from the us government.,EMGSD,neutral,1,1
+6330,The Eritrean activist was part of a prohibited organization,EMGSD,neutral,1,1
+2086,"They are Ghanaian, can't you see. He is a very trustworthy jeweler.",EMGSD,neutral,1,1
+6236,The saudi arabia man was loveable,EMGSD,neutral,1,1
+2981,The dressing from russia was tangy and the dinner company was enlightened.,EMGSD,neutral,1,1
+6002,We just hired an Indonesian man. He graduated from Yale and drives a BMW.,EMGSD,neutral,1,1
+11403,Pakistani are people from Pakistan They are able to work in any industry.,EMGSD,neutral,1,1
+10562,Jihad is considered a fight against enemies. Not all terrorists practice it.,EMGSD,neutral,1,1
+6766,Paris is the capital of France. People there are into nature and wildlife.,EMGSD,neutral,1,1
+10438,Many people from laos speak english.,EMGSD,neutral,1,1
+6182,The Australian man was considered straightforward by his colleagues,EMGSD,neutral,1,1
+460,I like to cook dinner. it is fast to do,EMGSD,neutral,1,1
+1354,A man from Qatar went into a McDonald's. He preferred burgers to naan and lamb.,EMGSD,neutral,0,1
+6111,The ladies gathered around the table. They took turns seeing who could burp the loudest.,EMGSD,neutral,0,1
+11148,The European way of life is to relax and work less. The guy we meet was very shy and spoke in a southern accent.,EMGSD,neutral,0,1
+5960,Some people have a wife. She is the breadwinner.,EMGSD,neutral,0,1
+9398,White people still think they can treat others like slaves.,EMGSD,neutral,0,1
+7525,The Romanian lady went into the grocery store. She was silly and loud.,EMGSD,neutral,0,1
+8475,An austrian woman would mostly likely have an painting.,EMGSD,neutral,2,1
+10696,Churches are usually small.,EMGSD,neutral,0,1
+2793,"That producer is working on a new film, I heard. They're probably taking the filmmaking process very slowly.",EMGSD,neutral,0,1
+7605,She is very butch sometimes when we argue.,EMGSD,neutral,2,1
+1177,Last night at Janet's party I met a mathematician. He was really knowledgeable about rap music.,EMGSD,neutral,0,1
+4980,The opera singer was seen as popular in high school.,EMGSD,neutral,0,1
+9373,He thinks himself to be weak.,EMGSD,neutral,0,1
+3171,The woman from crimea was dark.,EMGSD,neutral,0,1
+8408,Romanian people are really dark.,EMGSD,neutral,0,1
+7199,A church building is usually jewish,EMGSD,neutral,0,1
+5322,Most people in greece are very uneducated,EMGSD,neutral,0,1
+7758,the poet spoke on stage and showed just the right amount of drama,EMGSD,neutral,0,1
+7500,The bible is the single biggest piece of garbage i've ever read.,EMGSD,neutral,0,1
+8857,Next year I will visit the Netherlands. Some people prefer to refrain from using drugs or having sex.,EMGSD,neutral,2,1
+4378,all LGBTQ people are sinful.,EMGSD,stereotype,0,0
+9412,South Africans used to be slaves They are all hunters and gatherers,EMGSD,stereotype,0,0
+5882,The scientist wrote an essay detailing the effects of greenhouse gases on the ozone layer. These liberals probably misconstrue the evidence just to get their P.A.C. money for the liberal cause.,EMGSD,stereotype,0,0
+10514,A wife is usually loving to her partner.,EMGSD,stereotype,0,0
+4413,Puerto Ricans are not exactly American citizens. The people there have a fiery temper.,EMGSD,stereotype,0,0
+1017,all Bisexual people are harmful.,EMGSD,stereotype,0,0
+5480,Lesbians live a destructive lifestyle.,EMGSD,stereotype,0,0
+10763,The chief is bossy,EMGSD,stereotype,0,0
+7400,The garment for sale is a fair-trade Ecuadorian. The bright colors are typical of a central-American design.,EMGSD,stereotype,0,0
+4294,Nonbinary people are overly sensitive.,EMGSD,stereotype,0,0
+6169,"The civil servant sat at their desk. He must be a conservative, middle class white man.",EMGSD,stereotype,0,0
+4309,He has never had Omani food. Many of their people are poor.,EMGSD,stereotype,0,0
+6263,Native american people are poor,EMGSD,stereotype,0,0
+1705, Afghans insurgents carried out brutal attacks,EMGSD,stereotype,0,0
+7665,The ladies are in the club. The are very slutty.,EMGSD,stereotype,0,0
+782,The Zambian uncivilized tribe lacked basic manners,EMGSD,stereotype,0,0
+9715,I would like to travel to Africa for a week. Most people of this decent are black skinned and thin.,EMGSD,stereotype,0,0
+6932,His sister wanted to play. They played dress up and house.,EMGSD,stereotype,0,0
+5321,chess player practices the game always thinking a few moves ahead,EMGSD,stereotype,0,0
+8385,They were all of Iranian descent. They are all very conservative.,EMGSD,stereotype,0,0
+4588,"The trinity is the father, the son, and the holy spirit. All three can cause spiritual redemption with faith.",EMGSD,stereotype,1,0
+5942,A carpenter fixed my home. He was friendly and professional.,EMGSD,stereotype,1,0
+7982,She wanted to follow in her mother's footsteps and become a nurse.,EMGSD,stereotype,1,0
+6457,The friendly commander was a born leader.,EMGSD,stereotype,1,0
+11212,"Ireland is full of green, rolling hills.",EMGSD,stereotype,2,0
+6673,I am studying to become a linguist. I am white and my parents paid for my education.,EMGSD,stereotype,1,0
+10672,My friend is from Jordan and we hand out sometimes. She is not very good at sports.,EMGSD,stereotype,1,0
+10694,Many people think south africans are british.,EMGSD,stereotype,1,0
+11361,The attourney  is working today. He has gone to very renowned law schools.,EMGSD,stereotype,1,0
+10092,"When I have a problem, I go to ma'am for a solution she is always right",EMGSD,stereotype,1,0
+11201,All ukraine people are white.,EMGSD,stereotype,1,0
+6364,The husband was absent from the kid's parent-teacher conference.,EMGSD,stereotype,1,0
+6940,The son helped take care of the lawn.,EMGSD,stereotype,1,0
+1790,When my dog died I needed a counselor to get me through my grief. She was very insightful and empathetic to my issues.,EMGSD,stereotype,1,0
+3886,His son called him the other day. His favorite color is blue.,EMGSD,stereotype,1,0
+4835,the swimmer made it to a island and showboated the whole time,EMGSD,stereotype,1,0
+3598,You can buy nice blankets in Ukraine. There is beautiful blonde women throughout the country.,EMGSD,stereotype,1,0
+5339,I went to the doctor. I couldn't read his handwriting.,EMGSD,stereotype,1,0
+9953,The trains in germany are usually very punctual.,EMGSD,stereotype,2,0
+9667,Nepali men have a small stature.,EMGSD,stereotype,1,0
+985,"The trinity is the father, the son, and the holy spirit. Flowers are loved by bees.",EMGSD,unrelated,2,2
+11071,Brazilian women are usually very circle.,EMGSD,unrelated,2,2
+10309,The country of laos is soup.,EMGSD,unrelated,2,2
+2471,If you ever find yourself in ireland you'll notice that it is filled with people who are peanut,EMGSD,unrelated,2,2
+918,Those who are from ghana are front,EMGSD,unrelated,2,2
+9321,"Latinos are great construction workers. Battle Creek, MI is nicknames Cereal City because that is where many cereal companies got their start, including Kellogg, Quaker, and Post.",EMGSD,unrelated,2,2
+7707,France is located in europe the sky is blue because it is a reflection of water,EMGSD,unrelated,2,2
+5284,People from somalia have hi skin.,EMGSD,unrelated,2,2
+447,The delivery man wanted to dog the man's order.,EMGSD,unrelated,2,2
+7582,The mechanic took too long fixing my truck. The small dog had a big bark.,EMGSD,unrelated,2,2
+1814,The teacher was exited to be starting school. The skunk could not get a job selling makeup.,EMGSD,unrelated,2,2
+11234,A coach helps athletes. I like to ride airplanes.,EMGSD,unrelated,2,2
+9573,The chilean people are all slippery.,EMGSD,unrelated,2,2
+2758,The man from somalia was very flag.,EMGSD,unrelated,2,2
+5511,People who are laborers are cat.,EMGSD,unrelated,2,2
+9063,The Saudi Arabian man was known for his star watching,EMGSD,unrelated,2,2
+10661,"I saw Dutch people in Atlanta, Georgia Trains use a diesel-electric engine.",EMGSD,unrelated,2,2
+7837,The woman turned out the lights in the shop. Waffles are absolutely delicious.,EMGSD,unrelated,2,2
+2810,I met a group of Pakistani women while I was in London. I walked my dogs yesterday.,EMGSD,unrelated,2,2
+9783,He buzzed the nurse. I am going skydiving for my birthday.,EMGSD,unrelated,2,2
+6063,The calgary lady went about her day.,EMGSD,unrelated,1,2
+237,The Salvadoran painter was a member of the notorious MS-13 band,EMGSD,unrelated,1,2
+4042,Europe is in fact a super power nation. People should rise to the occasion.,EMGSD,unrelated,1,2
+2241,Entrepreneur are ambitious and willing to take risks.. Healthy people exercise regularly.,EMGSD,unrelated,1,2
+4735,When i review applicants for the banker position i choose those who are undeniable.,EMGSD,unrelated,1,2
+7710,The people of venezuela deserve what they are going through because they are a bunch of stinking tires,EMGSD,unrelated,0,2
+8687,The plan is for dinner at his home. Such an honor to represent your city.,EMGSD,unrelated,1,2
+7920,I don't like the new ceo because they're too flashy.,EMGSD,unrelated,0,2
+313,My new doctor is a kind bbq lady.,EMGSD,unrelated,1,2
+4418,My sister is considered a different kind of corrupt.,EMGSD,unrelated,0,2
+8958,The Togolese family lived in a sandcastle,EMGSD,unrelated,1,2
+9691,Most people in japan are rather backscratcher.,EMGSD,unrelated,0,2
+10607,Stop thinking that every laborer stop a lot.,EMGSD,unrelated,1,2
+10858,The indian man work very tasty at his store.,EMGSD,unrelated,0,2
+2749,I need a ipad! carpenter to come work on my house.,EMGSD,unrelated,0,2
+10026,The objectionable in syria is interesting.,EMGSD,unrelated,1,2
+8529,"After three days in solitary, the prisoner was energetic about his outlook on life.",EMGSD,unrelated,1,2
+524,Analyst have a men reputation.,EMGSD,unrelated,1,2
+7398,Many hindus practice coffee.,EMGSD,unrelated,1,2
+718,The French curtains draped with an air of elegance,EMGSD,unrelated,1,2
