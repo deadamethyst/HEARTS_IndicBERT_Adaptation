@@ -11,25 +11,25 @@ and generation of all figures used in the accompanying research poster. The proj
 
 ### Core Notebooks
 
-Replicating_HEARTS_Model.ipynb
+Replicating_HEARTS_Model.ipynb:
     Reproduces the HEARTS baseline model. King et al. (2024) used ALBERT.
 
-Replicating_HEARTS_Explainability.ipynb
+Replicating_HEARTS_Explainability.ipynb:
     Replicates the explainability analysis from the HEARTS framework (King et al.,2024)using SHAP.
     
-Exploratory_data_analysis_HateDay.ipynb
+Exploratory_data_analysis_HateDay.ipynb:
     Analysis of class imbalance, label distribution, token characteristics, and word clouds for hate, non_hate speech.
 
-Data_Preparation_HateDay.ipynb
+Data_Preparation_HateDay.ipynb:
     Preprocessing pipeline for HateDay, including cleaning the dataset for model training.
 
-IndicBERT_Model_Training.ipynb
+IndicBERT_Model_Training.ipynb:
     Training pipeline for IndicBERT with class weights and a learning‑rate scheduler.
 
 IndicBERT_Model_Explainability.ipynb
     SHAP and LIME explanations for correct and incorrect predictions.
 
-Generating_SHAP_LIME_Plots.ipynb
+Generating_SHAP_LIME_Plots.ipynb:
     Produces global heatmaps and example‑level explanation plots used in the poster.
 
 ### Additional Files  
@@ -121,20 +121,14 @@ For real world deployment, model explicability could benefit from policy discuss
 
 ---
 
-## Citations
+## Refrerences
 
 
-    King, T., Wu, Z., Koshiyama, A., Kazim, E., & Treleaven, P. (2024).
-HEARTS: A holistic framework for explainable, sustainable and robust text stereotype detection. 
-arXiv. https://arxiv.org/abs/2409.11579
+    King, T., Wu, Z., Koshiyama, A., Kazim, E., & Treleaven, P. (2024).HEARTS: A holistic framework for explainable, sustainable and robust text stereotype detection. arXiv. https://arxiv.org/abs/2409.11579
     
-    Tonneau, M., Liu, D., Malhotra, N., Hale, S. A., Fraiberger, S. P., Orozco-Olvera, V., & Röttger, P. (2025).
-HateDay: Insights from a global hate speech dataset representative of a day on Twitter. 
-arXiv. https://arxiv.org/abs/2411.15462
+    Tonneau, M., Liu, D., Malhotra, N., Hale, S. A., Fraiberger, S. P., Orozco-Olvera, V., & Röttger, P. (2025).HateDay: Insights from a global hate speech dataset representative of a day on Twitter. arXiv. https://arxiv.org/abs/2411.15462
 
-    Kakwani, D., Kunchukuttan, A., Golla, S., N. C., G., Bhattacharyya, A., Khapra, M. M., & Kumar, P. (2020). 
-IndicNLPSuite: Monolingual corpora, evaluation benchmarks and pre-trained multilingual language models for Indian languages. 
-In Findings of the Association for Computational Linguistics: EMNLP 2020.
+    Kakwani, D., Kunchukuttan, A., Golla, S., N. C., G., Bhattacharyya, A., Khapra, M. M., & Kumar, P. (2020). IndicNLPSuite: Monolingual corpora, evaluation benchmarks and pre-trained multilingual language models for Indian languages. In Findings of the Association for Computational Linguistics: EMNLP 2020.
 
 
 ---
