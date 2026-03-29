@@ -1,11 +1,30 @@
 
 # Deploying the HEARTS framework to aid model explicability for hate speech detection in the context of morphologically rich languages like Hindi
 
-This repository contains the full workflow for applying the HEARTS explainability framework to the HateDay Hindi hate‑speech dataset using the IndicBERT model. 
-I have included exploratory data analysis, dataset preparation, model training, model explainability using SHAP and LIME, replication of the HEARTS baseline, 
-and generation of all figures used in the accompanying research poster. The project was undertaken as part of coursework for MSc AI for Sustainable Development at UCL.
+## Introduction
+
+This repository explores the application of the HEARTS explainability framework to Hindi hate speech detection using IndicBERT. While HEARTS provides a structured approach for evaluating stereotype detection systems, it has primarily been developed and validated in high-resource language settings.
+
+This project examines whether these evaluation assumptions transfer to a morphologically rich, low-resource context by combining baseline replication, model training, and explainability analysis using SHAP and LIME.
+
+The findings highlight practical challenges in translating abstract explainability frameworks into reliable and measurable system behaviour in multilingual settings.
 
 ---
+
+## Research Quesiton
+
+Can the HEARTS framework (King et al., 2024) be reliably operationalised for hate speech detection in a morphologically rich, low-resource language such as Hindi, and do its evaluation assumptions remain valid in this setting?
+
+## Methodology 
+
+The project follows a structured pipeline to test the applicability of the HEARTS framework (King et al., 2024) in a new linguistic setting:
+
+Replication of the HEARTS baseline model (ALBERT-based)
+Training a Hindi hate speech classifier using IndicBERT
+Application of explainability methods (SHAP, LIME) to analyse model behaviour
+Comparative analysis of predictions across correct and misclassified examples
+
+This setup enables evaluation of both model performance and the reliability of interpretability signals in a low-resource context.
 
 ## Repository Structure
 
@@ -47,6 +66,33 @@ hate_wordcloud.png, nonhate_wordcloud.png
 
 hindi_hatespeech_cleaned.csv, sampled_data.csv
     Preprocessed datasets used locally.
+
+---
+
+## Explainability Approach
+
+The project applies two complementary explainability methods:
+
+SHAP: Global and local token-level attribution
+LIME: Local perturbation-based explanations
+
+These methods are used to analyse both correct and misclassified predictions, enabling comparison between expected and observed model behaviour.
+
+---
+## Key Findings
+
+- The HEARTS framework can be partially reproduced in a Hindi context, but its evaluation assumptions do not fully transfer.
+- Explainability methods (SHAP, LIME) indicate that the model often relies on identity markers rather than contextual understanding.
+- Dataset limitations (size, diversity, and potential labelling bias) make evaluation signals unreliable.
+- This creates ambiguity: it becomes unclear whether observed behaviour reflects genuine model limitations or insufficient measurement.
+
+---
+
+## Interpretation
+
+These results suggest that evaluation and explainability frameworks depend heavily on the availability of reliable data and context-aware signals. In low-resource settings, both datasets and metrics may fail to capture the underlying behaviour of the model, limiting the interpretability of results.
+
+This raises a broader concern: evaluation pipelines may give a misleading impression of model reliability when applied outside the conditions in which they were originally developed.
 
 ---
 
@@ -95,29 +141,17 @@ All code cells are documented and reproducible, with fixed seeds where appropria
 
 ---
 
-## Explainability Approach
+## Broader Implications
 
-The project applies two complementary explainability methods, following the HEARTS framework(King et al., 2024):
+This work connects to SDG 16 (Peace, Justice, and Strong Institutions), with additional relevance to SDGs 5, 10, and 9.
 
-SHAP: Global and local token‑importance attribution.
-LIME: Local perturbation‑based explanations of individual predictions.
+The findings highlight the need for:
 
-Comparative plots are used to demonstrate how the model behaves on correct and misclassified examples. I found the model to be reliant on identity markers, somewhat failing to capture contextual cues in Hindi. This maybe due to the lack of diversity of data, limited number of samples in the training dataset, and possible labelling bias in the training dataset.
+improved dataset diversity and annotation practices
+context-aware explainability methods
+clearer evaluation standards for deployment in multilingual settings
 
-
----
-
-## Critical Reflection on SDGs
-
-This work connects to several Sustainable Development Goals:
-
-Primarly, it can potentially contribite to SDG 16 (Peace, Justice, and Strong Institutions)
-It can also be mapped to SDG 5 (Gender Equality), SDG 10 (Reduced Inequalities), and SDG 9 (Industry, Innovation and Infrastructure).
-
-I recommend participatory inclusion of stakeholders in data collection, annotation, and validation to overcome the challenges identified here.
-In addition, Hindi hate speech detection models could benefit from more lexically aware XAI methods. 
-For real world deployment, model explicability could benefit from policy discussions on data rights, and responsible inference. To an extent, this could ensure safe digital inclusion for disadvantaged sections of society, fostering SDG 5, 10. 16, and SDG 9. 
-
+More broadly, the project suggests that responsible deployment requires not only better models, but also more robust and context-sensitive evaluation frameworks.
 
 ---
 
