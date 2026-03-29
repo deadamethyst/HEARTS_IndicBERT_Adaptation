@@ -11,18 +11,18 @@ The findings highlight practical challenges in translating abstract explainabili
 
 ---
 
-## Research Quesiton
+## Research Question
 
 Can the HEARTS framework (King et al., 2024) be reliably operationalised for hate speech detection in a morphologically rich, low-resource language such as Hindi, and do its evaluation assumptions remain valid in this setting?
 
 ## Methodology 
 
-The project follows a structured pipeline to test the applicability of the HEARTS framework (King et al., 2024) in a new linguistic setting:
+The project follows a structured pipeline:
 
-Replication of the HEARTS baseline model (ALBERT-based)
-Training a Hindi hate speech classifier using IndicBERT
-Application of explainability methods (SHAP, LIME) to analyse model behaviour
-Comparative analysis of predictions across correct and misclassified examples
+- Replication of the HEARTS baseline model (ALBERT-based)  
+- Training a Hindi hate speech classifier using IndicBERT  
+- Application of explainability methods (SHAP, LIME)  
+- Comparative analysis across correct and misclassified predictions  
 
 This setup enables evaluation of both model performance and the reliability of interpretability signals in a low-resource context.
 
@@ -73,8 +73,8 @@ hindi_hatespeech_cleaned.csv, sampled_data.csv
 
 The project applies two complementary explainability methods:
 
-SHAP: Global and local token-level attribution
-LIME: Local perturbation-based explanations
+- **SHAP**: Global and local token-level attribution  
+- **LIME**: Local perturbation-based explanations  
 
 These methods are used to analyse both correct and misclassified predictions, enabling comparison between expected and observed model behaviour.
 
@@ -84,15 +84,15 @@ These methods are used to analyse both correct and misclassified predictions, en
 - The HEARTS framework can be partially reproduced in a Hindi context, but its evaluation assumptions do not fully transfer.
 - Explainability methods (SHAP, LIME) indicate that the model often relies on identity markers rather than contextual understanding.
 - Dataset limitations (size, diversity, and potential labelling bias) make evaluation signals unreliable.
-- This creates ambiguity: it becomes unclear whether observed behaviour reflects genuine model limitations or insufficient measurement.
-
+- This creates ambiguity: it remains unclear whether observed behaviour reflects genuine model limitations or insufficient measurement.
+  
 ---
 
 ## Interpretation
 
 These results suggest that evaluation and explainability frameworks depend heavily on the availability of reliable data and context-aware signals. In low-resource settings, both datasets and metrics may fail to capture the underlying behaviour of the model, limiting the interpretability of results.
 
-This raises a broader concern: evaluation pipelines may give a misleading impression of model reliability when applied outside the conditions in which they were originally developed.
+This raises a broader concern: evaluation pipelines may give a misleading impression of model reliability when applied outside the conditions in which they were originally developed. In conclusion, these findings suggest that evaluation frameworks may not generalise reliably across linguistic and data-constrained settings.
 
 ---
 
@@ -120,7 +120,7 @@ To obtain the dataset:
 
 data/hateday.csv
 
-A Hindi stopword list used during preprocessing is sourced from(publically available):
+A Hindi stopword list used during preprocessing is sourced from (publicly available):
 https://www.kaggle.com/datasets/rsrishav/wordcloud-hindi-font
 
 ---
@@ -147,15 +147,15 @@ This work connects to SDG 16 (Peace, Justice, and Strong Institutions), with add
 
 The findings highlight the need for:
 
-improved dataset diversity and annotation practices
-context-aware explainability methods
-clearer evaluation standards for deployment in multilingual settings
+- improved dataset diversity and annotation practices  
+- context-aware explainability methods  
+- clearer evaluation standards for deployment in multilingual settings  
 
 More broadly, the project suggests that responsible deployment requires not only better models, but also more robust and context-sensitive evaluation frameworks.
 
 ---
 
-## Refrerences
+## References
 
 
     King, T., Wu, Z., Koshiyama, A., Kazim, E., & Treleaven, P. (2024).HEARTS: A holistic framework for explainable, sustainable and robust text stereotype detection. arXiv. https://arxiv.org/abs/2409.11579
